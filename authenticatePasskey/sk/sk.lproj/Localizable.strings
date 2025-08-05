@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Pokračovať";
+"authenticatePasskey_attempts_error_subtitle" = "Už sa nemôžete overiť pomocou prístupového kľúča.";
+"authenticatePasskey_attempts_error_title" = "Bol prekročený povolený počet pokusov";
+"authenticatePasskey_error_button_retry" = "Skúsiť znova";
+"authenticatePasskey_error_subtitle" = "Vyskytol sa neznámy technický problém, skúste to znova.";
+"authenticatePasskey_error_title" = "Niečo sa pokazilo";
+"authenticatePasskey_introduction_bullet_1" = "V minulosti ste si u nás museli vytvoriť prístupový kľúč.";
+"authenticatePasskey_introduction_bullet_2" = "Vaše zariadenie vás prevedie ďalšími krokmi.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Overiť";
+"authenticatePasskey_introduction_subtitle" = "Prístupové kľúče vám umožňujú bezpečne sa prihlásiť pomocou odtlačku prsta, tváre alebo zámku obrazovky zariadenia.";
+"authenticatePasskey_introduction_title" = "Overte sa pomocou svojho Passkey";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Pokračovať";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "Nemáte k dispozícii žiadny prístupový kľúč na overenie.";
+"authenticatePasskey_no_passkey_available_error_title" = "Nie je k dispozícii žiadny prístupový kľúč";
+"authenticatePasskey_not_supported_error_button_continue" = "Pokračovať";
+"authenticatePasskey_not_supported_error_subtitle" = "Ľutujeme, túto úlohu nemôžete dokončiť.";
+"authenticatePasskey_not_supported_error_title" = "Zariadenie nepodporuje prístupové kľúče";

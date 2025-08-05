@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "Jätkake";
+"enrollPasskey_attempts_error_subtitle" = "Te ei saa enam autentida võtmekoodi abil.";
+"enrollPasskey_attempts_error_title" = "Lubatud katsete arv on ületatud";
+"enrollPasskey_error_button_retry" = "Proovige uuesti";
+"enrollPasskey_error_subtitle" = "Tekkis tundmatu tehniline probleem, palun proovige uuesti.";
+"enrollPasskey_error_title" = "Midagi läks valesti";
+"enrollPasskey_introduction_bullet_1" = "Seda võtmekoodi kasutatakse domeeni jaoks: ";
+"enrollPasskey_introduction_bullet_2" = "Teie seade juhendab teid järgmistes sammudes.";
+"enrollPasskey_introduction_button_start_enrolling" = "Loo passkey";
+"enrollPasskey_introduction_subtitle" = "Pääsuvõtmed võimaldavad teil turvaliselt sisse logida sõrmejälje, näotuvastuse või seadme ekraaniluku abil.";
+"enrollPasskey_introduction_title" = "Seadistage oma passkey";
+"enrollPasskey_not_supported_error_button_continue" = "Jätkake";
+"enrollPasskey_not_supported_error_subtitle" = "Vabandust, te ei saa seda ülesannet lõpule viia.";
+"enrollPasskey_not_supported_error_title" = "Seade ei toeta pääsuvõtmeid";

@@ -1,0 +1,16 @@
+
+"retry_button_default" = "请重试";
+"retry_button_expired_document" = "请重试";
+"retry_button_generic_document_issue" = "请重试";
+"retry_button_generic_selfie_issue" = "请重试";
+"retry_button_unaccepted_document" = "请重试";
+"retry_description_default" = "请重试";
+"retry_description_expired_document" = "请使用带照片的有效身份证件重试，并确保您的信息清晰可见";
+"retry_description_generic_document_issue" = "请使用带照片的有效身份证件重试，并确保您的信息清晰可见";
+"retry_description_generic_selfie_issue" = "请重试，并确保您的面部清晰且光线充足";
+"retry_description_unaccepted_document" = "请使用带照片的有效身份证件重试，并确保您的信息清晰可见";
+"retry_headline_default" = "出现了一个问题";
+"retry_headline_expired_document" = "您的证明文件已过期";
+"retry_headline_generic_document_issue" = "您的文档出现了问题";
+"retry_headline_generic_selfie_issue" = "您的自拍照出现了问题";
+"retry_headline_unaccepted_document" = "未接受的证明文件";

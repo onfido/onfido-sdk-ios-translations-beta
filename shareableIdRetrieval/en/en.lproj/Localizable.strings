@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Continue";
+"shareableIdRetrieval_intro_error_subtitle" = "You don’t have a recognizable passkey on your device. Please continue to the complete process.";
+"shareableIdRetrieval_intro_error_title" = "No passkey found";
+"shareableIdRetrieval_intro_or" = "OR";
+"shareableIdRetrieval_intro_searching" = "Searching for previous verifications";
+"shareableIdRetrieval_intro_start_idv_action" = "Start identity verification";
+"shareableIdRetrieval_intro_start_idv_description" = "We’ll request some documentation and personal information from you, that can help us know who you say you are.";
+"shareableIdRetrieval_intro_subtitle" = "For security reasons and to protect you from fraud we need to verify your identity.";
+"shareableIdRetrieval_intro_title" = "Verify your identity";
+"shareableIdRetrieval_intro_use_sid_action" = "Use a previous verification";
+"shareableIdRetrieval_intro_use_sid_title" = "You can only reuse a verification that has been successfully completed and saved beforehand.";

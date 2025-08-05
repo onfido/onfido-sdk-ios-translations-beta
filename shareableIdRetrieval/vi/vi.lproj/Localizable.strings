@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Tiếp tục";
+"shareableIdRetrieval_intro_error_subtitle" = "Bạn không có một mã passkey có thể nhận biết trên thiết bị của mình. Vui lòng tiếp tục quá trình hoàn chỉnh.";
+"shareableIdRetrieval_intro_error_title" = "Không tìm thấy khóa truy cập";
+"shareableIdRetrieval_intro_or" = "HOẶC";
+"shareableIdRetrieval_intro_searching" = "Tìm kiếm các lần xác minh trước đó";
+"shareableIdRetrieval_intro_start_idv_action" = "Bắt đầu xác minh danh tính";
+"shareableIdRetrieval_intro_start_idv_description" = "Chúng tôi sẽ yêu cầu một số tài liệu và thông tin cá nhân từ bạn, điều này có thể giúp chúng tôi biết bạn là ai như bạn đã nói.";
+"shareableIdRetrieval_intro_subtitle" = "Vì lý do an ninh và để bảo vệ bạn khỏi gian lận, chúng tôi cần xác minh danh tính của bạn.";
+"shareableIdRetrieval_intro_title" = "Xác minh danh tính của bạn";
+"shareableIdRetrieval_intro_use_sid_action" = "Sử dụng xác minh trước đó";
+"shareableIdRetrieval_intro_use_sid_title" = "Bạn chỉ có thể sử dụng lại một xác minh danh tính đã được hoàn thành thành công và lưu trước đó.";

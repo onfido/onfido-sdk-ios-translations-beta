@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Próbálja újra";
+"retry_button_expired_document" = "Próbálja újra";
+"retry_button_generic_document_issue" = "Próbálja újra";
+"retry_button_generic_selfie_issue" = "Próbálja újra";
+"retry_button_unaccepted_document" = "Próbálja újra";
+"retry_description_default" = "Kérjük, próbálja újra";
+"retry_description_expired_document" = "Próbálkozzon újra érvényes fényképes személyazonosító okmánnyal, és győződjön meg róla, hogy az adatai jól láthatók";
+"retry_description_generic_document_issue" = "Próbálkozzon újra érvényes fényképes személyazonosító okmánnyal, és győződjön meg róla, hogy az adatai jól láthatók";
+"retry_description_generic_selfie_issue" = "Próbálkozzon újra, és ügyeljen, hogy arca látható és jól megvilágított legyen";
+"retry_description_unaccepted_document" = "Próbálkozzon újra érvényes fényképes személyazonosító okmánnyal, és győződjön meg róla, hogy az adatai jól láthatók";
+"retry_headline_default" = "Probléma merült fel";
+"retry_headline_expired_document" = "A dokumentuma lejárt";
+"retry_headline_generic_document_issue" = "Probléma merült fel a dokumentumával";
+"retry_headline_generic_selfie_issue" = "Probléma volt az ön szelfijével";
+"retry_headline_unaccepted_document" = "Nem elfogadott dokumentum";

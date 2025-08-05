@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "서명을 생성하세요";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "당신의 문서를 읽은 후에는 \"문서 서명\" 버튼을 누르세요.";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Onfido가 귀하의 신원을 확인하면, 이 문서에 귀하의 서명이 사용됩니다.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "문서 서명";
+"qualifiedElectronicSignature_confirmation_review_document" = "서명하기 위해 문서를 검토하십시오";
+"qualifiedElectronicSignature_confirmation_step2" = "2 중 2";
+"qualifiedElectronicSignature_confirmation_steps" = "당신의 문서에 서명하세요";
+"qualifiedElectronicSignature_confirmation_subtitle" = "유럽 규정에 따라 본인 확인을 위해 문서에 디지털 서명을 해야 합니다.";
+"qualifiedElectronicSignature_confirmation_title" = "디지털 서명을 생성하고 사용하세요";
+"qualifiedElectronicSignature_error_misconfigured" = "불행히도 오류가 발생했습니다. 지원팀에 연락해 주세요.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "나의 서명 만들기";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "증명서 신청 양식";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "개인정보 보호 공지";
+"qualifiedElectronicSignature_introduction_step1" = "2 중 1";
+"qualifiedElectronicSignature_introduction_subtitle" = "유럽 규정에 따라 본인 확인을 위해 문서에 디지털 서명을 해야 합니다.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "이용 약관";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA는 전자 서명을 확인하는 인증서를 발급하는 신뢰할 수 있는 글로벌 공급자입니다.";
+"qualifiedElectronicSignature_introduction_title" = "디지털 서명을 생성하고 사용하세요";
+"qualifiedElectronicSignature_introduction_validation" = "동의 필요";

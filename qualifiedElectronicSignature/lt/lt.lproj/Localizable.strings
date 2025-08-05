@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Sukurkite savo parašą";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Po to, kai perskaitysite savo dokumentą, paspauskite mygtuką „Pasirašyti dokumentą“.";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Kai Onfido patvirtins jūsų tapatybę, jūsų parašas bus naudojamas šiame dokumente.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Pasirašykite dokumentą";
+"qualifiedElectronicSignature_confirmation_review_document" = "Peržiūrėkite savo dokumentą pasirašymui";
+"qualifiedElectronicSignature_confirmation_step2" = "2 iš 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Pasirašykite savo dokumentą";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Kad patvirtintumėte savo tapatybę pagal Europos taisykles, turite skaitmeniškai pasirašyti dokumentą.";
+"qualifiedElectronicSignature_confirmation_title" = "Sukurkite ir naudokite savo skaitmeninį parašą";
+"qualifiedElectronicSignature_error_misconfigured" = "Deja, įvyko klaida. Prašome susisiekti su savo palaikymu.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Sukurti mano parašą";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Sertifikato paraiškos forma";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Privatumo pranešimas";
+"qualifiedElectronicSignature_introduction_step1" = "1 iš 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "Kad patvirtintumėte savo tapatybę pagal Europos taisykles, turite skaitmeniškai pasirašyti dokumentą.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Naudojimosi sąlygos ir taisyklės";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA yra pasitikimas pasaulinis tiekėjas, kuris išduos sertifikatą, patvirtinantį jūsų elektroninį parašą.";
+"qualifiedElectronicSignature_introduction_title" = "Sukurkite ir naudokite savo skaitmeninį parašą";
+"qualifiedElectronicSignature_introduction_validation" = "Reikalingas sutikimas";

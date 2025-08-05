@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Δημιουργήστε την υπογραφή σας";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Μετά την ανάγνωση του εγγράφου σας, πατήστε το κουμπί \"Υπογραφή εγγράφου\".";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Μόλις η Onfido επιβεβαιώσει την ταυτότητά σας, η υπογραφή σας θα χρησιμοποιηθεί σε αυτό το έγγραφο.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Υπογράψτε το έγγραφο";
+"qualifiedElectronicSignature_confirmation_review_document" = "Επανεξετάστε το έγγραφό σας για να υπογράψετε";
+"qualifiedElectronicSignature_confirmation_step2" = "2 από 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Υπογράψτε το έγγραφό σας";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Για να επιβεβαιώσετε την ταυτότητά σας σύμφωνα με τους ευρωπαϊκούς κανόνες, πρέπει να υπογράψετε ψηφιακά ένα έγγραφο.";
+"qualifiedElectronicSignature_confirmation_title" = "Δημιουργήστε και χρησιμοποιήστε την ψηφιακή σας υπογραφή";
+"qualifiedElectronicSignature_error_misconfigured" = "Δυστυχώς, παρουσιάστηκε ένα σφάλμα. Παρακαλώ επικοινωνήστε με την υποστήριξή σας.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Δημιουργήστε την υπογραφή μου";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Φόρμα αίτησης πιστοποιητικού";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Ειδοποίηση ιδιωτικότητας";
+"qualifiedElectronicSignature_introduction_step1" = "1 από 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "Για να επιβεβαιώσετε την ταυτότητά σας σύμφωνα με τους ευρωπαϊκούς κανόνες, πρέπει να υπογράψετε ψηφιακά ένα έγγραφο.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Όροι και προϋποθέσεις";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Η Namirial SpA είναι ένας έμπιστος παγκόσμιος πάροχος που θα εκδώσει ένα πιστοποιητικό που επικυρώνει την ηλεκτρονική σας υπογραφή.";
+"qualifiedElectronicSignature_introduction_title" = "Δημιουργήστε και χρησιμοποιήστε την ψηφιακή σας υπογραφή";
+"qualifiedElectronicSignature_introduction_validation" = "Απαιτείται συγκατάθεση";

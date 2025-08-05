@@ -1,0 +1,17 @@
+
+"electronicId_qr_code_description" = "Telefonunuzdaki BankID uygulamasını açın ve QR kodu simgesine basın";
+"electronicId_qr_code_error_code_expired" = "QR kodunuzun süresi doldu, lütfen yeni bir tane isteyin";
+"electronicId_qr_code_refresh_cta" = "Yeni bir QR kodu isteyin";
+"electronicId_qr_code_title" = "BankID doğrulaması";
+"electronicId_redirection_cross_device" = "Başka bir cihazı bağlayın";
+"electronicId_redirection_description" = "Mobil telefonunuz veya başka bir cihaz aracılığıyla bağlanabilirsiniz";
+"electronicId_redirection_list_title" = "Bir yöntem seçin";
+"electronicId_redirection_open_in_app" = "Uygulamayı aç";
+"electronicId_redirection_scheme_SwedenBankId_open_in_app" = "BankID uygulamasını açın";
+"electronicId_redirection_title" = "Bağlanma şeklini seçin";
+"electronicId_scheme_form_subtitle" = "Aşağıdaki listeden bir banka seçerek  üzerinden kendinizi doğrulayın";
+"electronicId_scheme_form_title" = " Verification";
+"electronicId_selection_description" = "Kabul edilen yöntemleri görmek için çıkaran ülkeyi seçin";
+"electronicId_selection_list_title" = "Bir yöntem seçin";
+"electronicId_selection_select_label" = "Düzenleyen ülke";
+"electronicId_selection_title" = "Kimliğinizi doğrulayın";

@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "מאשר";
+"consent_button_secondary" = "לא מאשר";
+"consent_loading_error_button_primary" = "טען מחדש את המסך";
+"consent_loading_error_detail" = "ודא שהחיבור שלך יציב ונסה שוב";
+"consent_loading_error_title" = "טעינת התוכן נכשלה";
+"consent_prompt_button_primary" = "כן, אל תאמתו את זהותי";
+"consent_prompt_button_secondary" = "סקירה חוזרת";
+"consent_prompt_no_consent_detail" = "אם לא תאשר את הצהרות הפרטיות ותנאי השירות של Onfido, לא נוכל לאמת את זהותך ותצא משלב זה.";
+"consent_prompt_no_consent_title" = "אתה בטוח?";

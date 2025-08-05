@@ -1,0 +1,16 @@
+
+"retry_button_default" = "再試行";
+"retry_button_expired_document" = "再試行";
+"retry_button_generic_document_issue" = "再試行";
+"retry_button_generic_selfie_issue" = "再試行";
+"retry_button_unaccepted_document" = "再試行";
+"retry_description_default" = "再度お試しください";
+"retry_description_expired_document" = "有効な写真付き身分証明書で再度お試しいただき、情報がはっきりと見えるようにしてください";
+"retry_description_generic_document_issue" = "有効な写真付き身分証明書で再度お試しいただき、情報がはっきりと見えるようにしてください";
+"retry_description_generic_selfie_issue" = "もう一度お試しください。顔が見え、明るい場所にいることを確認してください";
+"retry_description_unaccepted_document" = "有効な写真付き身分証明書で再度お試しいただき、情報がはっきりと見えるようにしてください";
+"retry_headline_default" = "問題が発生しました";
+"retry_headline_expired_document" = "ドキュメントの有効期限が切れています";
+"retry_headline_generic_document_issue" = "あなたのドキュメントに問題がありました";
+"retry_headline_generic_selfie_issue" = "あなたのセルフィーに問題がありました";
+"retry_headline_unaccepted_document" = "受け入れられないドキュメント";

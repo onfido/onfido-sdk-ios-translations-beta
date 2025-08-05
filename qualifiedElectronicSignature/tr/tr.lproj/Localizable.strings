@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "İmzanızı oluşturun";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Belgenizi okuduktan sonra, \"Belgeyi imzala\" düğmesine dokunun.";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Onfido kimliğinizi doğruladığında, imzanız bu belge üzerinde kullanılacak.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Belgeyi imzala";
+"qualifiedElectronicSignature_confirmation_review_document" = "İmzalamak için belgenizi gözden geçirin";
+"qualifiedElectronicSignature_confirmation_step2" = "2`den 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Belgenizi imzalayın";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Avrupa kurallarına uygun olarak kimliğinizi doğrulamak için bir belgeyi dijital olarak imzalamalısınız.";
+"qualifiedElectronicSignature_confirmation_title" = "Dijital imzanızı oluşturun ve kullanın";
+"qualifiedElectronicSignature_error_misconfigured" = "Maalesef, bir hata oluştu. Lütfen destek ekibinizle iletişime geçin.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "İmzamı oluştur";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Sertifika başvuru formu";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Gizlilik bildirimi";
+"qualifiedElectronicSignature_introduction_step1" = "2`nin 1`i";
+"qualifiedElectronicSignature_introduction_subtitle" = "Avrupa kurallarına uygun olarak kimliğinizi doğrulamak için bir belgeyi dijital olarak imzalamalısınız.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Şartlar ve koşullar";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA, elektronik imzanızı doğrulayan bir sertifika veren güvenilir bir küresel sağlayıcıdır.";
+"qualifiedElectronicSignature_introduction_title" = "Dijital imzanızı oluşturun ve kullanın";
+"qualifiedElectronicSignature_introduction_validation" = "Onay gerekli";

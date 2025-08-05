@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "Continuați";
+"enrollPasskey_attempts_error_subtitle" = "Nu mai puteți să vă autentificați prin intermediul unei chei de acces.";
+"enrollPasskey_attempts_error_title" = "Numărul de încercări permise a fost depășit";
+"enrollPasskey_error_button_retry" = "Încercați din nou";
+"enrollPasskey_error_subtitle" = "O problemă tehnică necunoscută a apărut, vă rugăm să încercați din nou.";
+"enrollPasskey_error_title" = "Ceva nu a mers bine";
+"enrollPasskey_introduction_bullet_1" = "Această cheie de acces va fi utilizată pentru domeniul: ";
+"enrollPasskey_introduction_bullet_2" = "Dispozitivul dvs. vă va ghida prin următorii pași.";
+"enrollPasskey_introduction_button_start_enrolling" = "Creează cheie de acces";
+"enrollPasskey_introduction_subtitle" = "Cheile de acces (passkeys) vă permit să vă autentificați în siguranță folosind amprenta, fața sau blocarea ecranului dispozitivului.";
+"enrollPasskey_introduction_title" = "Configurați-vă Passkey-ul";
+"enrollPasskey_not_supported_error_button_continue" = "Continuați";
+"enrollPasskey_not_supported_error_subtitle" = "Ne pare rău că nu puteți finaliza această sarcină.";
+"enrollPasskey_not_supported_error_title" = "Dispozitivul nu acceptă chei de acces";

@@ -1,0 +1,17 @@
+
+"electronicId_qr_code_description" = "افتح تطبيق BankID على هاتفك واضغط على أيقونة الرمز الشريطي QR";
+"electronicId_qr_code_error_code_expired" = "لقد انتهت صلاحية الرمز الشريطي QR الخاص بك، يرجى طلب واحد جديد";
+"electronicId_qr_code_refresh_cta" = "طلب رمز QR جديد";
+"electronicId_qr_code_title" = "التحقق من BankID";
+"electronicId_redirection_cross_device" = "قم بتوصيل جهاز آخر";
+"electronicId_redirection_description" = "يمكنك الاتصال عبر هاتفك المحمول أو جهاز آخر";
+"electronicId_redirection_list_title" = "اختر طريقة";
+"electronicId_redirection_open_in_app" = "افتح التطبيق";
+"electronicId_redirection_scheme_SwedenBankId_open_in_app" = "افتح تطبيق BankID";
+"electronicId_redirection_title" = "اختر كيفية الاتصال";
+"electronicId_scheme_form_subtitle" = "اختر بنكًا من القائمة أدناه للتحقق من هويتك عبر ";
+"electronicId_scheme_form_title" = " Verification";
+"electronicId_selection_description" = "حدد البلد الصادر لرؤية الطرق التي نقبلها";
+"electronicId_selection_list_title" = "اختر طريقة";
+"electronicId_selection_select_label" = "دولة الإصدار";
+"electronicId_selection_title" = "التحقق من هويتك";

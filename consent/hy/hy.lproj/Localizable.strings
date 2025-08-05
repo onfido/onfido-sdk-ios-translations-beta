@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "Ընդունել";
+"consent_button_secondary" = "Չընդունել";
+"consent_loading_error_button_primary" = "Կրկին բեռնել էկրանը";
+"consent_loading_error_detail" = "Համոզվեք, որ ձեր կապը կայուն է, ապա կրկին փորձեք";
+"consent_loading_error_title" = "Չհաջողվեց բեռնել պարունակությունը";
+"consent_prompt_button_primary" = "Այո, մի նույնականացրեք ինձ";
+"consent_prompt_button_secondary" = "Կրկին ստուգել";
+"consent_prompt_no_consent_detail" = "Եթե դուք չեք ընդունում Onfido-ի գաղտնիության հայտարարությունները և ծառայությունների մատուցման պայմանները, մենք չենք կարող հաստատել ձեր ինքնությունը, և դուք այս քայլից դուրս կգաք։";
+"consent_prompt_no_consent_title" = "Վստա՞հ եք։";

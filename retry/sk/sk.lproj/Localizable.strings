@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Skúsiť znova";
+"retry_button_expired_document" = "Skúsiť znova";
+"retry_button_generic_document_issue" = "Skúsiť znova";
+"retry_button_generic_selfie_issue" = "Skúsiť znova";
+"retry_button_unaccepted_document" = "Skúsiť znova";
+"retry_description_default" = "Skúste to znova";
+"retry_description_expired_document" = "Skúste to znova s platným dokladom totožnosti s fotkou a uistite sa, že vaše údaje sú jasne viditeľné";
+"retry_description_generic_document_issue" = "Skúste to znova s platným dokladom totožnosti s fotkou a uistite sa, že vaše údaje sú jasne viditeľné";
+"retry_description_generic_selfie_issue" = "Skúste to znova a uistite sa, že vaša tvár je viditeľná a dobre osvetlená";
+"retry_description_unaccepted_document" = "Skúste to znova s platným dokladom totožnosti s fotkou a uistite sa, že vaše údaje sú jasne viditeľné";
+"retry_headline_default" = "Vyskytol sa problém";
+"retry_headline_expired_document" = "Platnosť dokladu vypršala";
+"retry_headline_generic_document_issue" = "Vyskytol sa problém s vaším dokumentom";
+"retry_headline_generic_selfie_issue" = "Vyskytol sa problém s vašou selfie";
+"retry_headline_unaccepted_document" = "Neakceptovaný doklad";

@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "ابدأ التحقق";
+"welcome_button_studio" = "ابدأ التحقق";
+"welcome_button_trial" = "ابدأ التحقق (TEST)";
+"welcome_list_header_default" = "استخدم جهازك من أجل:";
+"welcome_list_header_doc_video" = "استخدم جهازك للتسجيل:";
+"welcome_list_item_active_video" = "سجِّل فيديو لوجهك";
+"welcome_list_item_document" = "التقط صورة لمستند هويتك";
+"welcome_list_item_document_video" = "سجّل فيديو لمستند هويتك";
+"welcome_list_item_face" = "التقاط صورة لوجهك";
+"welcome_list_item_face_video" = "سجِّل فيديو لوجهك";
+"welcome_list_item_poa" = "التقاط صورة لمستند يحمل عنوانك";
+"welcome_subtitle" = "ستأخذ العملية بعض الوقت";
+"welcome_timeout_default" = "يقتصر تسجيل الفيديو على ​​​​ ثوانٍ. ​​ابدأ مرة أخرى​​";
+"welcome_title" = "التحقق من هويتك";
+"welcome_warning_trial" = "لا تشارك البيانات الشخصية هنا ما لم تكن مشتركًا في تجربة Onfido.";
+"welcome_warning_trial_title" = "هذا إصدار تجريبي";

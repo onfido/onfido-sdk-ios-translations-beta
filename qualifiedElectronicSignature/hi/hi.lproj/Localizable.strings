@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "अपना हस्ताक्षर बनाएं";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "अपने दस्तावेज़ को पढ़ने के बाद, \"साइन दस्तावेज़\" बटन पर टैप करें।";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "एक बार जब Onfido आपकी पहचान की पुष्टि कर लेता है, तो आपका हस्ताक्षर इस दस्तावेज़ पर इस्तेमाल किया जाएगा।";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "दस्तावेज़ पर हस्ताक्षर करें";
+"qualifiedElectronicSignature_confirmation_review_document" = "अपने दस्तावेज़ की समीक्षा करें";
+"qualifiedElectronicSignature_confirmation_step2" = "2 में से 2";
+"qualifiedElectronicSignature_confirmation_steps" = "अपने दस्तावेज़ पर हस्ताक्षर करें";
+"qualifiedElectronicSignature_confirmation_subtitle" = "यूरोपीय नियमों के अनुसार अपनी पहचान की पुष्टि करने के लिए, आपको एक दस्तावेज़ को डिजिटल रूप से हस्ताक्षर करना होगा।";
+"qualifiedElectronicSignature_confirmation_title" = "अपना डिजिटल हस्ताक्षर बनाएं और उपयोग करें";
+"qualifiedElectronicSignature_error_misconfigured" = "दुर्भाग्यवश, एक त्रुटि हुई है। कृपया अपने सहायता से संपर्क करें।";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "मेरा हस्ताक्षर बनाएं";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "प्रमाणपत्र आवेदन फॉर्म";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "गोपनीयता सूचना";
+"qualifiedElectronicSignature_introduction_step1" = "1 में से 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "यूरोपीय नियमों के अनुसार अपनी पहचान की पुष्टि करने के लिए, आपको एक दस्तावेज़ को डिजिटल रूप से हस्ताक्षर करना होगा।";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "नियम और शर्तें";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA एक विश्वसनीय वैश्विक प्रदाता है जो आपके इलेक्ट्रॉनिक हस्ताक्षर की पुष्टि करने के लिए एक प्रमाणपत्र जारी करेगा।";
+"qualifiedElectronicSignature_introduction_title" = "अपना डिजिटल हस्ताक्षर बनाएं और उपयोग करें";
+"qualifiedElectronicSignature_introduction_validation" = "अनुमति आवश्यक";

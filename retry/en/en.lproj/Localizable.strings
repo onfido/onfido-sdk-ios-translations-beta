@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Try again";
+"retry_button_expired_document" = "Try again";
+"retry_button_generic_document_issue" = "Try again";
+"retry_button_generic_selfie_issue" = "Try again";
+"retry_button_unaccepted_document" = "Try again";
+"retry_description_default" = "Please try again";
+"retry_description_expired_document" = "Please try again with a valid photo ID and make sure your information is clearly visible";
+"retry_description_generic_document_issue" = "Please try again with a valid photo ID and make sure your information is clearly visible";
+"retry_description_generic_selfie_issue" = "Please try again, and make sure your face is visible and well lit";
+"retry_description_unaccepted_document" = "Please try again with a valid photo ID and make sure your information is clearly visible";
+"retry_headline_default" = "There was a problem";
+"retry_headline_expired_document" = "Your document has expired";
+"retry_headline_generic_document_issue" = "There was a problem with your document";
+"retry_headline_generic_selfie_issue" = "There was a problem with your selfie";
+"retry_headline_unaccepted_document" = "Unaccepted document";

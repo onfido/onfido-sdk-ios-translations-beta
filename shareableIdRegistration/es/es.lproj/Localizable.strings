@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Continuar";
+"shareableIdRegistration_registered_subtitle" = "Una vez que se conozca el resultado de esta verificación, podrás reutilizarlo la próxima vez que necesites probar tu identidad.";
+"shareableIdRegistration_registered_title" = "Verificación guardada";
+"shareableIdRegistration_registration_consent_description" = "La próxima vez, sus datos solo se volverán a utilizar si presiona el botón `Usar una verificación anterior`.";
+"shareableIdRegistration_registration_consent_title" = "Solo tú puedes consentir qué verificaciones se reutilizan";
+"shareableIdRegistration_registration_error_action" = "Regresar";
+"shareableIdRegistration_registration_error_subtitle" = "Parece que no pudiste crear una contraseña. Regresa para intentarlo de nuevo o continúa para completar el proceso.";
+"shareableIdRegistration_registration_error_title" = "Clave de acceso no creada";
+"shareableIdRegistration_registration_fast_description" = "La información ya recopilada se guardará, por lo que puedes reutilizarla en lugar de pasar por el proceso de verificación de identidad nuevamente.";
+"shareableIdRegistration_registration_fast_title" = "Nunca pierdas tiempo repitiendo una verificación que ya existe";
+"shareableIdRegistration_registration_key_description" = "Como una contraseña almacenada en tu dispositivo, crearás un identificador único (una clave de acceso) que puedes eliminar en cualquier momento.";
+"shareableIdRegistration_registration_key_title" = "Usted tendrá la llave para saltar el flujo";
+"shareableIdRegistration_registration_save" = "Guarda tu verificación";
+"shareableIdRegistration_registration_skip" = "Omitir";
+"shareableIdRegistration_registration_title" = "Verifica una vez. Reutiliza de nuevo";

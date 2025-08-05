@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Créez votre signature";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Après avoir lu votre document, appuyez sur le bouton \"Signer le document\".";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Une fois que Onfido a vérifié votre identité, votre signature sera utilisée sur ce document.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Signer le document";
+"qualifiedElectronicSignature_confirmation_review_document" = "Examinez votre document à signer";
+"qualifiedElectronicSignature_confirmation_step2" = "2 sur 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Signez votre document";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Pour confirmer votre identité conformément aux règles européennes, vous devez signer numériquement un document.";
+"qualifiedElectronicSignature_confirmation_title" = "Créez et utilisez votre signature numérique";
+"qualifiedElectronicSignature_error_misconfigured" = "Malheureusement, une erreur s`est produite. Veuillez contacter votre support.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Créer ma signature";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Formulaire de demande de certificat";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Avis de confidentialité";
+"qualifiedElectronicSignature_introduction_step1" = "1 sur 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "Pour confirmer votre identité conformément aux règles européennes, vous devez signer numériquement un document.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Conditions générales";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA est un fournisseur mondial de confiance qui délivrera un certificat validant votre signature électronique.";
+"qualifiedElectronicSignature_introduction_title" = "Créez et utilisez votre signature numérique";
+"qualifiedElectronicSignature_introduction_validation" = "Consentement requis";

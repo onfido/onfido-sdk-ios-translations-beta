@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "Prihvatam";
+"consent_button_secondary" = "Ne prihvatam";
+"consent_loading_error_button_primary" = "Ponovo učitaj ekran";
+"consent_loading_error_detail" = "Proverite da li je veza stabilna, a zatim probajte ponovo";
+"consent_loading_error_title" = "Sadržaj nije učitan";
+"consent_prompt_button_primary" = "Da, nemojte mi proveravati identitet";
+"consent_prompt_button_secondary" = "Pregledajte ponovo";
+"consent_prompt_no_consent_detail" = "Ako ne prihvatite Onfido-ve izjave o privatnosti i uslove korišćenja usluge, nećemo moći da proverimo vaš identitet i postupak će se prekinuti.";
+"consent_prompt_no_consent_title" = "Jeste li sigurni?";

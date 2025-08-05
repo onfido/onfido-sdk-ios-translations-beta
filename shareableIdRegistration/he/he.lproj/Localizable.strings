@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "המשך";
+"shareableIdRegistration_registered_subtitle" = "לאחר שתוצאת האימות הזה תידע, תוכל להשתמש בה שוב בפעם הבאה שתצטרך להוכיח את זהותך.";
+"shareableIdRegistration_registered_title" = "האימות נשמר";
+"shareableIdRegistration_registration_consent_description" = "הנתונים שלך ישומשו מחדש רק אם תלחץ על הכפתור `השתמש באימות קודם` בפעם הבאה.";
+"shareableIdRegistration_registration_consent_title" = "רק אתה יכול להסכים לאילו אימותים משומשים מחדש";
+"shareableIdRegistration_registration_error_action" = "חזור אחורה";
+"shareableIdRegistration_registration_error_subtitle" = "נראה שלא הצלחת ליצור קוד סיסמה. חזור אחורה כדי לנסות שוב או המשך לתהליך המלא.";
+"shareableIdRegistration_registration_error_title" = "לא נוצר מפתח גישה";
+"shareableIdRegistration_registration_fast_description" = "המידע שכבר אספנו יישמר, כך שתוכל להשתמש בו שוב במקום לעבור שוב את תהליך האימות.";
+"shareableIdRegistration_registration_fast_title" = "אל תבזבז זמן על חזרה על אימות שכבר קיים";
+"shareableIdRegistration_registration_key_description" = "כמו סיסמה שמאוחסנת במכשיר שלך, תיצור מזהה ייחודי (מפתח גישה) שאתה יכול למחוק בכל רגע.";
+"shareableIdRegistration_registration_key_title" = "אתה תחזיק במפתח לדלג על התהליך";
+"shareableIdRegistration_registration_save" = "שמור את האימות שלך";
+"shareableIdRegistration_registration_skip" = "דלג";
+"shareableIdRegistration_registration_title" = "אמת פעם אחת. שימוש מחדש שוב";

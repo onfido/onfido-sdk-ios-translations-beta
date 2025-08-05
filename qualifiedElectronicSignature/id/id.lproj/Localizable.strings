@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Buat tanda tangan Anda";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Setelah membaca dokumen Anda, ketuk tombol \"Tanda tangan dokumen\".";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Setelah Onfido memverifikasi identitas Anda, tanda tangan Anda akan digunakan pada dokumen ini.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Tanda tangan dokumen";
+"qualifiedElectronicSignature_confirmation_review_document" = "Tinjau dokumen Anda untuk ditandatangani";
+"qualifiedElectronicSignature_confirmation_step2" = "2 dari 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Tanda tangani dokumen Anda";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Untuk mengkonfirmasi identitas Anda sesuai dengan aturan Eropa, Anda harus menandatangani sebuah dokumen secara digital.";
+"qualifiedElectronicSignature_confirmation_title" = "Buat dan gunakan tanda tangan digital Anda";
+"qualifiedElectronicSignature_error_misconfigured" = "Sayangnya, terjadi kesalahan. Silakan hubungi dukungan Anda.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Buat tanda tangan saya";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Formulir aplikasi sertifikat";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Pemberitahuan privasi";
+"qualifiedElectronicSignature_introduction_step1" = "1 dari 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "Untuk mengkonfirmasi identitas Anda sesuai dengan aturan Eropa, Anda harus menandatangani dokumen secara digital.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Syarat dan ketentuan";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA adalah penyedia global terpercaya yang akan mengeluarkan sertifikat yang memvalidasi tanda tangan elektronik Anda.";
+"qualifiedElectronicSignature_introduction_title" = "Buat dan gunakan tanda tangan digital Anda";
+"qualifiedElectronicSignature_introduction_validation" = "Persetujuan diperlukan";

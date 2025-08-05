@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Lanjutkan";
+"authenticatePasskey_attempts_error_subtitle" = "Anda tidak dapat lagi melakukan autentikasi melalui kunci akses.";
+"authenticatePasskey_attempts_error_title" = "Jumlah percobaan yang diizinkan telah terlampaui";
+"authenticatePasskey_error_button_retry" = "Coba lagi";
+"authenticatePasskey_error_subtitle" = "Terjadi masalah teknis yang tidak diketahui, silakan coba lagi.";
+"authenticatePasskey_error_title" = "Ada yang salah";
+"authenticatePasskey_introduction_bullet_1" = "Anda harus sudah pernah membuat kunci sandi bersama kami sebelumnya.";
+"authenticatePasskey_introduction_bullet_2" = "Perangkat Anda akan memandu Anda melalui langkah-langkah berikutnya.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Otentikasi";
+"authenticatePasskey_introduction_subtitle" = "Passkey memungkinkan Anda masuk dengan aman menggunakan sidik jari, wajah, atau kunci layar perangkat Anda.";
+"authenticatePasskey_introduction_title" = "Autentikasi dengan Kunci Akses Anda";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Lanjutkan";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "Anda tidak memiliki kunci sandi yang tersedia untuk melakukan autentikasi.";
+"authenticatePasskey_no_passkey_available_error_title" = "Tidak ada kunci sandi yang tersedia";
+"authenticatePasskey_not_supported_error_button_continue" = "Lanjutkan";
+"authenticatePasskey_not_supported_error_subtitle" = "Maaf, Anda tidak dapat menyelesaikan tugas ini.";
+"authenticatePasskey_not_supported_error_title" = "Perangkat tidak mendukung passkey";

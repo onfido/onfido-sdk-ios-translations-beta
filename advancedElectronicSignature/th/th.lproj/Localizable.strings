@@ -1,0 +1,9 @@
+
+"advancedElectronicSignature_error_button_retry" = "ย้อนกลับ";
+"advancedElectronicSignature_error_subtitle" = "โปรดรอสักครู่แล้วลองอีกครั้ง";
+"advancedElectronicSignature_error_title" = "เกิดข้อผิดพลาดบางอย่าง";
+"advancedElectronicSignature_introduction_bullet_1" = "สภาพแวดล้อมสำหรับการลงนาม (signhost.com) จะเปิดในหน้าต่างใหม่";
+"advancedElectronicSignature_introduction_bullet_2" = "เมื่อการลงนามเสร็จสิ้น คุณจะถูกนำกลับไปยังขั้นตอนถัดไปโดยอัตโนมัติ หากไม่เป็นเช่นนั้น กรุณากลับไปด้วยตนเอง";
+"advancedElectronicSignature_introduction_button_start_signing" = "ตรวจสอบและลงนามเอกสาร";
+"advancedElectronicSignature_introduction_subtitle" = "แตะปุ่มด้านล่างเพื่อทบทวนและลงนาม";
+"advancedElectronicSignature_introduction_title" = "ลงนามเอกสารที่จำเป็นทางดิจิทัล";

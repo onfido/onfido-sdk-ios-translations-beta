@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Продолжить";
+"shareableIdRegistration_registered_subtitle" = "Как только результат этой верификации станет известен, вы сможете использовать его в следующий раз, когда вам потребуется подтвердить свою личность.";
+"shareableIdRegistration_registered_title" = "Верификация сохранена";
+"shareableIdRegistration_registration_consent_description" = "Если в следующий раз вы нажмете кнопку «Использовать предыдущую проверку», ваши данные будут использованы повторно.";
+"shareableIdRegistration_registration_consent_title" = "Только вы можете согласиться на повторное использование верификаций";
+"shareableIdRegistration_registration_error_action" = "Вернуться назад";
+"shareableIdRegistration_registration_error_subtitle" = "Похоже, у вас не получилось создать пароль. Вернитесь, чтобы попробовать еще раз, или продолжите для завершения процесса.";
+"shareableIdRegistration_registration_error_title" = "Ключ-пароль не создан";
+"shareableIdRegistration_registration_fast_description" = "Уже собранная информация будет сохранена, поэтому вы можете использовать ее повторно, вместо того чтобы проходить процесс верификации заново.";
+"shareableIdRegistration_registration_fast_title" = "Никогда не теряйте время на повторение уже существующей верификации";
+"shareableIdRegistration_registration_key_description" = "Как пароль, сохраненный на вашем устройстве, вы создадите уникальный идентификатор (пропуск), который вы можете удалить в любой момент.";
+"shareableIdRegistration_registration_key_title" = "Вы будете держать ключ, чтобы пропустить процесс";
+"shareableIdRegistration_registration_save" = "Сохраните вашу верификацию";
+"shareableIdRegistration_registration_skip" = "Пропустить";
+"shareableIdRegistration_registration_title" = "Проверьте один раз. Используйте снова";

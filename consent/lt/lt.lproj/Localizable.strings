@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "Sutinku";
+"consent_button_secondary" = "Nesutinku";
+"consent_loading_error_button_primary" = "Įkelti ekraną iš naujo";
+"consent_loading_error_detail" = "Patikrinkite, ar ryšys stabilus, tada bandykite dar kartą";
+"consent_loading_error_title" = "Nepavyko įkelti turinio";
+"consent_prompt_button_primary" = "Taip, nepatvirtinkite manęs";
+"consent_prompt_button_secondary" = "Peržiūrėti dar kartą";
+"consent_prompt_no_consent_detail" = "Jei nesutinkate su „Onfido“ privatumo patvirtinimais ir paslaugų teikimo sąlygomis, negalėsime patvirtinti jūsų tapatybės ir jūs išeisite iš šio etapo.";
+"consent_prompt_no_consent_title" = "Ar tikrai?";

@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Doorgaan";
+"shareableIdRetrieval_intro_error_subtitle" = "U heeft geen herkenbare passkey op uw apparaat. Ga alstublieft verder met het volledige proces.";
+"shareableIdRetrieval_intro_error_title" = "Geen passkey gevonden";
+"shareableIdRetrieval_intro_or" = "OF";
+"shareableIdRetrieval_intro_searching" = "Zoeken naar eerdere verificaties";
+"shareableIdRetrieval_intro_start_idv_action" = "Start identiteitsverificatie";
+"shareableIdRetrieval_intro_start_idv_description" = "We zullen om wat documentatie en persoonlijke informatie van u vragen, die ons kan helpen te weten wie u zegt dat u bent.";
+"shareableIdRetrieval_intro_subtitle" = "Om veiligheidsredenen en ter bescherming tegen fraude moeten we uw identiteit verifiëren.";
+"shareableIdRetrieval_intro_title" = "Verifieer uw identiteit";
+"shareableIdRetrieval_intro_use_sid_action" = "Gebruik een eerdere verificatie";
+"shareableIdRetrieval_intro_use_sid_title" = "U kunt alleen een verificatie hergebruiken die eerder succesvol is voltooid en opgeslagen.";

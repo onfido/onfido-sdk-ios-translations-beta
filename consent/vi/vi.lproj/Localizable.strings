@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "Chấp nhận";
+"consent_button_secondary" = "Không chấp nhận";
+"consent_loading_error_button_primary" = "Tải lại màn hình";
+"consent_loading_error_detail" = "Kiểm tra xem kết nối của bạn và thử lại";
+"consent_loading_error_title" = "Không thể tải nội dung";
+"consent_prompt_button_primary" = "Có, đừng xác minh tôi";
+"consent_prompt_button_secondary" = "Xem lại";
+"consent_prompt_no_consent_detail" = "Nếu bạn không chấp nhận tuyên bố về quyền riêng tư và điều khoản dịch vụ của Onfido, chúng tôi sẽ không thể xác minh danh tính của bạn và bạn sẽ thoát khỏi bước này.";
+"consent_prompt_no_consent_title" = "Bạn có chắc chắn không?";

@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "続行";
+"authenticatePasskey_attempts_error_subtitle" = "パスキーによる認証はこれ以上できません。";
+"authenticatePasskey_attempts_error_title" = "許可された試行回数を超えました";
+"authenticatePasskey_error_button_retry" = "再試行";
+"authenticatePasskey_error_subtitle" = "不明な技術的問題が発生しました。もう一度お試しください。";
+"authenticatePasskey_error_title" = "何かが間違っています";
+"authenticatePasskey_introduction_bullet_1" = "以前に当社でパスキーを作成している必要があります。";
+"authenticatePasskey_introduction_bullet_2" = "デバイスが次の手順を案内します。";
+"authenticatePasskey_introduction_button_start_authenticating" = "認証する";
+"authenticatePasskey_introduction_subtitle" = "パスキーを使うと、指紋、顔、またはデバイスの画面ロックで安全にサインインできます。";
+"authenticatePasskey_introduction_title" = "パスキーで認証する";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "続行";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "認証に使用できるパスキーがありません。";
+"authenticatePasskey_no_passkey_available_error_title" = "利用可能なパスキーがありません";
+"authenticatePasskey_not_supported_error_button_continue" = "続行";
+"authenticatePasskey_not_supported_error_subtitle" = "申し訳ありませんが、このタスクを完了できません。";
+"authenticatePasskey_not_supported_error_title" = "このデバイスはパスキーに対応していません";

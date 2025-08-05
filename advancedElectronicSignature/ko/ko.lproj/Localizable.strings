@@ -1,0 +1,9 @@
+
+"advancedElectronicSignature_error_button_retry" = "돌아가기";
+"advancedElectronicSignature_error_subtitle" = "잠시만 기다렸다가 다시 시도해 주세요.";
+"advancedElectronicSignature_error_title" = "문제가 발생했습니다";
+"advancedElectronicSignature_introduction_bullet_1" = "서명 환경(signhost.com)이 새 창에서 열립니다.";
+"advancedElectronicSignature_introduction_bullet_2" = "서명이 완료되면 워크플로우를 계속 진행할 수 있도록 자동으로 돌아갑니다. 자동으로 이동하지 않을 경우, 직접 돌아가 주세요.";
+"advancedElectronicSignature_introduction_button_start_signing" = "문서 검토 및 서명";
+"advancedElectronicSignature_introduction_subtitle" = "아래 버튼을 눌러 검토하고 서명하세요.";
+"advancedElectronicSignature_introduction_title" = "필요한 문서에 디지털 서명하기";

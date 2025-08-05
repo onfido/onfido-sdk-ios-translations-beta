@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Продължаване";
+"shareableIdRetrieval_intro_error_subtitle" = "Нямате разпознаваем ключ за достъп на вашия устройство. Моля, продължете към пълния процес.";
+"shareableIdRetrieval_intro_error_title" = "Не е намерен ключ за достъп";
+"shareableIdRetrieval_intro_or" = "ИЛИ";
+"shareableIdRetrieval_intro_searching" = "Търсене на предишни верификации";
+"shareableIdRetrieval_intro_start_idv_action" = "Започнете верификация на идентичността";
+"shareableIdRetrieval_intro_start_idv_description" = "Ще поискаме някои документи и лична информация от вас, които могат да ни помогнат да разберем кой твърдите, че сте.";
+"shareableIdRetrieval_intro_subtitle" = "Поради съображения за сигурност и за да ви защитим от измами, трябва да потвърдим вашата самоличност.";
+"shareableIdRetrieval_intro_title" = "Потвърдете самоличността си";
+"shareableIdRetrieval_intro_use_sid_action" = "Използвайте предишна верификация";
+"shareableIdRetrieval_intro_use_sid_title" = "Можете да използвате отново само верификация, която е била успешно завършена и запазена предварително.";

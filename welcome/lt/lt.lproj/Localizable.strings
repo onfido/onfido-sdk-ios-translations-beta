@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Pradėti patvirtinimą";
+"welcome_button_studio" = "Pradėti patvirtinimą";
+"welcome_button_trial" = "Pradėti patikrinimą (TEST)";
+"welcome_list_header_default" = "Naudodami savo įrenginį:";
+"welcome_list_header_doc_video" = "Naudodamiesi įrenginiu įrašykite:";
+"welcome_list_item_active_video" = "Padaryti savo veido vaizdo įrašą";
+"welcome_list_item_document" = "Nufotografuosite savo asmens tapatybės dokumentą";
+"welcome_list_item_document_video" = "Padarysite savo asmens tapatybės dokumento vaizdo įrašą";
+"welcome_list_item_face" = "Nufotografuosite savo veidą";
+"welcome_list_item_face_video" = "Padaryti savo veido vaizdo įrašą";
+"welcome_list_item_poa" = "Nufotografuokite dokumentą su savo adresu";
+"welcome_subtitle" = "Tai turėtų užtrukti kelias minutes";
+"welcome_timeout_default" = "Įrašymo trukmė ribojama iki ​​​​ sek.";
+"welcome_title" = "Patvirtinkite savo tapatybę";
+"welcome_warning_trial" = "Čia nesidalykite asmens duomenimis, nebent dalyvaujate „Onfido“ bandyme.";
+"welcome_warning_trial_title" = "Tai yra bandomoji versija";

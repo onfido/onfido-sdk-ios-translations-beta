@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Ustvarite svoj podpis";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Po branju vašega dokumenta tapnite gumb \"Podpiši dokument\".";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Ko Onfido preveri vašo identiteto, bo vaš podpis uporabljen na tem dokumentu.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Podpiši dokument";
+"qualifiedElectronicSignature_confirmation_review_document" = "Preglejte vaš dokument za podpis";
+"qualifiedElectronicSignature_confirmation_step2" = "2 od 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Podpišite svoj dokument";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Za potrditev vaše identitete v skladu z evropskimi pravili morate digitalno podpisati dokument.";
+"qualifiedElectronicSignature_confirmation_title" = "Ustvarite in uporabite svoj digitalni podpis";
+"qualifiedElectronicSignature_error_misconfigured" = "Na žalost je prišlo do napake. Prosimo, obrnite se na vašo podporo.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Ustvari moj podpis";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Prijavnica za certifikat";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Obvestilo o zasebnosti";
+"qualifiedElectronicSignature_introduction_step1" = "1 od 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "Za potrditev vaše identitete v skladu z evropskimi pravili morate digitalno podpisati dokument.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Pogoji in določila";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA je zaupanja vreden globalni ponudnik, ki bo izdal certifikat za potrditev vašega elektronskega podpisa.";
+"qualifiedElectronicSignature_introduction_title" = "Ustvarite in uporabite svoj digitalni podpis";
+"qualifiedElectronicSignature_introduction_validation" = "Potrebno soglasje";

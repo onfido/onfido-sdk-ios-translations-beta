@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Опитайте отново";
+"retry_button_expired_document" = "Опитайте отново";
+"retry_button_generic_document_issue" = "Опитайте отново";
+"retry_button_generic_selfie_issue" = "Опитайте отново";
+"retry_button_unaccepted_document" = "Опитайте отново";
+"retry_description_default" = "Опитайте отново";
+"retry_description_expired_document" = "Опитайте отново с валиден документ за самоличност със снимка и се уверете, че информацията ви се вижда ясно";
+"retry_description_generic_document_issue" = "Опитайте отново с валиден документ за самоличност със снимка и се уверете, че информацията ви се вижда ясно";
+"retry_description_generic_selfie_issue" = "Опитайте отново и се уверете, че лицето ви се вижда и е добре осветено";
+"retry_description_unaccepted_document" = "Опитайте отново с валиден документ за самоличност със снимка и се уверете, че информацията ви се вижда ясно";
+"retry_headline_default" = "Имаше проблем";
+"retry_headline_expired_document" = "Документът ви е с изтекла валидност";
+"retry_headline_generic_document_issue" = "Имаше проблем с вашия документ";
+"retry_headline_generic_selfie_issue" = "Имаше проблем с вашето селфи";
+"retry_headline_unaccepted_document" = "Не приемаме този тип документ";

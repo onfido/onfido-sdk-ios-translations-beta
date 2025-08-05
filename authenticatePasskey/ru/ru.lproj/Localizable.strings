@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Продолжить";
+"authenticatePasskey_attempts_error_subtitle" = "Вы больше не можете проходить аутентификацию с помощью ключа доступа.";
+"authenticatePasskey_attempts_error_title" = "Превышено допустимое количество попыток";
+"authenticatePasskey_error_button_retry" = "Повторить";
+"authenticatePasskey_error_subtitle" = "Произошла неизвестная техническая ошибка, пожалуйста, попробуйте еще раз.";
+"authenticatePasskey_error_title" = "Что-то пошло не так";
+"authenticatePasskey_introduction_bullet_1" = "Вы должны были ранее создать у нас ключ доступа.";
+"authenticatePasskey_introduction_bullet_2" = "Ваше устройство подскажет вам следующие шаги.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Аутентификация";
+"authenticatePasskey_introduction_subtitle" = "Ключи доступа позволяют безопасно входить в систему с помощью отпечатка пальца, лица или блокировки экрана устройства.";
+"authenticatePasskey_introduction_title" = "Аутентифицируйтесь с помощью Passkey";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Продолжить";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "У вас нет доступного ключа доступа для аутентификации.";
+"authenticatePasskey_no_passkey_available_error_title" = "Нет доступного ключа доступа";
+"authenticatePasskey_not_supported_error_button_continue" = "Продолжить";
+"authenticatePasskey_not_supported_error_subtitle" = "К сожалению, вы не можете выполнить эту задачу.";
+"authenticatePasskey_not_supported_error_title" = "Устройство не поддерживает ключи доступа";

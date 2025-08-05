@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "استمر";
+"enrollPasskey_attempts_error_subtitle" = "لم يعد بإمكانك المصادقة باستخدام مفتاح المرور.";
+"enrollPasskey_attempts_error_title" = "تم تجاوز عدد المحاولات المسموح بها";
+"enrollPasskey_error_button_retry" = "إعادة المحاولة";
+"enrollPasskey_error_subtitle" = "حدثت مشكلة تقنية غير معروفة، يرجى إعادة المحاولة.";
+"enrollPasskey_error_title" = "حدث خطأ ما";
+"enrollPasskey_introduction_bullet_1" = "سيتم استخدام مفتاح المرور هذا للنطاق: ";
+"enrollPasskey_introduction_bullet_2" = "سيرشدك جهازك خلال الخطوات التالية.";
+"enrollPasskey_introduction_button_start_enrolling" = "إنشاء مفتاح الدخول";
+"enrollPasskey_introduction_subtitle" = "تتيح لك مفاتيح المرور تسجيل الدخول بأمان باستخدام بصمة الإصبع أو الوجه أو قفل شاشة الجهاز.";
+"enrollPasskey_introduction_title" = "إعداد مفتاح الدخول الخاص بك";
+"enrollPasskey_not_supported_error_button_continue" = "استمر";
+"enrollPasskey_not_supported_error_subtitle" = "عذرًا، لا يمكنك إكمال هذه المهمة.";
+"enrollPasskey_not_supported_error_title" = "الجهاز لا يدعم مفاتيح المرور";

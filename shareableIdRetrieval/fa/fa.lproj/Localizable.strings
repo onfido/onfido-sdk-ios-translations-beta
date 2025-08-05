@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "ادامه";
+"shareableIdRetrieval_intro_error_subtitle" = "شما رمز عبور قابل تشخیصی روی دستگاه خود ندارید. لطفاً فرآیند کامل را ادامه دهید.";
+"shareableIdRetrieval_intro_error_title" = "کلید عبوری یافت نشد";
+"shareableIdRetrieval_intro_or" = "یا";
+"shareableIdRetrieval_intro_searching" = "در جستجوی تأیید هویت های قبلی";
+"shareableIdRetrieval_intro_start_idv_action" = "شروع تأیید هویت";
+"shareableIdRetrieval_intro_start_idv_description" = "ما از شما درخواست برخی اسناد و اطلاعات شخصی می کنیم، که می تواند به ما کمک کند تا بفهمیم شما همان فردی هستید که می گویید.";
+"shareableIdRetrieval_intro_subtitle" = "برای دلایل امنیتی و محافظت از شما در برابر تقلب، ما نیاز به تأیید هویت شما داریم.";
+"shareableIdRetrieval_intro_title" = "هویت خود را تأیید کنید";
+"shareableIdRetrieval_intro_use_sid_action" = "از یک تأیید هویت قبلی استفاده کنید";
+"shareableIdRetrieval_intro_use_sid_title" = "شما فقط می‌توانید از یک تأیید هویت که قبلاً با موفقیت انجام و ذخیره شده است، دوباره استفاده کنید.";

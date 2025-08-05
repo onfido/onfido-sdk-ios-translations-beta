@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Pokračovat";
+"authenticatePasskey_attempts_error_subtitle" = "Již se nemůžete ověřit pomocí přístupového klíče.";
+"authenticatePasskey_attempts_error_title" = "Povolený počet pokusů byl překročen";
+"authenticatePasskey_error_button_retry" = "Opakování";
+"authenticatePasskey_error_subtitle" = "Došlo k neznámému technickému problému, zkuste to prosím znovu.";
+"authenticatePasskey_error_title" = "Něco se pokazilo";
+"authenticatePasskey_introduction_bullet_1" = "Musíte u nás mít dříve vytvořený přístupový klíč.";
+"authenticatePasskey_introduction_bullet_2" = "Vaše zařízení vás provede dalšími kroky.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Ověřit totožnost";
+"authenticatePasskey_introduction_subtitle" = "Přístupové klíče vám umožňují bezpečně se přihlásit pomocí otisku prstu, obličeje nebo zámku obrazovky zařízení.";
+"authenticatePasskey_introduction_title" = "Ověřte se pomocí svého přístupového klíče";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Pokračovat";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "Nemáte k dispozici přístupový klíč pro ověření.";
+"authenticatePasskey_no_passkey_available_error_title" = "Žádný přístupový klíč není k dispozici";
+"authenticatePasskey_not_supported_error_button_continue" = "Pokračovat";
+"authenticatePasskey_not_supported_error_subtitle" = "Omlouváme se, tuto úlohu nemůžete dokončit.";
+"authenticatePasskey_not_supported_error_title" = "Zařízení nepodporuje přístupové klíče";

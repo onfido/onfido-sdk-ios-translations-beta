@@ -1,0 +1,9 @@
+
+"advancedElectronicSignature_error_button_retry" = "Gå tilbake";
+"advancedElectronicSignature_error_subtitle" = "Vennligst vent noen sekunder og prøv igjen";
+"advancedElectronicSignature_error_title" = "Noe gikk galt";
+"advancedElectronicSignature_introduction_bullet_1" = "Signeringsmiljøet (signhost.com) åpnes i et nytt vindu.";
+"advancedElectronicSignature_introduction_bullet_2" = "Når signeringen er fullført, blir du sendt tilbake for å fortsette arbeidsflyten. Hvis ikke, vennligst gå tilbake manuelt.";
+"advancedElectronicSignature_introduction_button_start_signing" = "Gjennomgå og signer dokument(er)";
+"advancedElectronicSignature_introduction_subtitle" = "Trykk på knappen nedenfor for å gjennomgå og signere";
+"advancedElectronicSignature_introduction_title" = "Signer nødvendige dokument(er) digitalt";

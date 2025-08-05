@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Tente novamente";
+"retry_button_expired_document" = "Tente novamente";
+"retry_button_generic_document_issue" = "Tente novamente";
+"retry_button_generic_selfie_issue" = "Tente novamente";
+"retry_button_unaccepted_document" = "Tente novamente";
+"retry_description_default" = "Tente novamente";
+"retry_description_expired_document" = "Tente de novo com uma identificação com foto válida e garanta que os seus dados estão claramente visíveis";
+"retry_description_generic_document_issue" = "Tente de novo com uma identificação com foto válida e garanta que os seus dados estão claramente visíveis";
+"retry_description_generic_selfie_issue" = "Tente de novo e certifique-se de que o seu rosto está visível e bem iluminado";
+"retry_description_unaccepted_document" = "Tente de novo com uma identificação com foto válida e garanta que os seus dados estão claramente visíveis";
+"retry_headline_default" = "Houve um problema";
+"retry_headline_expired_document" = "O seu documento está caducado";
+"retry_headline_generic_document_issue" = "Houve um problema com o seu documento";
+"retry_headline_generic_selfie_issue" = "Houve um problema com a sua selfie";
+"retry_headline_unaccepted_document" = "Documento não aceite";

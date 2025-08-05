@@ -1,0 +1,9 @@
+
+"advancedElectronicSignature_error_button_retry" = "Wróć";
+"advancedElectronicSignature_error_subtitle" = "Proszę poczekać kilka sekund i spróbować ponownie";
+"advancedElectronicSignature_error_title" = "Coś poszło nie tak";
+"advancedElectronicSignature_introduction_bullet_1" = "Środowisko podpisywania (signhost.com) otworzy się w nowym oknie.";
+"advancedElectronicSignature_introduction_bullet_2" = "Po zakończeniu podpisywania zostaniesz przekierowany z powrotem, aby kontynuować proces. Jeśli tak się nie stanie, wróć proszę ręcznie.";
+"advancedElectronicSignature_introduction_button_start_signing" = "Przejrzyj i podpisz dokument(y)";
+"advancedElectronicSignature_introduction_subtitle" = "Stuknij przycisk poniżej, aby przejrzeć i podpisać";
+"advancedElectronicSignature_introduction_title" = "Podpisz cyfrowo wymagany(e) dokument(y)";

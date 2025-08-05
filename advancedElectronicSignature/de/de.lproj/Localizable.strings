@@ -1,0 +1,9 @@
+
+"advancedElectronicSignature_error_button_retry" = "Geh zurück";
+"advancedElectronicSignature_error_subtitle" = "Bitte warten Sie ein paar Sekunden und versuchen Sie es erneut.";
+"advancedElectronicSignature_error_title" = "Etwas ist schiefgelaufen";
+"advancedElectronicSignature_introduction_bullet_1" = "Die Signaturumgebung (signhost.com) wird in einem neuen Fenster geöffnet.";
+"advancedElectronicSignature_introduction_bullet_2" = "Sobald die Unterzeichnung abgeschlossen ist, werden Sie zurückgeleitet, um den Ablauf fortzusetzen. Falls dies nicht geschieht, kehren Sie bitte manuell zurück.";
+"advancedElectronicSignature_introduction_button_start_signing" = "Dokument(e) überprüfen und unterschreiben";
+"advancedElectronicSignature_introduction_subtitle" = "Tippen Sie auf die Schaltfläche unten, um zu überprüfen und zu unterschreiben";
+"advancedElectronicSignature_introduction_title" = "Erforderliche Dokument(e) digital unterschreiben";

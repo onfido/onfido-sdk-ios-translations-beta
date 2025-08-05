@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Tovább";
+"shareableIdRegistration_registered_subtitle" = "Ha már ismert az ellenőrzés eredménye, azt újra felhasználhatja, amikor legközelebb azonosságát kell igazolnia.";
+"shareableIdRegistration_registered_title" = "Azonosítás mentve";
+"shareableIdRegistration_registration_consent_description" = "Adatait csak akkor használjuk újra, ha a következő alkalommal a `Korábbi hitelesítés használata` gombra kattint.";
+"shareableIdRegistration_registration_consent_title" = "Csak Ön adhat hozzájárulást ahhoz, hogy mely azonosításokat használják újra";
+"shareableIdRegistration_registration_error_action" = "Vissza";
+"shareableIdRegistration_registration_error_subtitle" = "Úgy látszik, nem sikerült jelszót létrehoznia. Térjen vissza az újrapróbálkozáshoz, vagy folytassa a folyamat befejezéséig.";
+"shareableIdRegistration_registration_error_title" = "Nem jött létre a belépőkulcs";
+"shareableIdRegistration_registration_fast_description" = "A már begyűjtött információkat elmentjük, így újra felhasználhatja őket, ahelyett, hogy újra végig kellene mennie az azonosítási folyamaton.";
+"shareableIdRegistration_registration_fast_title" = "Soha ne pazaroljon időt egy már létező azonosítás megismétlésére";
+"shareableIdRegistration_registration_key_description" = "Az eszközön tárolt jelszóhoz hasonlóan létrehoz egy egyedi azonosítót (jelszót), amelyet bármikor törölhet.";
+"shareableIdRegistration_registration_key_title" = "Ön birtokolja a kulcsot a folyamat átugrásához";
+"shareableIdRegistration_registration_save" = "Mentsd el az azonosításodat";
+"shareableIdRegistration_registration_skip" = "Kihagyás";
+"shareableIdRegistration_registration_title" = "Ellenőrizze egyszer. Használja újra";

@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Intentar otra vez";
+"retry_button_expired_document" = "Intentar otra vez";
+"retry_button_generic_document_issue" = "Intentar otra vez";
+"retry_button_generic_selfie_issue" = "Intentar otra vez";
+"retry_button_unaccepted_document" = "Intentar otra vez";
+"retry_description_default" = "Inténtelo de nuevo";
+"retry_description_expired_document" = "Inténtelo de nuevo con un documento de identidad con fotografía válido y asegúrese de que sus datos se vean con claridad";
+"retry_description_generic_document_issue" = "Inténtelo de nuevo con un documento de identidad con fotografía válido y asegúrese de que sus datos se vean con claridad";
+"retry_description_generic_selfie_issue" = "Inténtelo de nuevo y asegúrese que su cara sea visible y esté bien iluminada";
+"retry_description_unaccepted_document" = "Inténtelo de nuevo con un documento de identidad con fotografía válido y asegúrese de que sus datos se vean con claridad";
+"retry_headline_default" = "Hubo un problema";
+"retry_headline_expired_document" = "Su documento ha caducado";
+"retry_headline_generic_document_issue" = "Hubo un problema con tu documento";
+"retry_headline_generic_selfie_issue" = "Hubo un problema con tu selfie";
+"retry_headline_unaccepted_document" = "Documento no aceptado";

@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Započnite proveru identiteta";
+"welcome_button_studio" = "Započnite proveru identiteta";
+"welcome_button_trial" = "Započnite proveru identiteta (TEST)";
+"welcome_list_header_default" = "Upotrebite uređaj da:";
+"welcome_list_header_doc_video" = "Upotrebite vaš uređaj za snimanje:";
+"welcome_list_item_active_video" = "snimite video lica";
+"welcome_list_item_document" = "Snimite fotografiju identifikacionog dokumenta";
+"welcome_list_item_document_video" = "snimite video identifikacionog dokumenta";
+"welcome_list_item_face" = "snimite fotografiju lica";
+"welcome_list_item_face_video" = "snimite video lica";
+"welcome_list_item_poa" = "Snimite fotografiju dokumenta sa adresom";
+"welcome_subtitle" = "Trebalo bi da traje nekoliko minuta";
+"welcome_timeout_default" = "Snimanje je ograničeno na  sekunde";
+"welcome_title" = "Obavite proveru identiteta";
+"welcome_warning_trial" = "Ovde nemojte unositi lične podatke, osim ako ne učestvujete u probnoj verziji Onfido-a.";
+"welcome_warning_trial_title" = "Ovo je probna verzija";

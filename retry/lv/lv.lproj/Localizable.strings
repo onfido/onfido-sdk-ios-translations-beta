@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Mēģināt vēlreiz";
+"retry_button_expired_document" = "Mēģināt vēlreiz";
+"retry_button_generic_document_issue" = "Mēģināt vēlreiz";
+"retry_button_generic_selfie_issue" = "Mēģināt vēlreiz";
+"retry_button_unaccepted_document" = "Mēģināt vēlreiz";
+"retry_description_default" = "Mēģiniet vēlreiz";
+"retry_description_expired_document" = "Mēģiniet vēlreiz, izmantojot derīgu ID ar fotoattēlu, un pārliecinieties, ka jūsu informācija ir skaidri redzama";
+"retry_description_generic_document_issue" = "Mēģiniet vēlreiz, izmantojot derīgu ID ar fotoattēlu, un pārliecinieties, ka jūsu informācija ir skaidri redzama";
+"retry_description_generic_selfie_issue" = "Mēģiniet vēlreiz un pārliecinieties, ka jūsu seja ir redzama un labi apgaismota";
+"retry_description_unaccepted_document" = "Mēģiniet vēlreiz, izmantojot derīgu ID ar fotoattēlu, un pārliecinieties, ka jūsu informācija ir skaidri redzama";
+"retry_headline_default" = "Radās problēma";
+"retry_headline_expired_document" = "Jūsu dokumenta derīguma termiņš ir beidzies";
+"retry_headline_generic_document_issue" = "Ar jūsu dokumentu radās problēma";
+"retry_headline_generic_selfie_issue" = "Ar jūsu pašbildi radās problēma";
+"retry_headline_unaccepted_document" = "Nepieņemts dokuments";

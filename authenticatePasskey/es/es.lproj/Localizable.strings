@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Continuar";
+"authenticatePasskey_attempts_error_subtitle" = "Ya no puede autenticarse mediante una clave de acceso.";
+"authenticatePasskey_attempts_error_title" = "Se ha superado el número de intentos permitidos";
+"authenticatePasskey_error_button_retry" = "Reintentar";
+"authenticatePasskey_error_subtitle" = "Ocurrió un problema técnico desconocido, por favor intenta de nuevo.";
+"authenticatePasskey_error_title" = "Algo ha salido mal";
+"authenticatePasskey_introduction_bullet_1" = "Debe haber creado una clave de acceso con nosotros anteriormente.";
+"authenticatePasskey_introduction_bullet_2" = "Su dispositivo le guiará en los siguientes pasos.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Autenticar";
+"authenticatePasskey_introduction_subtitle" = "Las claves de acceso te permiten iniciar sesión de forma segura usando tu huella digital, tu rostro o el bloqueo de pantalla de tu dispositivo.";
+"authenticatePasskey_introduction_title" = "Autentíquese con su Passkey";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Continuar";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "No tiene una clave de acceso disponible para autenticarse.";
+"authenticatePasskey_no_passkey_available_error_title" = "No hay clave de acceso disponible";
+"authenticatePasskey_not_supported_error_button_continue" = "Continuar";
+"authenticatePasskey_not_supported_error_subtitle" = "Lo sentimos, no puede completar esta tarea.";
+"authenticatePasskey_not_supported_error_title" = "El dispositivo no es compatible con las claves de acceso";

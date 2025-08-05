@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "Fortsett";
+"enrollPasskey_attempts_error_subtitle" = "Du kan ikke lenger autentisere deg med en passnøkkel.";
+"enrollPasskey_attempts_error_title" = "Tillatte forsøk overskredet";
+"enrollPasskey_error_button_retry" = "Prøv igjen";
+"enrollPasskey_error_subtitle" = "Et ukjent teknisk problem oppstod, vennligst prøv igjen.";
+"enrollPasskey_error_title" = "Noe har gått galt";
+"enrollPasskey_introduction_bullet_1" = "Denne passnøkkelen vil bli brukt for domenet: ";
+"enrollPasskey_introduction_bullet_2" = "Enheten din vil veilede deg gjennom de neste trinnene.";
+"enrollPasskey_introduction_button_start_enrolling" = "Opprett passnøkkel";
+"enrollPasskey_introduction_subtitle" = "Passnøkler lar deg logge inn sikkert ved å bruke fingeravtrykk, ansikt eller enhetens skjermlås.";
+"enrollPasskey_introduction_title" = "Sett opp din Passnøkkel";
+"enrollPasskey_not_supported_error_button_continue" = "Fortsett";
+"enrollPasskey_not_supported_error_subtitle" = "Beklager, du kan ikke fullføre denne oppgaven.";
+"enrollPasskey_not_supported_error_title" = "Enheten støtter ikke passnøkler";

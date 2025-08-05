@@ -1,0 +1,17 @@
+
+"electronicId_qr_code_description" = "在您的手机上打开BankID应用程序，然后按下二维码图标";
+"electronicId_qr_code_error_code_expired" = "您的二维码已过期，请请求新的二维码";
+"electronicId_qr_code_refresh_cta" = "请求一个新的二维码";
+"electronicId_qr_code_title" = "BankID身份验证";
+"electronicId_redirection_cross_device" = "连接另一台设备";
+"electronicId_redirection_description" = "您可以通过您的手机或其他设备进行连接";
+"electronicId_redirection_list_title" = "选择一种方法";
+"electronicId_redirection_open_in_app" = "打开应用";
+"electronicId_redirection_scheme_SwedenBankId_open_in_app" = "打开 BankID 应用";
+"electronicId_redirection_title" = "选择连接方式";
+"electronicId_scheme_form_subtitle" = "从下面的列表中选择一个银行，通过进行身份Verification。";
+"electronicId_scheme_form_title" = " Verification";
+"electronicId_selection_description" = "选择发行国家以查看我们接受哪些方法";
+"electronicId_selection_list_title" = "选择一种方法";
+"electronicId_selection_select_label" = "签发国家/地区";
+"electronicId_selection_title" = "验证您的身份";

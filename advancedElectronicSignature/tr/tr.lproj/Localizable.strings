@@ -1,0 +1,9 @@
+
+"advancedElectronicSignature_error_button_retry" = "Geri dön";
+"advancedElectronicSignature_error_subtitle" = "Lütfen birkaç saniye bekleyin ve tekrar deneyin";
+"advancedElectronicSignature_error_title" = "Bir şeyler ters gitti";
+"advancedElectronicSignature_introduction_bullet_1" = "İmzalama ortamı (signhost.com) yeni bir pencerede açılacaktır.";
+"advancedElectronicSignature_introduction_bullet_2" = "İmzalama tamamlandıktan sonra, iş akışına devam etmek için tekrar yönlendirileceksiniz. Eğer yönlendirilmezseniz, lütfen manuel olarak geri dönün.";
+"advancedElectronicSignature_introduction_button_start_signing" = "Belge(leri) İncele ve İmzala";
+"advancedElectronicSignature_introduction_subtitle" = "Gözden geçirmek ve imzalamak için aşağıdaki butona dokunun";
+"advancedElectronicSignature_introduction_title" = "Gerekli belge(leri) dijital olarak imzalayın";

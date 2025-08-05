@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "Продължете";
+"enrollPasskey_attempts_error_subtitle" = "Вече не можете да се удостоверите чрез ключ за достъп.";
+"enrollPasskey_attempts_error_title" = "Надхвърлени са разрешените опити";
+"enrollPasskey_error_button_retry" = "Повторен опит";
+"enrollPasskey_error_subtitle" = "Възникна неизвестен технически проблем, моля опитайте отново.";
+"enrollPasskey_error_title" = "Нещо се обърка";
+"enrollPasskey_introduction_bullet_1" = "Този ключ за достъп ще бъде използван за домейна: ";
+"enrollPasskey_introduction_bullet_2" = "Вашето устройство ще ви насочи през следващите стъпки.";
+"enrollPasskey_introduction_button_start_enrolling" = "Създайте ключ за достъп";
+"enrollPasskey_introduction_subtitle" = "Ключовете за достъп ви позволяват да влизате сигурно, използвайки пръстов отпечатък, лице или заключване на екрана на устройството.";
+"enrollPasskey_introduction_title" = "Настройте своя ключ за достъп";
+"enrollPasskey_not_supported_error_button_continue" = "Продължете";
+"enrollPasskey_not_supported_error_subtitle" = "Съжаляваме, но не можете да завършите тази задача.";
+"enrollPasskey_not_supported_error_title" = "Устройството не поддържа passkey ключове";

@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Erstellen Sie Ihre Unterschrift";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Nach dem Lesen Ihres Dokuments, tippen Sie auf die Schaltfläche \"Dokument unterschreiben\".";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Sobald Onfido Ihre Identität verifiziert hat, wird Ihre Unterschrift auf diesem Dokument verwendet.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Dokument unterschreiben";
+"qualifiedElectronicSignature_confirmation_review_document" = "Überprüfen Sie Ihr Dokument zum Unterschreiben";
+"qualifiedElectronicSignature_confirmation_step2" = "2 von 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Unterschreiben Sie Ihr Dokument";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Um Ihre Identität gemäß den europäischen Regeln zu bestätigen, müssen Sie ein Dokument digital signieren.";
+"qualifiedElectronicSignature_confirmation_title" = "Erstellen und verwenden Sie Ihre digitale Signatur";
+"qualifiedElectronicSignature_error_misconfigured" = "Leider ist ein Fehler aufgetreten. Bitte kontaktieren Sie Ihren Support.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Erstelle meine Unterschrift";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Antragsformular für Zertifikate";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Datenschutzhinweis";
+"qualifiedElectronicSignature_introduction_step1" = "1 von 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "Um Ihre Identität gemäß den europäischen Regeln zu bestätigen, müssen Sie ein Dokument digital signieren.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Allgemeine Geschäftsbedingungen";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA ist ein vertrauenswürdiger globaler Anbieter, der ein Zertifikat zur Validierung Ihrer elektronischen Signatur ausstellt.";
+"qualifiedElectronicSignature_introduction_title" = "Erstellen und verwenden Sie Ihre digitale Signatur";
+"qualifiedElectronicSignature_introduction_validation" = "Zustimmung erforderlich";

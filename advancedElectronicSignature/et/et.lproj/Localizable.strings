@@ -1,0 +1,9 @@
+
+"advancedElectronicSignature_error_button_retry" = "Tagasi";
+"advancedElectronicSignature_error_subtitle" = "Palun oodake mõned sekundid ja proovige uuesti";
+"advancedElectronicSignature_error_title" = "Midagi läks valesti";
+"advancedElectronicSignature_introduction_bullet_1" = "Allkirjastamise keskkond (signhost.com) avaneb uues aknas.";
+"advancedElectronicSignature_introduction_bullet_2" = "Kui allkirjastamine on lõpetatud, suunatakse teid tagasi töövoogu jätkama. Kui seda ei juhtu, palun pöörduge käsitsi tagasi.";
+"advancedElectronicSignature_introduction_button_start_signing" = "Vaadake dokument(id) üle ja allkirjastage";
+"advancedElectronicSignature_introduction_subtitle" = "Puudutage allolevat nuppu, et üle vaadata ja allkirjastada";
+"advancedElectronicSignature_introduction_title" = "Allkirjasta vajalik(d) dokument(id) digitaalselt";

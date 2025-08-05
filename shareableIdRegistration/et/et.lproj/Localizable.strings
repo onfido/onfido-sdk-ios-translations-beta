@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Jätkake";
+"shareableIdRegistration_registered_subtitle" = "Kui selle kinnituse tulemus on teada, saate seda järgmine kord, kui peate oma isikut tõestama, uuesti kasutada.";
+"shareableIdRegistration_registered_title" = "Kinnitamine salvestatud";
+"shareableIdRegistration_registration_consent_description" = "Teie andmeid kasutatakse uuesti ainult siis, kui klõpsate järgmisel korral nupul „Kasuta eelmist tuvastust“.";
+"shareableIdRegistration_registration_consent_title" = "Ainult sina saad nõustuda, milliseid verifitseerimisi uuesti kasutatakse";
+"shareableIdRegistration_registration_error_action" = "Tagasi";
+"shareableIdRegistration_registration_error_subtitle" = "Tundub, et te ei saanud loomisvõtit luua. Minge tagasi, et uuesti proovida või jätkake kogu protsessiga.";
+"shareableIdRegistration_registration_error_title" = "Passkey ei ole loodud";
+"shareableIdRegistration_registration_fast_description" = "Juba kogutud teave salvestatakse, nii et saate seda uuesti kasutada, selle asemel, et läbida identiteedi kontrollimise protsess uuesti.";
+"shareableIdRegistration_registration_fast_title" = "Ärge kunagi raisake aega kordamaks kontrolli, mis juba olemas on";
+"shareableIdRegistration_registration_key_description" = "Nagu seadmesse salvestatud parool, loote unikaalse identifikaatori (võtmekoodi), mille saate igal hetkel kustutada.";
+"shareableIdRegistration_registration_key_title" = "Sul on võti voo vahelejätmiseks";
+"shareableIdRegistration_registration_save" = "Salvesta oma verifitseerimine";
+"shareableIdRegistration_registration_skip" = "Jäta vahele";
+"shareableIdRegistration_registration_title" = "Kontrolli üks kord. Kasuta uuesti";

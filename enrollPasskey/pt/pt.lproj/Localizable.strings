@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "Continuar";
+"enrollPasskey_attempts_error_subtitle" = "Já não pode autenticar-se através de uma chave de acesso.";
+"enrollPasskey_attempts_error_title" = "Tentativas permitidas excedidas";
+"enrollPasskey_error_button_retry" = "Tentar novamente";
+"enrollPasskey_error_subtitle" = "Um problema técnico desconhecido ocorreu, por favor tente novamente.";
+"enrollPasskey_error_title" = "Algo deu errado";
+"enrollPasskey_introduction_bullet_1" = "Esta chave de acesso será usada para o domínio: ";
+"enrollPasskey_introduction_bullet_2" = "O seu dispositivo irá guiá-lo pelos próximos passos.";
+"enrollPasskey_introduction_button_start_enrolling" = "Criar chave de acesso";
+"enrollPasskey_introduction_subtitle" = "As chaves de acesso permitem que você faça login com segurança usando sua impressão digital, rosto ou bloqueio de tela do dispositivo.";
+"enrollPasskey_introduction_title" = "Configure a sua Chave de Acesso";
+"enrollPasskey_not_supported_error_button_continue" = "Continuar";
+"enrollPasskey_not_supported_error_subtitle" = "Lamentamos que não consiga completar esta tarefa.";
+"enrollPasskey_not_supported_error_title" = "O dispositivo não suporta chaves de acesso";

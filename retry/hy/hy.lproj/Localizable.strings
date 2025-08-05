@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Կրկին փորձել";
+"retry_button_expired_document" = "Կրկին փորձել";
+"retry_button_generic_document_issue" = "Կրկին փորձել";
+"retry_button_generic_selfie_issue" = "Կրկին փորձել";
+"retry_button_unaccepted_document" = "Կրկին փորձել";
+"retry_description_default" = "Խնդրում ենք կրկին փորձել";
+"retry_description_expired_document" = "Կրկին փորձեք լուսանկար պարունակող, վավեր անձը հաստատող փաստաթղթով և համոզվեք, որ ձեր տվյալները հստակ երևում են";
+"retry_description_generic_document_issue" = "Կրկին փորձեք լուսանկար պարունակող, վավեր անձը հաստատող փաստաթղթով և համոզվեք, որ ձեր տվյալները հստակ երևում են";
+"retry_description_generic_selfie_issue" = "Խնդրում ենք կրկին փորձել և համոզվել, որ ձեր դեմքը երևում է և լավ լուսավորված է";
+"retry_description_unaccepted_document" = "Կրկին փորձեք լուսանկար պարունակող, վավեր անձը հաստատող փաստաթղթով և համոզվեք, որ ձեր տվյալները հստակ երևում են";
+"retry_headline_default" = "Խնդիր է եղել";
+"retry_headline_expired_document" = "Ձեր փաստաթղթի ժամկետը սպառվել է";
+"retry_headline_generic_document_issue" = "Ձեր փաստաթուղթի հետ խնդիր է եղել";
+"retry_headline_generic_selfie_issue" = "Ձեր սելֆիի հետ խնդիր է եղել";
+"retry_headline_unaccepted_document" = "Անվավեր փաստաթուղթ";

@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Kreirajte svoj potpis";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Nakon čitanja vašeg dokumenta, dodirnite dugme \"Potpišite dokument\".";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Jednom kada Onfido verifikuje vaš identitet, vaš potpis će biti korišćen na ovom dokumentu.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Potpiši dokument";
+"qualifiedElectronicSignature_confirmation_review_document" = "Pregledajte vaš dokument za potpisivanje";
+"qualifiedElectronicSignature_confirmation_step2" = "2 od 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Potpišite vaš dokument";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Da biste potvrdili svoj identitet u skladu sa evropskim pravilima, morate digitalno potpisati dokument.";
+"qualifiedElectronicSignature_confirmation_title" = "Креирајте и користите свој дигитални потпис";
+"qualifiedElectronicSignature_error_misconfigured" = "Nažalost, došlo je do greške. Molimo vas da kontaktirate vašu podršku.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Kreiraj moj potpis";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Formular za prijavu sertifikata";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Obaveštenje o privatnosti";
+"qualifiedElectronicSignature_introduction_step1" = "1 od 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "Da biste potvrdili svoj identitet u skladu sa evropskim pravilima, morate digitalno potpisati dokument.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Uslovi i odredbe";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA je pouzdan globalni provajder koji će izdati sertifikat koji potvrđuje vaš elektronski potpis.";
+"qualifiedElectronicSignature_introduction_title" = "Креирајте и користите свој дигитални потпис";
+"qualifiedElectronicSignature_introduction_validation" = "Potrebna saglasnost";

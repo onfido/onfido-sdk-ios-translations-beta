@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Създайте своя подпис";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "След като прочетете вашия документ, натиснете бутона „Подпиши документ“.";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "След като Onfido потвърди самоличността ви, подписът ви ще бъде използван в този документ.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Подпишете документ";
+"qualifiedElectronicSignature_confirmation_review_document" = "Прегледайте ваш документ за подпис";
+"qualifiedElectronicSignature_confirmation_step2" = "2 от 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Подпишете вашия документ";
+"qualifiedElectronicSignature_confirmation_subtitle" = "За да потвърдите самоличността си в съответствие с европейските правила, трябва да подпишете дигитално документ.";
+"qualifiedElectronicSignature_confirmation_title" = "Създайте и използвайте вашата дигитална подпис";
+"qualifiedElectronicSignature_error_misconfigured" = "За съжаление, възникна грешка. Моля, свържете се с вашата поддръжка.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Създайте моя подпис";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Формуляр за кандидатстване за сертификат";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Известие за поверителност";
+"qualifiedElectronicSignature_introduction_step1" = "1 от 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "За да потвърдите самоличността си в съответствие с европейските правила, трябва да подпишете дигитално документ.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Общи условия";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA е доверен глобален доставчик, който ще издаде сертификат за валидиране на вашата електронна подпис.";
+"qualifiedElectronicSignature_introduction_title" = "Създайте и използвайте вашата дигитална подпис";
+"qualifiedElectronicSignature_introduction_validation" = "Необходимо съгласие";

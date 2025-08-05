@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Nastavi";
+"authenticatePasskey_attempts_error_subtitle" = "Više se ne možete autentificirati putem ključa za pristup.";
+"authenticatePasskey_attempts_error_title" = "Premašen dopušten broj pokušaja";
+"authenticatePasskey_error_button_retry" = "Pokušajte ponovno";
+"authenticatePasskey_error_subtitle" = "Došlo je do nepoznatog tehničkog problema, molimo pokušajte ponovno.";
+"authenticatePasskey_error_title" = "Nešto je pošlo po zlu";
+"authenticatePasskey_introduction_bullet_1" = "Morate prethodno imati kreiran pristupni ključ kod nas.";
+"authenticatePasskey_introduction_bullet_2" = "Vaš će vas uređaj voditi kroz sljedeće korake.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Autentificiraj";
+"authenticatePasskey_introduction_subtitle" = "Pristupni ključevi omogućuju sigurno prijavljivanje pomoću otiska prsta, lica ili zaključavanja zaslona uređaja.";
+"authenticatePasskey_introduction_title" = "Autentificirajte se pomoću svog ključa za pristup";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Nastavi";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "Nemate dostupnog ključa za pristup za autentifikaciju.";
+"authenticatePasskey_no_passkey_available_error_title" = "Nema dostupnog ključa za pristup";
+"authenticatePasskey_not_supported_error_button_continue" = "Nastavi";
+"authenticatePasskey_not_supported_error_subtitle" = "Nažalost, ne možete dovršiti ovaj zadatak.";
+"authenticatePasskey_not_supported_error_title" = "Uređaj ne podržava pristupne ključeve";

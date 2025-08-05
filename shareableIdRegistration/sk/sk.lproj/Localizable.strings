@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Pokračovať";
+"shareableIdRegistration_registered_subtitle" = "Akonáhle bude výsledok tejto verifikácie známy, budete ho môcť znovu použiť, keď budete nabudúce potrebovať preukázať svoju totožnosť.";
+"shareableIdRegistration_registered_title" = "Overenie uložené";
+"shareableIdRegistration_registration_consent_description" = "Vaše údaje sa znovu využijú len vtedy, ak pri nasledujúcom použití stlačíte tlačidlo „Použiť predchádzajúce overenie“.";
+"shareableIdRegistration_registration_consent_title" = "Iba vy môžete súhlasiť s tým, ktoré overenia sa znovu použijú";
+"shareableIdRegistration_registration_error_action" = "Vráťte sa späť";
+"shareableIdRegistration_registration_error_subtitle" = "Zdá sa, že sa vám nepodarilo vytvoriť heslo. Vráťte sa späť a skúste to znova alebo pokračujte v celom procese.";
+"shareableIdRegistration_registration_error_title" = "Heslo nebolo vytvorené";
+"shareableIdRegistration_registration_fast_description" = "Informácie, ktoré už boli zhromaždené, budú uložené, takže ich môžete znovu použiť namiesto toho, aby ste museli znovu prechádzať procesom overovania totožnosti.";
+"shareableIdRegistration_registration_fast_title" = "Nikdy nezbytočne opakujte overenie, ktoré už existuje";
+"shareableIdRegistration_registration_key_description" = "Ako heslo uložené na vašom zariadení, vytvoríte si jedinečný identifikátor (kľúč), ktorý môžete kedykoľvek odstrániť.";
+"shareableIdRegistration_registration_key_title" = "Budete držať kľúč na preskočenie postupu";
+"shareableIdRegistration_registration_save" = "Uložte svoje overenie";
+"shareableIdRegistration_registration_skip" = "Preskočiť";
+"shareableIdRegistration_registration_title" = "Overte raz. Znova použite";

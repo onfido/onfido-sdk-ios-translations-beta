@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Συνέχεια";
+"authenticatePasskey_attempts_error_subtitle" = "Δεν μπορείτε πλέον να πραγματοποιήσετε ταυτοποίηση μέσω κλειδιού πρόσβασης.";
+"authenticatePasskey_attempts_error_title" = "Υπερβήκατε τον επιτρεπόμενο αριθμό προσπαθειών";
+"authenticatePasskey_error_button_retry" = "Προσπαθήστε ξανά";
+"authenticatePasskey_error_subtitle" = "Παρουσιάστηκε άγνωστο τεχνικό πρόβλημα, παρακαλώ δοκιμάστε ξανά.";
+"authenticatePasskey_error_title" = "Κάτι πήγε στραβά";
+"authenticatePasskey_introduction_bullet_1" = "Πρέπει να έχετε δημιουργήσει ένα κλειδί πρόσβασης μαζί μας στο παρελθόν.";
+"authenticatePasskey_introduction_bullet_2" = "Η συσκευή σας θα σας καθοδηγήσει στα επόμενα βήματα.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Επαληθεύστε ταυτότητα";
+"authenticatePasskey_introduction_subtitle" = "Τα passkeys σάς επιτρέπουν να συνδέεστε με ασφάλεια χρησιμοποιώντας το δακτυλικό σας αποτύπωμα, το πρόσωπό σας ή το κλείδωμα οθόνης της συσκευής σας.";
+"authenticatePasskey_introduction_title" = "Επαληθεύστε την ταυτότητά σας με το κλειδί πρόσβασης";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Συνέχεια";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "Δεν έχετε διαθέσιμο κλειδί πρόσβασης για να πραγματοποιήσετε ταυτοποίηση.";
+"authenticatePasskey_no_passkey_available_error_title" = "Δεν υπάρχει διαθέσιμο κλειδί πρόσβασης";
+"authenticatePasskey_not_supported_error_button_continue" = "Συνέχεια";
+"authenticatePasskey_not_supported_error_subtitle" = "Λυπούμαστε, δεν μπορείτε να ολοκληρώσετε αυτή την εργασία.";
+"authenticatePasskey_not_supported_error_title" = "Η συσκευή δεν υποστηρίζει passkeys";

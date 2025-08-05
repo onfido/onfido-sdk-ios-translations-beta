@@ -1,0 +1,17 @@
+
+"electronicId_qr_code_description" = "Mở ứng dụng BankID trên điện thoại của bạn và nhấn vào biểu tượng mã QR";
+"electronicId_qr_code_error_code_expired" = "Mã QR của bạn đã hết hạn, vui lòng yêu cầu một cái mới";
+"electronicId_qr_code_refresh_cta" = "Yêu cầu một mã QR mới";
+"electronicId_qr_code_title" = "Xác minh BankID";
+"electronicId_redirection_cross_device" = "Kết nối với một thiết bị khác";
+"electronicId_redirection_description" = "Bạn có thể kết nối thông qua điện thoại di động của mình hoặc thiết bị khác";
+"electronicId_redirection_list_title" = "Chọn một phương pháp";
+"electronicId_redirection_open_in_app" = "Mở ứng dụng";
+"electronicId_redirection_scheme_SwedenBankId_open_in_app" = "Mở ứng dụng BankID";
+"electronicId_redirection_title" = "Chọn cách kết nối";
+"electronicId_scheme_form_subtitle" = "Chọn một ngân hàng từ danh sách dưới đây để xác minh bản thân qua ";
+"electronicId_scheme_form_title" = " Verification";
+"electronicId_selection_description" = "Chọn quốc gia phát hành để xem chúng tôi chấp nhận phương pháp nào";
+"electronicId_selection_list_title" = "Chọn một phương pháp";
+"electronicId_selection_select_label" = "Quốc gia cấp giấy tờ";
+"electronicId_selection_title" = "Xác minh danh tính của bạn";

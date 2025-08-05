@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Začni s preverjanjem";
+"welcome_button_studio" = "Začni s preverjanjem";
+"welcome_button_trial" = "Začni s preverjanjem (TEST)";
+"welcome_list_header_default" = "Uporabite napravo za:";
+"welcome_list_header_doc_video" = "Uporabite napravo za snemanje:";
+"welcome_list_item_active_video" = "Posnemite videoposnetek svojega obraza";
+"welcome_list_item_document" = "Fotografirajte osebni dokument";
+"welcome_list_item_document_video" = "Posnemite video posnetek osebnega dokumenta";
+"welcome_list_item_face" = "Fotografirajte obraz";
+"welcome_list_item_face_video" = "Posnemite videoposnetek svojega obraza";
+"welcome_list_item_poa" = "Fotografirajte dokument z vašim naslovom";
+"welcome_subtitle" = "Trajalo bo nekaj minut";
+"welcome_timeout_default" = "Snemanje je omejeno na  sekunde";
+"welcome_title" = "Potrdite svojo identiteto";
+"welcome_warning_trial" = "Tukaj ne delite osebnih podatkov, razen če sodelujete v Onfidovem preskušanju.";
+"welcome_warning_trial_title" = "To je preizkus";

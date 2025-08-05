@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Verifizierung beginnen";
+"welcome_button_studio" = "Verifizierung beginnen";
+"welcome_button_trial" = "Verifizierung beginnen (TEST)";
+"welcome_list_header_default" = "Benutzen Sie Ihr Gerät:";
+"welcome_list_header_doc_video" = "Nutzen Sie Ihr Gerät um Folgendes aufzunehmen:";
+"welcome_list_item_active_video" = "Nehmen Sie ein Video von Ihrem Gesicht auf";
+"welcome_list_item_document" = "Machen Sie ein Foto von Ihrem Ausweisdokument";
+"welcome_list_item_document_video" = "Nehmen Sie ein Video von Ihrem Ausweisdokument auf";
+"welcome_list_item_face" = "Machen Sie ein Foto von Ihrem Gesicht";
+"welcome_list_item_face_video" = "Nehmen Sie ein Video von Ihrem Gesicht auf";
+"welcome_list_item_poa" = "Machen Sie ein Foto von einem Dokument mit Ihrer Adresse";
+"welcome_subtitle" = "Es dauert nur wenige Minuten";
+"welcome_timeout_default" = "Die Aufnahme ist auf  Sekunden beschränkt";
+"welcome_title" = "Identität überprüfen";
+"welcome_warning_trial" = "Geben Sie hier keine personenbezogenen Daten weiter, es sei denn, Sie nehmen an einer Onfido-Studie teil.";
+"welcome_warning_trial_title" = "Dies ist eine Testversion";

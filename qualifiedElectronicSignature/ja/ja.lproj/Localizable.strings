@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "あなたの署名を作成する";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "あなたのドキュメントを読んだ後、「ドキュメントに署名する」ボタンをタップしてください。";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Onfidoがあなたの身元を確認すると、あなたの署名がこの文書に使用されます。";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "文書に署名する";
+"qualifiedElectronicSignature_confirmation_review_document" = "署名するためにあなたのドキュメントをレビューしてください";
+"qualifiedElectronicSignature_confirmation_step2" = "2つ中の2つ";
+"qualifiedElectronicSignature_confirmation_steps" = "あなたの文書に署名してください";
+"qualifiedElectronicSignature_confirmation_subtitle" = "ヨーロッパの規則に従ってあなたの身元を確認するために、文書にデジタル署名をする必要があります。";
+"qualifiedElectronicSignature_confirmation_title" = "デジタル署名を作成して使用する";
+"qualifiedElectronicSignature_error_misconfigured" = "残念ながら、エラーが発生しました。サポートに連絡してください。";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "私の署名を作成する";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "証明書申請書";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "プライバシー通知";
+"qualifiedElectronicSignature_introduction_step1" = "2つのうち1つ";
+"qualifiedElectronicSignature_introduction_subtitle" = "ヨーロッパの規則に従ってあなたの身元を確認するために、文書にデジタル署名をする必要があります。";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "利用規約";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpAは、あなたの電子署名の検証証明書を発行する信頼できるグローバルプロバイダーです。";
+"qualifiedElectronicSignature_introduction_title" = "デジタル署名を作成して使用する";
+"qualifiedElectronicSignature_introduction_validation" = "同意が必要です";

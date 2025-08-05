@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Alustage tuvastamist";
+"welcome_button_studio" = "Alustage tuvastamist";
+"welcome_button_trial" = "Alustage tuvastamist (TEST)";
+"welcome_list_header_default" = "Seadme abil saate teha järgmist.";
+"welcome_list_header_doc_video" = "Kasutage oma seadet, et salvestada järgmist.";
+"welcome_list_item_active_video" = "Näost video salvestamine";
+"welcome_list_item_document" = "Isikut tõendava dokumendi pildistamine";
+"welcome_list_item_document_video" = "Isikut tõendavast dokumendist video salvestamine";
+"welcome_list_item_face" = "Näo pildistamine";
+"welcome_list_item_face_video" = "Näost video salvestamine";
+"welcome_list_item_poa" = "Pildistage oma aadressiga dokumenti";
+"welcome_subtitle" = "See peaks võtma mõne minuti";
+"welcome_timeout_default" = "Salvestamine on piiratud  sekunditega";
+"welcome_title" = "Kinnitage oma isik";
+"welcome_warning_trial" = "Ärge jagage siin isikuandmeid, välja arvatud juhul, kui osalete Onfido prooviversioonis.";
+"welcome_warning_trial_title" = "See on prooviversioon";

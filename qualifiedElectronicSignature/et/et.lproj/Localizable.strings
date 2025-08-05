@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Loo oma allkiri";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Pärast oma dokumendi lugemist vajutage nuppu „Allkirjasta dokument“.";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Kui Onfido on teie isikutuvastuse kinnitanud, kasutatakse teie allkirja selles dokumendis.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Allkirjasta dokument";
+"qualifiedElectronicSignature_confirmation_review_document" = "Vaata oma dokumenti allkirjastamiseks";
+"qualifiedElectronicSignature_confirmation_step2" = "2-st 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Allkirjasta oma dokument";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Et kinnitada oma isikut vastavalt Euroopa eeskirjadele, peate digitaalselt allkirjastama dokumendi.";
+"qualifiedElectronicSignature_confirmation_title" = "Loo ja kasuta oma digitaalset allkirja";
+"qualifiedElectronicSignature_error_misconfigured" = "Kahjuks on ilmnenud viga. Palun võtke ühendust oma toega.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Loo minu allkiri";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Sertifikaadi taotlusvorm";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Privaatsusteade";
+"qualifiedElectronicSignature_introduction_step1" = "1 2-st";
+"qualifiedElectronicSignature_introduction_subtitle" = "Et kinnitada oma isikut vastavalt Euroopa eeskirjadele, peate digitaalselt allkirjastama dokumendi.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Kasutustingimused";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA on usaldusväärne globaalne teenusepakkuja, kes väljastab sertifikaadi, kinnitades teie elektroonilist allkirja.";
+"qualifiedElectronicSignature_introduction_title" = "Loo ja kasuta oma digitaalset allkirja";
+"qualifiedElectronicSignature_introduction_validation" = "Nõusolek vajalik";

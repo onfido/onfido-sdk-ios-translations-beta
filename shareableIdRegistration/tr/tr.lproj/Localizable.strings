@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Devam et";
+"shareableIdRegistration_registered_subtitle" = "Bu doğrulamanın sonucu bilindiğinde, kimliğinizi kanıtlamanız gerektiğinde bir sonraki seferde tekrar kullanabileceksiniz.";
+"shareableIdRegistration_registered_title" = "Doğrulama kaydedildi";
+"shareableIdRegistration_registration_consent_description" = "Bir sonraki seferde `Önceki doğrulamayı kullan` düğmesine tıklarsanız verileriniz yalnızca o zaman yeniden kullanılacaktır.";
+"shareableIdRegistration_registration_consent_title" = "Sadece siz hangi doğrulamaların yeniden kullanılacağına onay verebilirsiniz";
+"shareableIdRegistration_registration_error_action" = "Geri dön";
+"shareableIdRegistration_registration_error_subtitle" = "Görünüşe göre bir geçiş anahtarı oluşturamadınız. Tekrar denemek için geri dönün veya süreci tamamlamak için devam edin.";
+"shareableIdRegistration_registration_error_title" = "Anahtar oluşturulmadı";
+"shareableIdRegistration_registration_fast_description" = "Zaten toplanan bilgiler kaydedilecek, böylece kimlik doğrulama sürecinden tekrar geçmek yerine bunları yeniden kullanabilirsiniz.";
+"shareableIdRegistration_registration_fast_title" = "Zaten var olan bir kimlik doğrulamasını tekrarlamak için asla zaman harcamayın";
+"shareableIdRegistration_registration_key_description" = "Cihazınızda saklanan bir şifre gibi, her an silebileceğiniz benzersiz bir tanımlayıcı (bir geçiş anahtarı) oluşturacaksınız.";
+"shareableIdRegistration_registration_key_title" = "Akışı atlamak için anahtarı siz tutacaksınız";
+"shareableIdRegistration_registration_save" = "Doğrulamanızı kaydedin";
+"shareableIdRegistration_registration_skip" = "Atla";
+"shareableIdRegistration_registration_title" = "Bir kez doğrula. Tekrar kullan";

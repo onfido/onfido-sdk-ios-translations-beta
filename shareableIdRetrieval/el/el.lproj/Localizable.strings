@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Συνέχεια";
+"shareableIdRetrieval_intro_error_subtitle" = "Δεν έχετε ένα αναγνωρίσιμο κλειδί πρόσβασης στη συσκευή σας. Παρακαλώ συνεχίστε στην ολοκληρωμένη διαδικασία.";
+"shareableIdRetrieval_intro_error_title" = "Δεν βρέθηκε κλειδί πρόσβασης";
+"shareableIdRetrieval_intro_or" = "Ή";
+"shareableIdRetrieval_intro_searching" = "Αναζήτηση για προηγούμενες επαληθεύσεις";
+"shareableIdRetrieval_intro_start_idv_action" = "Ξεκινήστε την επαλήθευση ταυτότητας";
+"shareableIdRetrieval_intro_start_idv_description" = "Θα ζητήσουμε κάποια έγγραφα και προσωπικές πληροφορίες από εσάς, που μπορούν να μας βοηθήσουν να γνωρίζουμε ποιος λέτε ότι είστε.";
+"shareableIdRetrieval_intro_subtitle" = "Για λόγους ασφαλείας και προστασίας από απάτη, πρέπει να επαληθεύσουμε την ταυτότητά σας.";
+"shareableIdRetrieval_intro_title" = "Επαληθεύστε την ταυτότητά σας";
+"shareableIdRetrieval_intro_use_sid_action" = "Χρησιμοποιήστε μια προηγούμενη επαλήθευση";
+"shareableIdRetrieval_intro_use_sid_title" = "Μπορείτε να επαναχρησιμοποιήσετε μόνο μια επαλήθευση που έχει ολοκληρωθεί επιτυχώς και έχει αποθηκευτεί εκ των προτέρων.";

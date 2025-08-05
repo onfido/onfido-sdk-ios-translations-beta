@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Tęsti";
+"shareableIdRegistration_registered_subtitle" = "Kai bus žinomas šio patikrinimo rezultatas, galėsite jį panaudoti kitą kartą, kai reikės įrodyti savo tapatybę.";
+"shareableIdRegistration_registered_title" = "Tapatybės patvirtinimas išsaugotas";
+"shareableIdRegistration_registration_consent_description" = "Jūsų duomenys bus panaudoti iš naujo tik tada, jei kitą kartą paspausite mygtuką „Naudoti ankstesnį patikrinimą“.";
+"shareableIdRegistration_registration_consent_title" = "Tik jūs galite sutikti, kurios patvirtinimai bus pakartotinai naudojami";
+"shareableIdRegistration_registration_error_action" = "Grįžti atgal";
+"shareableIdRegistration_registration_error_subtitle" = "Atrodo, kad jums nepavyko sukurti slaptuko. Grįžkite, kad bandytumėte dar kartą, arba tęskite visą procesą.";
+"shareableIdRegistration_registration_error_title" = "Slaptažodis nesukurtas";
+"shareableIdRegistration_registration_fast_description" = "Jau surinkta informacija bus išsaugota, todėl galėsite ją panaudoti iš naujo, o ne vėl eiti per tapatybės patvirtinimo procesą.";
+"shareableIdRegistration_registration_fast_title" = "Niekada nešvaistykite laiko pakartodami patvirtinimą, kuris jau egzistuoja";
+"shareableIdRegistration_registration_key_description" = "Taip kaip slaptažodis, išsaugotas jūsų įrenginyje, jūs sukursite unikalų identifikatorių (slaptažodį), kurį galėsite ištrinti bet kuriuo metu.";
+"shareableIdRegistration_registration_key_title" = "Jūs turėsite raktą, kad praleistumėte procesą";
+"shareableIdRegistration_registration_save" = "Išsaugokite savo patvirtinimą";
+"shareableIdRegistration_registration_skip" = "Praleisti";
+"shareableIdRegistration_registration_title" = "Patikrinkite vieną kartą. Panaudokite dar kartą";

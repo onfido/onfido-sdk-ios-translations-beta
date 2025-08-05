@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Fortfahren";
+"shareableIdRetrieval_intro_error_subtitle" = "Sie haben keinen erkennbaren Passkey auf Ihrem Gerät. Bitte fahren Sie mit dem vollständigen Prozess fort.";
+"shareableIdRetrieval_intro_error_title" = "Kein Passschlüssel gefunden";
+"shareableIdRetrieval_intro_or" = "ODER";
+"shareableIdRetrieval_intro_searching" = "Suche nach vorherigen Überprüfungen";
+"shareableIdRetrieval_intro_start_idv_action" = "Starten Sie die Identitätsüberprüfung";
+"shareableIdRetrieval_intro_start_idv_description" = "Wir werden einige Dokumente und persönliche Informationen von Ihnen anfordern, die uns helfen können zu verstehen, wer Sie sagen, dass Sie sind.";
+"shareableIdRetrieval_intro_subtitle" = "Aus Sicherheitsgründen und zum Schutz vor Betrug müssen wir Ihre Identität überprüfen.";
+"shareableIdRetrieval_intro_title" = "Identität überprüfen";
+"shareableIdRetrieval_intro_use_sid_action" = "Verwenden Sie eine vorherige Identitätsüberprüfung";
+"shareableIdRetrieval_intro_use_sid_title" = "Sie können nur eine Überprüfung wiederverwenden, die zuvor erfolgreich abgeschlossen und gespeichert wurde.";

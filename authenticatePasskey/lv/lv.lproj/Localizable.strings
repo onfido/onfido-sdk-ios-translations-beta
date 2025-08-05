@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Turpināt";
+"authenticatePasskey_attempts_error_subtitle" = "Jūs vairs nevarat autentificēties, izmantojot piekļuves atslēgu.";
+"authenticatePasskey_attempts_error_title" = "Atļauto mēģinājumu skaits ir pārsniegts";
+"authenticatePasskey_error_button_retry" = "Mēģināt vēlreiz";
+"authenticatePasskey_error_subtitle" = "Radās nezināma tehniska problēma, lūdzu, mēģiniet vēlreiz.";
+"authenticatePasskey_error_title" = "Kaut kas ir nogājis greizi";
+"authenticatePasskey_introduction_bullet_1" = "Jums iepriekš pie mums bija jāizveido piekļuves atslēga.";
+"authenticatePasskey_introduction_bullet_2" = "Jūsu ierīce jūs vadīs nākamajos soļos.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Autentificēt";
+"authenticatePasskey_introduction_subtitle" = "Piekļuves atslēgas ļauj droši pieteikties, izmantojot pirkstu nospiedumu, seju vai ierīces ekrāna bloķēšanu.";
+"authenticatePasskey_introduction_title" = "Autentificējieties ar savu piekļuves atslēgu";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Turpināt";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "Jums nav pieejamas piekļuves atslēgas, ar kuru autentificēties.";
+"authenticatePasskey_no_passkey_available_error_title" = "Nav pieejama piekļuves atslēga";
+"authenticatePasskey_not_supported_error_button_continue" = "Turpināt";
+"authenticatePasskey_not_supported_error_subtitle" = "Atvainojiet, jūs nevarat pabeigt šo uzdevumu.";
+"authenticatePasskey_not_supported_error_title" = "Ierīce neatbalsta piekļuves atslēgas";

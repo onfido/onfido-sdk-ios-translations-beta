@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Fortfahren";
+"shareableIdRegistration_registered_subtitle" = "Sobald das Ergebnis dieser Identitätsprüfung bekannt ist, können Sie es das nächste Mal wiederverwenden, wenn Sie Ihre Identität nachweisen müssen.";
+"shareableIdRegistration_registered_title" = "Überprüfung gespeichert";
+"shareableIdRegistration_registration_consent_description" = "Ihre Daten werden nur wiederverwendet, wenn Sie beim nächsten Mal auf die Schaltfläche `Eine vorherige Überprüfung verwenden` klicken.";
+"shareableIdRegistration_registration_consent_title" = "Nur Sie können einwilligen, welche Verifizierungen wiederverwendet werden";
+"shareableIdRegistration_registration_error_action" = "Geh zurück";
+"shareableIdRegistration_registration_error_subtitle" = "Es scheint, dass Sie keinen Passschlüssel erstellen konnten. Gehen Sie zurück, um es erneut zu versuchen, oder fahren Sie fort, um den gesamten Prozess abzuschließen.";
+"shareableIdRegistration_registration_error_title" = "Passwort nicht erstellt";
+"shareableIdRegistration_registration_fast_description" = "Bereits gesammelte Informationen werden gespeichert, so dass Sie diese wiederverwenden können, anstatt den Identitätsprüfungsprozess erneut durchlaufen zu müssen.";
+"shareableIdRegistration_registration_fast_title" = "Verschwenden Sie niemals Zeit damit, eine bereits vorhandene Identitätsüberprüfung zu wiederholen";
+"shareableIdRegistration_registration_key_description" = "Wie ein auf Ihrem Gerät gespeichertes Passwort erstellen Sie einen einzigartigen Identifikator (einen Passschlüssel), den Sie jederzeit löschen können.";
+"shareableIdRegistration_registration_key_title" = "Sie halten den Schlüssel, um den Fluss zu überspringen";
+"shareableIdRegistration_registration_save" = "Speichern Sie Ihre Identitätsüberprüfung";
+"shareableIdRegistration_registration_skip" = "Überspringen";
+"shareableIdRegistration_registration_title" = "Einmal überprüfen. Wieder verwenden";

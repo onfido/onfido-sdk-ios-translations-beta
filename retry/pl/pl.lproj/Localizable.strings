@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Spróbuj ponownie";
+"retry_button_expired_document" = "Spróbuj ponownie";
+"retry_button_generic_document_issue" = "Spróbuj ponownie";
+"retry_button_generic_selfie_issue" = "Spróbuj ponownie";
+"retry_button_unaccepted_document" = "Spróbuj ponownie";
+"retry_description_default" = "Spróbuj ponownie";
+"retry_description_expired_document" = "Spróbuj ponownie z ważnym dokumentem tożsamości ze zdjęciem i upewnij się, że Twoje dane są wyraźnie widoczne";
+"retry_description_generic_document_issue" = "Spróbuj ponownie z ważnym dokumentem tożsamości ze zdjęciem i upewnij się, że Twoje dane są wyraźnie widoczne";
+"retry_description_generic_selfie_issue" = "Spróbuj ponownie i upewnij się, że twarz jest widoczna i dobrze oświetlona";
+"retry_description_unaccepted_document" = "Spróbuj ponownie z ważnym dokumentem tożsamości ze zdjęciem i upewnij się, że Twoje dane są wyraźnie widoczne";
+"retry_headline_default" = "Wystąpił problem";
+"retry_headline_expired_document" = "Twój dokument stracił ważność";
+"retry_headline_generic_document_issue" = "Wystąpił problem z twoim dokumentem";
+"retry_headline_generic_selfie_issue" = "Wystąpił problem z Twoim selfie";
+"retry_headline_unaccepted_document" = "Dokument nie został zaakceptowany";

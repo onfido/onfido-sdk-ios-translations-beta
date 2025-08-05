@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Jätkake";
+"authenticatePasskey_attempts_error_subtitle" = "Te ei saa enam autentida võtmekoodi abil.";
+"authenticatePasskey_attempts_error_title" = "Lubatud katsete arv on ületatud";
+"authenticatePasskey_error_button_retry" = "Proovige uuesti";
+"authenticatePasskey_error_subtitle" = "Tekkis tundmatu tehniline probleem, palun proovige uuesti.";
+"authenticatePasskey_error_title" = "Midagi läks valesti";
+"authenticatePasskey_introduction_bullet_1" = "Te peate olema varem meie juures passkey loonud.";
+"authenticatePasskey_introduction_bullet_2" = "Teie seade juhendab teid järgmistes sammudes.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Autendi";
+"authenticatePasskey_introduction_subtitle" = "Pääsuvõtmed võimaldavad teil turvaliselt sisse logida sõrmejälje, näotuvastuse või seadme ekraaniluku abil.";
+"authenticatePasskey_introduction_title" = "Tuvastage end oma passkey abil";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Jätkake";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "Teil ei ole autentimiseks saadaval passkey`d.";
+"authenticatePasskey_no_passkey_available_error_title" = "Passkey pole saadaval";
+"authenticatePasskey_not_supported_error_button_continue" = "Jätkake";
+"authenticatePasskey_not_supported_error_subtitle" = "Kahjuks ei saa te seda ülesannet lõpule viia.";
+"authenticatePasskey_not_supported_error_title" = "Seade ei toeta pääsuvõtmeid";

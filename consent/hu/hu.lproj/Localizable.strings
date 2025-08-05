@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "Elfogad";
+"consent_button_secondary" = "Nem fogadja el";
+"consent_loading_error_button_primary" = "Képernyő újratöltése";
+"consent_loading_error_detail" = "Ellenőrizze, hogy stabil-e a kapcsolat, majd próbálja újra";
+"consent_loading_error_title" = "A tartalmat nem sikerült betölteni";
+"consent_prompt_button_primary" = "Igen, ne azonosítson";
+"consent_prompt_button_secondary" = "Ismételt ellenőrzés";
+"consent_prompt_no_consent_detail" = "Ha nem fogadja el az Onfido adatvédelmi nyilatkozatát és szolgáltatási feltételeit, nem tudjuk ellenőrizni személyazonosságát, és kilép ebből a lépésből.";
+"consent_prompt_no_consent_title" = "Biztos benne?";

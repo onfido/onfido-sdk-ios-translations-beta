@@ -1,0 +1,16 @@
+
+"retry_button_default" = "إعادة المحاولة";
+"retry_button_expired_document" = "إعادة المحاولة";
+"retry_button_generic_document_issue" = "إعادة المحاولة";
+"retry_button_generic_selfie_issue" = "إعادة المحاولة";
+"retry_button_unaccepted_document" = "إعادة المحاولة";
+"retry_description_default" = "يُرجى إعادة المحاولة";
+"retry_description_expired_document" = "يُرجى المحاولة مرة أخرى باستخدام بطاقة هوية صالحة تحمل صورة والتأكد من أن معلوماتك مرئية بوضوح";
+"retry_description_generic_document_issue" = "يُرجى المحاولة مرة أخرى باستخدام بطاقة هوية صالحة تحمل صورة والتأكد من أن معلوماتك مرئية بوضوح";
+"retry_description_generic_selfie_issue" = "يرجى المحاولة مرة أخرى، والتأكد من أن وجهك مرئي ومضاء جيدًا";
+"retry_description_unaccepted_document" = "يُرجى المحاولة مرة أخرى باستخدام بطاقة هوية صالحة تحمل صورة والتأكد من أن معلوماتك مرئية بوضوح";
+"retry_headline_default" = "كان هناك مشكلة";
+"retry_headline_expired_document" = "انتهت صلاحية مستندك";
+"retry_headline_generic_document_issue" = "كان هناك مشكلة في وثيقتك";
+"retry_headline_generic_selfie_issue" = "كان هناك مشكلة مع صورتك الشخصية";
+"retry_headline_unaccepted_document" = "مستند غير مقبول";

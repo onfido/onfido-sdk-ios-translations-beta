@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "認証を開始";
+"welcome_button_studio" = "認証を開始";
+"welcome_button_trial" = "認証を開始（テスト）";
+"welcome_list_header_default" = "デバイスを使用して次のことを行います。";
+"welcome_list_header_doc_video" = "デバイスを使用して以下を記録してください。";
+"welcome_list_item_active_video" = "顔の動画を録画する";
+"welcome_list_item_document" = "身分証明書の写真を撮影する";
+"welcome_list_item_document_video" = "身分証明書の動画を録画する";
+"welcome_list_item_face" = "顔写真を撮る";
+"welcome_list_item_face_video" = "顔の動画を録画する";
+"welcome_list_item_poa" = "住所が記載されたドキュメントの写真を撮影してください";
+"welcome_subtitle" = "数分かかります";
+"welcome_timeout_default" = "録画は秒に制限されています";
+"welcome_title" = "本人確認を行う";
+"welcome_warning_trial" = "Onfidoトライアルに参加していない限り、ここで個人データを共有しないでください。";
+"welcome_warning_trial_title" = "これは試用版です";

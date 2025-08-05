@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Create your signature";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "After reading your document, tap the “Sign document” button.";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Once Onfido verifies your identity, your signature will be used on this document.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Sign document";
+"qualifiedElectronicSignature_confirmation_review_document" = "Review your document to sign";
+"qualifiedElectronicSignature_confirmation_step2" = "2 of 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Sign your document";
+"qualifiedElectronicSignature_confirmation_subtitle" = "To confirm your identity in accordance with European rules, you must digitally sign a document.";
+"qualifiedElectronicSignature_confirmation_title" = "Create and use your digital signature";
+"qualifiedElectronicSignature_error_misconfigured" = "Unfortunately, an error has occurred. Please contact your support.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Create my signature";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Certificate application form";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Privacy notice";
+"qualifiedElectronicSignature_introduction_step1" = "1 of 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "To confirm your identity in accordance with European rules, you must digitally sign a document.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Terms and conditions";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA is a trusted global provider who will issue a certificate validating your electronic signature.";
+"qualifiedElectronicSignature_introduction_title" = "Create and use your digital signature";
+"qualifiedElectronicSignature_introduction_validation" = "Consent required";

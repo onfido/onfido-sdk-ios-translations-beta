@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Poskusite znova";
+"retry_button_expired_document" = "Poskusite znova";
+"retry_button_generic_document_issue" = "Poskusite znova";
+"retry_button_generic_selfie_issue" = "Poskusite znova";
+"retry_button_unaccepted_document" = "Poskusite znova";
+"retry_description_default" = "Poskusite znova";
+"retry_description_expired_document" = "Poskusite znova z veljavnim osebnim dokumentom s fotografijo in preverite, ali so vaši podatki jasno vidni";
+"retry_description_generic_document_issue" = "Poskusite znova z veljavnim osebnim dokumentom s fotografijo in preverite, ali so vaši podatki jasno vidni";
+"retry_description_generic_selfie_issue" = "Poskusite znova in poskrbite, da bo vaš obraz viden in dobro osvetljen";
+"retry_description_unaccepted_document" = "Poskusite znova z veljavnim osebnim dokumentom s fotografijo in preverite, ali so vaši podatki jasno vidni";
+"retry_headline_default" = "Prišlo je do težave";
+"retry_headline_expired_document" = "Vaš dokument je potekel";
+"retry_headline_generic_document_issue" = "Prišlo je do težave z vašim dokumentom";
+"retry_headline_generic_selfie_issue" = "Prišlo je do težave s tvojo selfi fotografijo";
+"retry_headline_unaccepted_document" = "Nesprejet dokument";

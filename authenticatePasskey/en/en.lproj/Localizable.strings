@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Continue";
+"authenticatePasskey_attempts_error_subtitle" = "You can no longer authenticate using a passkey.";
+"authenticatePasskey_attempts_error_title" = "Allowed attempts exceeded";
+"authenticatePasskey_error_button_retry" = "Retry";
+"authenticatePasskey_error_subtitle" = "An unknown technical problem occurred, please try again.";
+"authenticatePasskey_error_title" = "Something’s gone wrong";
+"authenticatePasskey_introduction_bullet_1" = "You must have previously created a passkey with us.";
+"authenticatePasskey_introduction_bullet_2" = "Your device will guide you through the next steps.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Authenticate";
+"authenticatePasskey_introduction_subtitle" = "Passkeys allow you to sign in securely using your fingerprint, face, or device screen lock.";
+"authenticatePasskey_introduction_title" = "Authenticate with your Passkey";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Continue";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "You do not have a passkey available to authenticate with.";
+"authenticatePasskey_no_passkey_available_error_title" = "No passkey available";
+"authenticatePasskey_not_supported_error_button_continue" = "Continue";
+"authenticatePasskey_not_supported_error_subtitle" = "Sorry, you are not able to complete this task.";
+"authenticatePasskey_not_supported_error_title" = "Device does not support passkeys";

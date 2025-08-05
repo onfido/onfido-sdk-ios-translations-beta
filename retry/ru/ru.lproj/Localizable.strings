@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Попробовать еще раз";
+"retry_button_expired_document" = "Попробовать еще раз";
+"retry_button_generic_document_issue" = "Попробовать еще раз";
+"retry_button_generic_selfie_issue" = "Попробовать еще раз";
+"retry_button_unaccepted_document" = "Попробовать еще раз";
+"retry_description_default" = "Повторите попытку";
+"retry_description_expired_document" = "Попробуйте еще раз с действительным удостоверением личности с фотографией и убедитесь, что Ваши данные хорошо видны";
+"retry_description_generic_document_issue" = "Попробуйте еще раз с действительным удостоверением личности с фотографией и убедитесь, что Ваши данные хорошо видны";
+"retry_description_generic_selfie_issue" = "Попробуйте еще раз и убедитесь, что Ваше лицо видно и хорошо освещено";
+"retry_description_unaccepted_document" = "Попробуйте еще раз с действительным удостоверением личности с фотографией и убедитесь, что Ваши данные хорошо видны";
+"retry_headline_default" = "Возникла проблема";
+"retry_headline_expired_document" = "Срок действия вашего документа истек";
+"retry_headline_generic_document_issue" = "Возникла проблема с вашим документом";
+"retry_headline_generic_selfie_issue" = "Возникла проблема с вашим селфи";
+"retry_headline_unaccepted_document" = "Непринятый документ";

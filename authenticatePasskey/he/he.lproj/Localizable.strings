@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "המשך";
+"authenticatePasskey_attempts_error_subtitle" = "לא ניתן עוד לאמת באמצעות מפתח גישה.";
+"authenticatePasskey_attempts_error_title" = "חרגת ממספר הניסיונות המותרים";
+"authenticatePasskey_error_button_retry" = "נסה שוב";
+"authenticatePasskey_error_subtitle" = "אירעה בעיה טכנית לא ידועה, אנא נסה שוב.";
+"authenticatePasskey_error_title" = "משהו השתבש";
+"authenticatePasskey_introduction_bullet_1" = "עליך ליצור מפתח גישה אצלנו בעבר.";
+"authenticatePasskey_introduction_bullet_2" = "המכשיר שלך ינחה אותך בשלבים הבאים.";
+"authenticatePasskey_introduction_button_start_authenticating" = "אימות";
+"authenticatePasskey_introduction_subtitle" = "מפתחות גישה מאפשרים לך להיכנס בצורה מאובטחת באמצעות טביעת אצבע, זיהוי פנים או נעילת מסך המכשיר.";
+"authenticatePasskey_introduction_title" = "אמת את זהותך באמצעות מפתח הגישה שלך";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "המשך";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "אין לך מפתח גישה זמין לאימות.";
+"authenticatePasskey_no_passkey_available_error_title" = "אין מפתח גישה זמין";
+"authenticatePasskey_not_supported_error_button_continue" = "המשך";
+"authenticatePasskey_not_supported_error_subtitle" = "מצטערים, אינך יכול להשלים משימה זו.";
+"authenticatePasskey_not_supported_error_title" = "המכשיר אינו תומך במפתחות גישה";

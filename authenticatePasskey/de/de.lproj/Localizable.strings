@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Fortfahren";
+"authenticatePasskey_attempts_error_subtitle" = "Sie können sich nicht mehr mit einem Passschlüssel authentifizieren.";
+"authenticatePasskey_attempts_error_title" = "Erlaubte Anzahl an Versuchen überschritten";
+"authenticatePasskey_error_button_retry" = "Erneut versuchen";
+"authenticatePasskey_error_subtitle" = "Ein unbekanntes technisches Problem ist aufgetreten. Bitte versuchen Sie es erneut.";
+"authenticatePasskey_error_title" = "Etwas ist schief gelaufen";
+"authenticatePasskey_introduction_bullet_1" = "Sie müssen zuvor einen Passkey bei uns erstellt haben.";
+"authenticatePasskey_introduction_bullet_2" = "Ihr Gerät führt Sie durch die nächsten Schritte.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Authentifizieren";
+"authenticatePasskey_introduction_subtitle" = "Passkeys ermöglichen Ihnen eine sichere Anmeldung mit Ihrem Fingerabdruck, Gesicht oder der Bildschirmsperre Ihres Geräts.";
+"authenticatePasskey_introduction_title" = "Authentifizieren Sie sich mit Ihrem Passschlüssel";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Fortfahren";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "Sie haben keinen Passschlüssel zur Authentifizierung verfügbar.";
+"authenticatePasskey_no_passkey_available_error_title" = "Kein Passschlüssel verfügbar";
+"authenticatePasskey_not_supported_error_button_continue" = "Fortfahren";
+"authenticatePasskey_not_supported_error_subtitle" = "Es tut uns leid, Sie können diese Aufgabe nicht abschließen.";
+"authenticatePasskey_not_supported_error_title" = "Gerät unterstützt keine Passkeys";

@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Nadaljuj";
+"shareableIdRegistration_registered_subtitle" = "Ko bo rezultat te preveritve znan, ga boste lahko ponovno uporabili, ko boste naslednjič potrebovali dokazati svojo identiteto.";
+"shareableIdRegistration_registered_title" = "Preverjanje shranjeno";
+"shareableIdRegistration_registration_consent_description" = "Če naslednjič kliknete na gumb `Uporabi prejšnjo preverjanje identitete`, bodo vaši podatki ponovno uporabljeni.";
+"shareableIdRegistration_registration_consent_title" = "Samo vi lahko soglašate, katere preveritve se ponovno uporabijo";
+"shareableIdRegistration_registration_error_action" = "Pojdi nazaj";
+"shareableIdRegistration_registration_error_subtitle" = "Kaže, da niste mogli ustvariti gesla. Pojdite nazaj in poskusite znova ali nadaljujte do konca postopka.";
+"shareableIdRegistration_registration_error_title" = "Ključ za dostop ni ustvarjen";
+"shareableIdRegistration_registration_fast_description" = "Že zbrane informacije bodo shranjene, tako da jih lahko ponovno uporabite, namesto da bi ponovno opravljali postopek preverjanja identitete.";
+"shareableIdRegistration_registration_fast_title" = "Nikoli ne zapravljajte časa z ponavljanjem preverjanja identitete, ki že obstaja";
+"shareableIdRegistration_registration_key_description" = "Kot geslo, shranjeno na vaši napravi, boste ustvarili edinstven identifikator (geslo), ki ga lahko kadarkoli izbrišete.";
+"shareableIdRegistration_registration_key_title" = "Imeli boste ključ za preskok postopka";
+"shareableIdRegistration_registration_save" = "Shranite svojo preverjanje identitete";
+"shareableIdRegistration_registration_skip" = "Preskoči";
+"shareableIdRegistration_registration_title" = "Preveri enkrat. Ponovno uporabi.";

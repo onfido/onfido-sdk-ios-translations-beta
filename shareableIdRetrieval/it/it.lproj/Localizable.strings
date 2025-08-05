@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Continua";
+"shareableIdRetrieval_intro_error_subtitle" = "Non hai un codice di accesso riconoscibile sul tuo dispositivo. Si prega di continuare con il processo completo.";
+"shareableIdRetrieval_intro_error_title" = "Nessuna chiave di accesso trovata";
+"shareableIdRetrieval_intro_or" = "O";
+"shareableIdRetrieval_intro_searching" = "Ricerca di verifiche precedenti";
+"shareableIdRetrieval_intro_start_idv_action" = "Inizia la verifica dell`identità";
+"shareableIdRetrieval_intro_start_idv_description" = "Richiederemo alcuni documenti e informazioni personali da te, che possono aiutarci a sapere chi dici di essere.";
+"shareableIdRetrieval_intro_subtitle" = "Per motivi di sicurezza e per proteggerti dalle frodi, dobbiamo verificare la tua identità.";
+"shareableIdRetrieval_intro_title" = "Verifica la tua identità";
+"shareableIdRetrieval_intro_use_sid_action" = "Utilizza una verifica precedente";
+"shareableIdRetrieval_intro_use_sid_title" = "Puoi riutilizzare solo una verifica che è stata completata con successo e salvata in precedenza.";

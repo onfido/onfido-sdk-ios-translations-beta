@@ -1,0 +1,17 @@
+
+"electronicId_qr_code_description" = "Otwórz aplikację BankID na swoim telefonie i naciśnij ikonę kodu QR";
+"electronicId_qr_code_error_code_expired" = "Twój kod QR wygasł, proszę poprosić o nowy";
+"electronicId_qr_code_refresh_cta" = "Poproś o nowy kod QR";
+"electronicId_qr_code_title" = "Weryfikacja BankID";
+"electronicId_redirection_cross_device" = "Podłącz inne urządzenie";
+"electronicId_redirection_description" = "Możesz połączyć się za pomocą swojego telefonu komórkowego lub innego urządzenia";
+"electronicId_redirection_list_title" = "Wybierz metodę";
+"electronicId_redirection_open_in_app" = "Otwórz aplikację";
+"electronicId_redirection_scheme_SwedenBankId_open_in_app" = "Otwórz aplikację BankID";
+"electronicId_redirection_title" = "Wybierz sposób połączenia";
+"electronicId_scheme_form_subtitle" = "Wybierz bank z poniższej listy, aby zweryfikować się przez ";
+"electronicId_scheme_form_title" = " Verification";
+"electronicId_selection_description" = "Wybierz kraj wydający, aby zobaczyć, które metody akceptujemy";
+"electronicId_selection_list_title" = "Wybierz metodę";
+"electronicId_selection_select_label" = "Kraj wydania";
+"electronicId_selection_title" = "Zweryfikuj swoją tożsamość";

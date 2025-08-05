@@ -1,0 +1,9 @@
+
+"advancedElectronicSignature_error_button_retry" = "戻る";
+"advancedElectronicSignature_error_subtitle" = "数秒待ってから、もう一度お試しください。";
+"advancedElectronicSignature_error_title" = "問題が発生しました";
+"advancedElectronicSignature_introduction_bullet_1" = "署名環境（signhost.com）が新しいウィンドウで開きます。";
+"advancedElectronicSignature_introduction_bullet_2" = "署名が完了すると、ワークフローを続行するために自動的に元の画面に戻ります。戻らない場合は、手動でお戻りください。";
+"advancedElectronicSignature_introduction_button_start_signing" = "書類の確認と署名";
+"advancedElectronicSignature_introduction_subtitle" = "下のボタンをタップして確認し、署名してください";
+"advancedElectronicSignature_introduction_title" = "必要な書類にデジタル署名を行う";

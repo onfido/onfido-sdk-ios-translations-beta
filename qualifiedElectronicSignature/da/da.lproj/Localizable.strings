@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Opret din underskrift";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Efter at have læst dit dokument, tryk på \"Signer dokument\" knappen.";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Når Onfido har verificeret din identitet, vil din underskrift blive brugt på dette dokument.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Underskriv dokument";
+"qualifiedElectronicSignature_confirmation_review_document" = "Gennemgå din dokument til underskrift";
+"qualifiedElectronicSignature_confirmation_step2" = "2 af 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Underskriv dit dokument";
+"qualifiedElectronicSignature_confirmation_subtitle" = "For at bekræfte din identitet i overensstemmelse med europæiske regler, skal du digitalt underskrive et dokument.";
+"qualifiedElectronicSignature_confirmation_title" = "Opret og brug din digitale signatur";
+"qualifiedElectronicSignature_error_misconfigured" = "Desværre er der opstået en fejl. Kontakt venligst din support.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Opret min underskrift";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Certifikat ansøgningsformular";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Privatlivsmeddelelse";
+"qualifiedElectronicSignature_introduction_step1" = "1 af 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "For at bekræfte din identitet i overensstemmelse med europæiske regler, skal du digitalt underskrive et dokument.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Vilkår og betingelser";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA er en betroet global udbyder, der vil udstede et certifikat, der validerer din elektroniske underskrift.";
+"qualifiedElectronicSignature_introduction_title" = "Opret og brug din digitale signatur";
+"qualifiedElectronicSignature_introduction_validation" = "Samtykke påkrævet";

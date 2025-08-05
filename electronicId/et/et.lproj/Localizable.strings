@@ -1,0 +1,17 @@
+
+"electronicId_qr_code_description" = "Avage oma telefonis BankID rakendus ja vajutage QR-koodi ikoonile";
+"electronicId_qr_code_error_code_expired" = "Teie QR-kood on aegunud, palun taotlege uus";
+"electronicId_qr_code_refresh_cta" = "Taotlege uus QR-kood";
+"electronicId_qr_code_title" = "BankID kinnitamine";
+"electronicId_redirection_cross_device" = "Ühendage teine seade";
+"electronicId_redirection_description" = "Saate ühenduda oma mobiiltelefoni või mõne muu seadme kaudu";
+"electronicId_redirection_list_title" = "Valige meetod";
+"electronicId_redirection_open_in_app" = "Ava rakendus";
+"electronicId_redirection_scheme_SwedenBankId_open_in_app" = "Avage BankID rakendus";
+"electronicId_redirection_title" = "Valige, kuidas ühenduda";
+"electronicId_scheme_form_subtitle" = "Valige allolevast loendist pank, et end  kaudu kinnitada";
+"electronicId_scheme_form_title" = " Verification";
+"electronicId_selection_description" = "Valige väljaandva riigi, et näha, milliseid meetodeid me aktsepteerime";
+"electronicId_selection_list_title" = "Valige meetod";
+"electronicId_selection_select_label" = "Väljastanud riik";
+"electronicId_selection_title" = "Kinnitage oma isik";

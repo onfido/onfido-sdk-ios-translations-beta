@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "続行";
+"shareableIdRegistration_registered_subtitle" = "この確認の結果がわかったら、次回あなたが自分の身元を証明する必要があるときに再利用できます。";
+"shareableIdRegistration_registered_title" = "確認が保存されました";
+"shareableIdRegistration_registration_consent_description" = "あなたのデータは、次回「以前の確認を使用する」ボタンをクリックした場合にのみ再利用されます。";
+"shareableIdRegistration_registration_consent_title" = "どの確認が再利用されるかは、あなただけが同意できます";
+"shareableIdRegistration_registration_error_action" = "戻る";
+"shareableIdRegistration_registration_error_subtitle" = "パスキーを作成できなかったようです。再試行するために戻るか、プロセスを完了するために進んでください。";
+"shareableIdRegistration_registration_error_title" = "パスキーが作成されていません";
+"shareableIdRegistration_registration_fast_description" = "既に収集された情報は保存されるため、再度の本人確認プロセスを経る代わりに再利用することができます。";
+"shareableIdRegistration_registration_fast_title" = "既存の確認を繰り返して時間を無駄にしないでください";
+"shareableIdRegistration_registration_key_description" = "パスワードがあなたのデバイスに保存されているように、あなたはいつでも削除できるユニークな識別子（パスキー）を作成します。";
+"shareableIdRegistration_registration_key_title" = "フローをスキップするためのキーを保持します";
+"shareableIdRegistration_registration_save" = "あなたの確認を保存してください";
+"shareableIdRegistration_registration_skip" = "スキップ";
+"shareableIdRegistration_registration_title" = "一度確認してください。再度使用";

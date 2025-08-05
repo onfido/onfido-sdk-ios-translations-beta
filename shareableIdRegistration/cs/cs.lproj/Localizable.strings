@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Pokračovat";
+"shareableIdRegistration_registered_subtitle" = "Jakmile bude výsledek této ověřovací procedury znám, budete ho moci příště znovu použít, když budete potřebovat prokázat svou totožnost.";
+"shareableIdRegistration_registered_title" = "Ověření uloženo";
+"shareableIdRegistration_registration_consent_description" = "Pokud příště kliknete na tlačítko ‘Použít předchozí ověření’, vaše data budou znovu použita.";
+"shareableIdRegistration_registration_consent_title" = "Pouze vy můžete souhlasit s tím, které ověření budou znovu použity";
+"shareableIdRegistration_registration_error_action" = "Jít zpět";
+"shareableIdRegistration_registration_error_subtitle" = "Zdá se, že se vám nepodařilo vytvořit přístupový klíč. Vraťte se zpět a zkuste to znovu nebo pokračujte v celém procesu.";
+"shareableIdRegistration_registration_error_title" = "Heslo nebylo vytvořeno";
+"shareableIdRegistration_registration_fast_description" = "Již shromážděné informace budou uloženy, takže je můžete znovu použít místo toho, abyste procházeli procesem ověření identity znovu.";
+"shareableIdRegistration_registration_fast_title" = "Nikdy neztrácejte čas opakováním ověření, které již existuje";
+"shareableIdRegistration_registration_key_description" = "Jako heslo uložené na vašem zařízení vytvoříte jedinečný identifikátor (klíč), který můžete kdykoli smazat.";
+"shareableIdRegistration_registration_key_title" = "Budete držet klíč k přeskočení průběhu";
+"shareableIdRegistration_registration_save" = "Uložte své ověření";
+"shareableIdRegistration_registration_skip" = "Přeskočit";
+"shareableIdRegistration_registration_title" = "Ověřte jednou. Použijte znovu";

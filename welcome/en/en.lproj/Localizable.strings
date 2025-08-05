@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Start verification";
+"welcome_button_studio" = "Start verification";
+"welcome_button_trial" = "Start verification (TEST)";
+"welcome_list_header_default" = "Use your device to:";
+"welcome_list_header_doc_video" = "Use your device to record:";
+"welcome_list_item_active_video" = "Record a video of your face";
+"welcome_list_item_document" = "Take a photo of your identity document";
+"welcome_list_item_document_video" = "Record a video of your identity document";
+"welcome_list_item_face" = "Take a photo of your face";
+"welcome_list_item_face_video" = "Record a video of your face";
+"welcome_list_item_poa" = "Take a photo of a document with your address";
+"welcome_subtitle" = "It should take a few minutes";
+"welcome_timeout_default" = "Recording is limited to  seconds";
+"welcome_title" = "Verify your identity";
+"welcome_warning_trial" = "Do not share personal data here unless you are engaged in an Onfido trial.";
+"welcome_warning_trial_title" = "This is a trial";

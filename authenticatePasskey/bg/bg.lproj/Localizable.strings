@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Продължете";
+"authenticatePasskey_attempts_error_subtitle" = "Вече не можете да се удостоверите чрез ключ за достъп.";
+"authenticatePasskey_attempts_error_title" = "Надхвърлени са разрешените опити";
+"authenticatePasskey_error_button_retry" = "Повторен опит";
+"authenticatePasskey_error_subtitle" = "Възникна неизвестен технически проблем, моля опитайте отново.";
+"authenticatePasskey_error_title" = "Нещо се обърка";
+"authenticatePasskey_introduction_bullet_1" = "Трябва да сте създали ключ за достъп при нас в миналото.";
+"authenticatePasskey_introduction_bullet_2" = "Вашето устройство ще ви насочи през следващите стъпки.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Удостоверяване";
+"authenticatePasskey_introduction_subtitle" = "Ключовете за достъп ви позволяват да влизате сигурно, използвайки пръстов отпечатък, лице или заключване на екрана на устройството.";
+"authenticatePasskey_introduction_title" = "Удостоверете се с вашия ключ за достъп";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Продължете";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "Нямате наличен ключ за достъп, с който да се удостоверите.";
+"authenticatePasskey_no_passkey_available_error_title" = "Няма наличен ключ за достъп";
+"authenticatePasskey_not_supported_error_button_continue" = "Продължете";
+"authenticatePasskey_not_supported_error_subtitle" = "Съжаляваме, не можете да завършите тази задача.";
+"authenticatePasskey_not_supported_error_title" = "Устройството не поддържа passkey ключове";

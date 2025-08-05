@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Продолжить";
+"shareableIdRetrieval_intro_error_subtitle" = "У вас нет узнаваемого пароля на вашем устройстве. Пожалуйста, продолжите до конца процесса.";
+"shareableIdRetrieval_intro_error_title" = "Пароль не найден";
+"shareableIdRetrieval_intro_or" = "ИЛИ";
+"shareableIdRetrieval_intro_searching" = "Поиск предыдущих проверок";
+"shareableIdRetrieval_intro_start_idv_action" = "Начать проверку идентифичности";
+"shareableIdRetrieval_intro_start_idv_description" = "Мы попросим вас предоставить некоторые документы и личную информацию, которые помогут нам убедиться в том, что вы тот, за кого себя выдаёте.";
+"shareableIdRetrieval_intro_subtitle" = "В целях безопасности и защиты от мошенничества нам необходимо проверить вашу личность.";
+"shareableIdRetrieval_intro_title" = "Подтвердите свою личность";
+"shareableIdRetrieval_intro_use_sid_action" = "Используйте предыдущую верификацию";
+"shareableIdRetrieval_intro_use_sid_title" = "Вы можете повторно использовать только ту верификацию, которая была успешно завершена и сохранена заранее.";

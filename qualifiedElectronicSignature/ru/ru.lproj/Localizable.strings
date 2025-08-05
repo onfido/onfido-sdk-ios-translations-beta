@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Создайте свою подпись";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "После прочтения вашего документа нажмите кнопку «Подписать документ».";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Как только Onfido подтвердит вашу личность, ваша подпись будет использована в этом документе.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Подписать документ";
+"qualifiedElectronicSignature_confirmation_review_document" = "Просмотрите ваш документ для подписи";
+"qualifiedElectronicSignature_confirmation_step2" = "2 из 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Подпишите ваш документ";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Чтобы подтвердить вашу личность в соответствии с европейскими правилами, вы должны цифрово подписать документ.";
+"qualifiedElectronicSignature_confirmation_title" = "Создайте и используйте свою цифровую подпись";
+"qualifiedElectronicSignature_error_misconfigured" = "К сожалению, произошла ошибка. Пожалуйста, свяжитесь со службой поддержки.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Создать мою подпись";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Форма заявления на сертификат";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Уведомление о конфиденциальности";
+"qualifiedElectronicSignature_introduction_step1" = "1 из 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "Чтобы подтвердить свою личность в соответствии с европейскими правилами, вы должны цифровой подписью подписать документ.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Условия и положения";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA - это надежный мировой провайдер, который выдаст сертификат, подтверждающий вашу электронную подпись.";
+"qualifiedElectronicSignature_introduction_title" = "Создайте и используйте свою цифровую подпись";
+"qualifiedElectronicSignature_introduction_validation" = "Требуется согласие";

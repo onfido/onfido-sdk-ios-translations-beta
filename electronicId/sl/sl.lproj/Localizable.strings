@@ -1,0 +1,17 @@
+
+"electronicId_qr_code_description" = "Odpri aplikacijo BankID na svojem telefonu in pritisni ikono QR kode";
+"electronicId_qr_code_error_code_expired" = "Vaša QR koda je potekla, prosimo zahtevajte novo";
+"electronicId_qr_code_refresh_cta" = "Zahtevajte novo QR kodo";
+"electronicId_qr_code_title" = "Preverjanje BankID";
+"electronicId_redirection_cross_device" = "Poveži drugo napravo";
+"electronicId_redirection_description" = "Povezete se lahko preko svojega mobilnega telefona ali druge naprave";
+"electronicId_redirection_list_title" = "Izberite metodo";
+"electronicId_redirection_open_in_app" = "Odpri aplikacijo";
+"electronicId_redirection_scheme_SwedenBankId_open_in_app" = "Odpri aplikacijo BankID";
+"electronicId_redirection_title" = "Izberite način povezave";
+"electronicId_scheme_form_subtitle" = "Izberite banko s spodnjega seznama, da se preverite preko ";
+"electronicId_scheme_form_title" = " Verification";
+"electronicId_selection_description" = "Izberite državo izdajateljico, da vidite, katere metode sprejemamo";
+"electronicId_selection_list_title" = "Izberite metodo";
+"electronicId_selection_select_label" = "Država izdajateljica";
+"electronicId_selection_title" = "Potrdite svojo identiteto";

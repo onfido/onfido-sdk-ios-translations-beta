@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Jatka";
+"shareableIdRegistration_registered_subtitle" = "Kun tämän tunnistautumisen tulos on tiedossa, voit käyttää sitä uudelleen seuraavan kerran, kun sinun on todistettava henkilöllisyytesi.";
+"shareableIdRegistration_registered_title" = "Tunnistautuminen tallennettu";
+"shareableIdRegistration_registration_consent_description" = "Tietojasi käytetään uudelleen vain, jos napsautat seuraavalla kerralla ‘Käytä aikaisempaa vahvistusta’ -painiketta.";
+"shareableIdRegistration_registration_consent_title" = "Vain sinä voit antaa suostumuksen siihen, mitkä vahvistukset käytetään uudelleen";
+"shareableIdRegistration_registration_error_action" = "Palaa takaisin";
+"shareableIdRegistration_registration_error_subtitle" = "Näyttää siltä, että et pystynyt luomaan salasanaa. Mene takaisin yrittääksesi uudelleen tai jatka koko prosessiin.";
+"shareableIdRegistration_registration_error_title" = "Avainta ei luotu";
+"shareableIdRegistration_registration_fast_description" = "Jo kerätty tieto tallennetaan, joten voit käyttää sitä uudelleen sen sijaan, että kävisit läpi tunnistautumisprosessin uudelleen.";
+"shareableIdRegistration_registration_fast_title" = "Älä koskaan tuhlaa aikaa toistamalla jo olemassa olevaa tunnistautumista";
+"shareableIdRegistration_registration_key_description" = "Kuten salasana, joka on tallennettu laitteeseesi, luot ainutlaatuisen tunnisteen (avainkoodin), jonka voit poistaa milloin tahansa.";
+"shareableIdRegistration_registration_key_title" = "Sinulla on avain ohittaa virtaus";
+"shareableIdRegistration_registration_save" = "Tallenna varmennuksesi";
+"shareableIdRegistration_registration_skip" = "Ohita";
+"shareableIdRegistration_registration_title" = "Tarkista kerran. Käytä uudelleen";

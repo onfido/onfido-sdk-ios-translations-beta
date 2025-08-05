@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "开始验证";
+"welcome_button_studio" = "开始验证";
+"welcome_button_trial" = "开始验证（测试）";
+"welcome_list_header_default" = "使用您的设备：";
+"welcome_list_header_doc_video" = "使用您的设备录制：";
+"welcome_list_item_active_video" = "录制一段您面部的视频";
+"welcome_list_item_document" = "拍一张您身份证件的照片";
+"welcome_list_item_document_video" = "录制一段您身份证件的视频";
+"welcome_list_item_face" = "拍一张您面部的照片";
+"welcome_list_item_face_video" = "录制一段您面部的视频";
+"welcome_list_item_poa" = "请拍摄一张包含您地址的证明文件照片";
+"welcome_subtitle" = "这应该会需要几分钟时间";
+"welcome_timeout_default" = "视频录制限制为​​​​秒。​​请重新开始​";
+"welcome_title" = "验证您的身份";
+"welcome_warning_trial" = "除非您参与了Onfido试用，否则请勿在此共享个人数据。";
+"welcome_warning_trial_title" = "这是一个试用版";

@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "Turpināt";
+"enrollPasskey_attempts_error_subtitle" = "Jūs vairs nevarat autentificēties, izmantojot piekļuves atslēgu.";
+"enrollPasskey_attempts_error_title" = "Atļauto mēģinājumu skaits ir pārsniegts";
+"enrollPasskey_error_button_retry" = "Mēģināt vēlreiz";
+"enrollPasskey_error_subtitle" = "Radās nezināma tehniska problēma, lūdzu, mēģiniet vēlreiz.";
+"enrollPasskey_error_title" = "Kaut kas ir nogājis greizi";
+"enrollPasskey_introduction_bullet_1" = "Šī piekļuves atslēga tiks izmantota domēnam: ";
+"enrollPasskey_introduction_bullet_2" = "Jūsu ierīce jūs vadīs cauri nākamajiem soļiem.";
+"enrollPasskey_introduction_button_start_enrolling" = "Izveidot piekļuves atslēgu";
+"enrollPasskey_introduction_subtitle" = "Piekļuves atslēgas ļauj droši pieteikties, izmantojot pirkstu nospiedumu, seju vai ierīces ekrāna bloķēšanu.";
+"enrollPasskey_introduction_title" = "Iestatiet savu piekļuves atslēgu";
+"enrollPasskey_not_supported_error_button_continue" = "Turpināt";
+"enrollPasskey_not_supported_error_subtitle" = "Atvainojiet, jūs nevarat pabeigt šo uzdevumu.";
+"enrollPasskey_not_supported_error_title" = "Ierīce neatbalsta piekļuves atslēgas";

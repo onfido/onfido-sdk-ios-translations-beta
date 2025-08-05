@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "شروع فرآیند تأیید";
+"welcome_button_studio" = "شروع فرآیند تأیید";
+"welcome_button_trial" = "شروع فرآیند تأیید (آزمایشی)";
+"welcome_list_header_default" = "از دستگاه خود برای موارد زیر استفاده کنید:";
+"welcome_list_header_doc_video" = "از دستگاه خود برای ضبط ویدئو استفاده کنید:";
+"welcome_list_item_active_video" = "از چهره خود فیلم بگیرید";
+"welcome_list_item_document" = "از مدرک هویتی خود عکس بگیرید";
+"welcome_list_item_document_video" = "از مدارک هویتی خود فیلم بگیرید";
+"welcome_list_item_face" = "از چهره خود عکس بگیرید";
+"welcome_list_item_face_video" = "از چهره خود فیلم بگیرید";
+"welcome_list_item_poa" = "از مدرکی که آدرس شما را نشان دهد عکس بگیرید";
+"welcome_subtitle" = "این کار چند دقیقه طول می‌کشد";
+"welcome_timeout_default" = "زمان ضبط نباید بیشتر از ​​​​ ثانیه شود";
+"welcome_title" = "هویت خود را تأیید کنید";
+"welcome_warning_trial" = "اطلاعات شخصی خود را در اینجا به اشتراک نگذارید مگر اینکه در فرآیند آزمایشی Onfido شرکت کرده باشید.";
+"welcome_warning_trial_title" = "این یک نسخه آزمایشی است";

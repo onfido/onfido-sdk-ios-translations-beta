@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Sākt pārbaudi";
+"welcome_button_studio" = "Sākt pārbaudi";
+"welcome_button_trial" = "Sākt pārbaudi (TEST)";
+"welcome_list_header_default" = "Izmantojiet ierīci, lai:";
+"welcome_list_header_doc_video" = "Izmantojiet ierīci, lai ierakstītu:";
+"welcome_list_item_active_video" = "Ierakstītu savas sejas videoklipu.";
+"welcome_list_item_document" = "Nofotografētu savu personu apliecinošo dokumentu.";
+"welcome_list_item_document_video" = "Ierakstītu sava personu apliecinošā dokumenta videoklipu.";
+"welcome_list_item_face" = "Nofotografētu savu seju.";
+"welcome_list_item_face_video" = "Ierakstītu savas sejas videoklipu.";
+"welcome_list_item_poa" = "Nofotografētu dokumentu ar savu adresi";
+"welcome_subtitle" = "Tas var aizņemt dažas minūtes";
+"welcome_timeout_default" = "Ierakstīšana ir ierobežota līdz  sekundēm";
+"welcome_title" = "Apstipriniet savu identitāti";
+"welcome_warning_trial" = "Nesniedziet šeit personas datus, ja vien neizmantojat Onfido izmēģinājumversiju.";
+"welcome_warning_trial_title" = "Šis ir izmēģinājums";

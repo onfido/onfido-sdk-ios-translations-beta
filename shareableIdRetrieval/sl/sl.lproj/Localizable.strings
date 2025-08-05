@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Nadaljuj";
+"shareableIdRetrieval_intro_error_subtitle" = "Na vaši napravi ni prepoznavne geselske fraze. Nadaljujte s celotnim postopkom.";
+"shareableIdRetrieval_intro_error_title" = "Ni najdenega gesla";
+"shareableIdRetrieval_intro_or" = "ALI";
+"shareableIdRetrieval_intro_searching" = "Iskanje prejšnjih preverjanj identitete";
+"shareableIdRetrieval_intro_start_idv_action" = "Začnite preverjanje identitete";
+"shareableIdRetrieval_intro_start_idv_description" = "Zahtevali bomo nekaj dokumentacije in osebnih podatkov od vas, ki nam lahko pomagajo ugotoviti, kdo pravite, da ste.";
+"shareableIdRetrieval_intro_subtitle" = "Iz varnostnih razlogov in za zaščito pred goljufijo moramo preveriti vašo identiteto.";
+"shareableIdRetrieval_intro_title" = "Potrdite svojo identiteto";
+"shareableIdRetrieval_intro_use_sid_action" = "Uporabite prejšnjo preverjanje";
+"shareableIdRetrieval_intro_use_sid_title" = "Ponovno lahko uporabite samo preverjanje, ki je bilo uspešno zaključeno in predhodno shranjeno.";

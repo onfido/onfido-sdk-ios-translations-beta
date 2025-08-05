@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Start verificering";
+"welcome_button_studio" = "Start verificering";
+"welcome_button_trial" = "Start verificering (TEST)";
+"welcome_list_header_default" = "Brug din enhed til at:";
+"welcome_list_header_doc_video" = "Brug din enhed til at optage:";
+"welcome_list_item_active_video" = "Optag en video af dit ansigt";
+"welcome_list_item_document" = "Tag et billede af dit ID-dokument";
+"welcome_list_item_document_video" = "Optag en video af dit ID-dokument";
+"welcome_list_item_face" = "Tag et billede af dit ansigt";
+"welcome_list_item_face_video" = "Optag en video af dit ansigt";
+"welcome_list_item_poa" = "Tag et billede af et dokument med din adresse";
+"welcome_subtitle" = "Det tager nok et par minutter";
+"welcome_timeout_default" = "Optagelsen må højst vare  sekunder";
+"welcome_title" = "Verificer din identitet";
+"welcome_warning_trial" = "Du må ikke dele personlige oplysninger her, medmindre du har tilmeldt dig en prøveperiode hos Onfido.";
+"welcome_warning_trial_title" = "Dette er en prøveversion";

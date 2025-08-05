@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Probeer het opnieuw";
+"retry_button_expired_document" = "Probeer het opnieuw";
+"retry_button_generic_document_issue" = "Probeer het opnieuw";
+"retry_button_generic_selfie_issue" = "Probeer het opnieuw";
+"retry_button_unaccepted_document" = "Probeer het opnieuw";
+"retry_description_default" = "Probeer het opnieuw";
+"retry_description_expired_document" = "Probeer het opnieuw met een geldig identiteitsbewijs met foto en zorg ervoor dat uw gegevens duidelijk leesbaar zijn";
+"retry_description_generic_document_issue" = "Probeer het opnieuw met een geldig identiteitsbewijs met foto en zorg ervoor dat uw gegevens duidelijk leesbaar zijn";
+"retry_description_generic_selfie_issue" = "Probeer het opnieuw en zorg ervoor dat uw gezicht goed zichtbaar en verlicht is";
+"retry_description_unaccepted_document" = "Probeer het opnieuw met een geldig identiteitsbewijs met foto en zorg ervoor dat uw gegevens duidelijk leesbaar zijn";
+"retry_headline_default" = "Er was een probleem";
+"retry_headline_expired_document" = "Uw document is verlopen";
+"retry_headline_generic_document_issue" = "Er was een probleem met uw document";
+"retry_headline_generic_selfie_issue" = "Er was een probleem met je selfie";
+"retry_headline_unaccepted_document" = "Niet-geaccepteerd document";

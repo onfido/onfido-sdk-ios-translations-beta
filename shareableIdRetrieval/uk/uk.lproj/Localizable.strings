@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Продовжити";
+"shareableIdRetrieval_intro_error_subtitle" = "У вас немає розпізнаваного пароля на вашому пристрої. Будь ласка, продовжуйте до завершення процесу.";
+"shareableIdRetrieval_intro_error_title" = "Не знайдено ключа доступу";
+"shareableIdRetrieval_intro_or" = "АБО";
+"shareableIdRetrieval_intro_searching" = "Пошук попередніх верифікацій";
+"shareableIdRetrieval_intro_start_idv_action" = "Розпочніть верифікацію ідентичності";
+"shareableIdRetrieval_intro_start_idv_description" = "Ми попросимо вас надати деякі документи та особисту інформацію, яка допоможе нам переконатися, що ви є тим, за кого себе видаєте.";
+"shareableIdRetrieval_intro_subtitle" = "З міркувань безпеки та для захисту від шахрайства нам потрібно перевірити вашу особистість.";
+"shareableIdRetrieval_intro_title" = "Підтвердити особу";
+"shareableIdRetrieval_intro_use_sid_action" = "Використовуйте попередню верифікацію";
+"shareableIdRetrieval_intro_use_sid_title" = "Ви можете повторно використовувати тільки ту верифікацію, яка була успішно завершена та збережена заздалегідь.";

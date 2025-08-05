@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Cuba lagi";
+"retry_button_expired_document" = "Cuba lagi";
+"retry_button_generic_document_issue" = "Cuba lagi";
+"retry_button_generic_selfie_issue" = "Cuba lagi";
+"retry_button_unaccepted_document" = "Cuba lagi";
+"retry_description_default" = "Sila cuba lagi";
+"retry_description_expired_document" = "Sila cuba lagi dengan ID bergambar yang sah dan pastikan maklumat anda kelihatan dengan jelas";
+"retry_description_generic_document_issue" = "Sila cuba lagi dengan ID bergambar yang sah dan pastikan maklumat anda kelihatan dengan jelas";
+"retry_description_generic_selfie_issue" = "Sila cuba lagi serta pastikan wajah anda kelihatan dan terang";
+"retry_description_unaccepted_document" = "Sila cuba lagi dengan ID bergambar yang sah dan pastikan maklumat anda kelihatan dengan jelas";
+"retry_headline_default" = "Ada masalah";
+"retry_headline_expired_document" = "Dokumen anda telah tamat tempoh";
+"retry_headline_generic_document_issue" = "Ada masalah dengan dokumen anda";
+"retry_headline_generic_selfie_issue" = "Ada masalah dengan selfie anda";
+"retry_headline_unaccepted_document" = "Dokumen tidak diterima";

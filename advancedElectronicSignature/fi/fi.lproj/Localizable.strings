@@ -1,0 +1,9 @@
+
+"advancedElectronicSignature_error_button_retry" = "Palaa takaisin";
+"advancedElectronicSignature_error_subtitle" = "Odota hetki ja yritä uudelleen";
+"advancedElectronicSignature_error_title" = "Jotain meni pieleen";
+"advancedElectronicSignature_introduction_bullet_1" = "Allekirjoitusympäristö (signhost.com) avautuu uuteen ikkunaan.";
+"advancedElectronicSignature_introduction_bullet_2" = "Kun allekirjoitus on valmis, sinut ohjataan takaisin jatkamaan työnkulkua. Jos näin ei tapahdu, palaa takaisin manuaalisesti.";
+"advancedElectronicSignature_introduction_button_start_signing" = "Tarkista ja allekirjoita asiakirja(t)";
+"advancedElectronicSignature_introduction_subtitle" = "Napauta alla olevaa painiketta tarkistaaksesi ja allekirjoittaaksesi";
+"advancedElectronicSignature_introduction_title" = "Allekirjoita vaadittu(t) asiakirja(t) digitaalisesti";

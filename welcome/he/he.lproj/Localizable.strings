@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "התחל אימות";
+"welcome_button_studio" = "התחל אימות";
+"welcome_button_trial" = "התחל אימות";
+"welcome_list_header_default" = "השתמש במכשיר שלך כדי:";
+"welcome_list_header_doc_video" = "השתמש במכשיר שלך כדי לצלם:";
+"welcome_list_item_active_video" = "לצלם סרטון של הפנים שלך";
+"welcome_list_item_document" = "לצלם את תעודת הזהות שלך";
+"welcome_list_item_document_video" = "לצלם סרטון של תעודת הזהות שלך";
+"welcome_list_item_face" = "לצלם תמונה של הפנים שלך";
+"welcome_list_item_face_video" = "לצלם סרטון של הפנים שלך";
+"welcome_list_item_poa" = "עליך לצלם תמונה של מסמך שבו מופיעה הכתובת שלך";
+"welcome_subtitle" = "תהליך זה אמור לקחת כמה דקות";
+"welcome_timeout_default" = "ההקלטה מוגבלת ל-​​​​ לשניות";
+"welcome_title" = "אמת את זהותך";
+"welcome_warning_trial" = "אל תשתף כאן נתונים אישיים אלא אם משתמש ב-Onfido לתקופת ניסיון.";
+"welcome_warning_trial_title" = "זהו ניסיון";

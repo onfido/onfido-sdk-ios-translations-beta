@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Fortsett";
+"shareableIdRetrieval_intro_error_subtitle" = "Du har ikke en gjenkjennelig passordnøkkel på enheten din. Vennligst fortsett til den komplette prosessen.";
+"shareableIdRetrieval_intro_error_title" = "Ingen passordnøkkel funnet";
+"shareableIdRetrieval_intro_or" = "ELLER";
+"shareableIdRetrieval_intro_searching" = "Søker etter tidligere verifiseringer";
+"shareableIdRetrieval_intro_start_idv_action" = "Start identitetsverifisering";
+"shareableIdRetrieval_intro_start_idv_description" = "Vi vil be om noe dokumentasjon og personlig informasjon fra deg, som kan hjelpe oss med å bekrefte hvem du sier du er.";
+"shareableIdRetrieval_intro_subtitle" = "Av sikkerhetsgrunner og for å beskytte deg mot svindel, må vi verifisere identiteten din.";
+"shareableIdRetrieval_intro_title" = "Bekreft identiteten din";
+"shareableIdRetrieval_intro_use_sid_action" = "Bruk en tidligere verifisering";
+"shareableIdRetrieval_intro_use_sid_title" = "Du kan bare gjenbruke en verifisering som har blitt fullført og lagret på forhånd.";

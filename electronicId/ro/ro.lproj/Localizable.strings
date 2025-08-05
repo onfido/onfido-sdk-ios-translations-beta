@@ -1,0 +1,17 @@
+
+"electronicId_qr_code_description" = "Deschideți aplicația BankID pe telefonul dvs. și apăsați pe pictograma codului QR";
+"electronicId_qr_code_error_code_expired" = "Codul tău QR a expirat, te rugăm să soliciti unul nou";
+"electronicId_qr_code_refresh_cta" = "Solicitați un nou cod QR";
+"electronicId_qr_code_title" = "Verificare BankID";
+"electronicId_redirection_cross_device" = "Conectați un alt dispozitiv";
+"electronicId_redirection_description" = "Puteți să vă conectați prin telefonul mobil sau un alt dispozitiv";
+"electronicId_redirection_list_title" = "Selectați o metodă";
+"electronicId_redirection_open_in_app" = "Deschide aplicația";
+"electronicId_redirection_scheme_SwedenBankId_open_in_app" = "Deschideți aplicația BankID";
+"electronicId_redirection_title" = "Alegeți modul de conectare";
+"electronicId_scheme_form_subtitle" = "Selectați o bancă din lista de mai jos pentru a vă verifica prin ";
+"electronicId_scheme_form_title" = " Verification";
+"electronicId_selection_description" = "Selectați țara emitentă pentru a vedea ce metode acceptăm";
+"electronicId_selection_list_title" = "Selectați o metodă";
+"electronicId_selection_select_label" = "Țară emitentă";
+"electronicId_selection_title" = "Verificați identitatea dvs.";

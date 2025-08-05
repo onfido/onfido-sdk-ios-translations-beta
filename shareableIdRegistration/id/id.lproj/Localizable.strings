@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Lanjutkan";
+"shareableIdRegistration_registered_subtitle" = "Setelah hasil dari verifikasi ini diketahui, Anda akan dapat menggunakannya kembali saat Anda perlu membuktikan identitas Anda berikutnya.";
+"shareableIdRegistration_registered_title" = "Verifikasi tersimpan";
+"shareableIdRegistration_registration_consent_description" = "Data Anda hanya akan digunakan kembali jika Anda mengklik tombol `Gunakan verifikasi sebelumnya` di lain waktu.";
+"shareableIdRegistration_registration_consent_title" = "Hanya Anda yang dapat menyetujui verifikasi mana yang digunakan kembali";
+"shareableIdRegistration_registration_error_action" = "Kembali";
+"shareableIdRegistration_registration_error_subtitle" = "Tampaknya Anda tidak dapat membuat kunci sandi. Kembali untuk mencoba lagi atau lanjutkan ke proses selanjutnya.";
+"shareableIdRegistration_registration_error_title" = "Kunci akses tidak dibuat";
+"shareableIdRegistration_registration_fast_description" = "Informasi yang sudah dikumpulkan akan disimpan, sehingga Anda dapat menggunakannya kembali alih-alih melalui proses verifikasi lagi.";
+"shareableIdRegistration_registration_fast_title" = "Jangan pernah buang waktu mengulangi verifikasi yang sudah ada";
+"shareableIdRegistration_registration_key_description" = "Seperti kata sandi yang disimpan di perangkat Anda, Anda akan membuat pengenal unik (kunci akses) yang dapat Anda hapus kapan saja.";
+"shareableIdRegistration_registration_key_title" = "Anda akan memegang kunci untuk melewati aliran";
+"shareableIdRegistration_registration_save" = "Simpan verifikasi Anda";
+"shareableIdRegistration_registration_skip" = "Lewati";
+"shareableIdRegistration_registration_title" = "Verifikasi sekali. Gunakan lagi";

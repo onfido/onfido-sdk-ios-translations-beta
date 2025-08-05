@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Jatka";
+"authenticatePasskey_attempts_error_subtitle" = "Et voi enää tunnistautua avainkoodilla.";
+"authenticatePasskey_attempts_error_title" = "Sallittujen yritysten määrä ylitetty";
+"authenticatePasskey_error_button_retry" = "Yritä uudelleen";
+"authenticatePasskey_error_subtitle" = "Tuntematon tekninen ongelma tapahtui, yritä uudelleen.";
+"authenticatePasskey_error_title" = "Jokin meni pieleen";
+"authenticatePasskey_introduction_bullet_1" = "Sinun on täytynyt luoda salasana kanssamme aiemmin.";
+"authenticatePasskey_introduction_bullet_2" = "Laitteesi ohjaa sinua seuraavissa vaiheissa.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Tunnistaudu";
+"authenticatePasskey_introduction_subtitle" = "Pääsyavaimilla voit kirjautua turvallisesti sormenjäljelläsi, kasvoillasi tai laitteen näytön lukituksella.";
+"authenticatePasskey_introduction_title" = "Tunnistaudu avainkoodillasi";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Jatka";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "Sinulla ei ole käytettävissä avainkoodia tunnistautumista varten.";
+"authenticatePasskey_no_passkey_available_error_title" = "Avainta ei ole saatavilla";
+"authenticatePasskey_not_supported_error_button_continue" = "Jatka";
+"authenticatePasskey_not_supported_error_subtitle" = "Valitettavasti et voi suorittaa tätä tehtävää.";
+"authenticatePasskey_not_supported_error_title" = "Laite ei tue avainkoodeja";

@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Створіть свій підпис";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Після прочитання вашого документа, натисніть кнопку \"Підписати документ\".";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Як тільки Onfido підтвердить вашу особистість, ваш підпис буде використано в цьому документі.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Підписати документ";
+"qualifiedElectronicSignature_confirmation_review_document" = "Перегляньте ваш документ для підпису";
+"qualifiedElectronicSignature_confirmation_step2" = "2 з 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Підпишіть ваш документ";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Щоб підтвердити свою особистість відповідно до європейських правил, вам потрібно цифрово підписати документ.";
+"qualifiedElectronicSignature_confirmation_title" = "Створіть та використовуйте свій цифровий підпис";
+"qualifiedElectronicSignature_error_misconfigured" = "На жаль, сталася помилка. Будь ласка, зверніться до служби підтримки.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Створити мій підпис";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Форма заявки на сертифікат";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Повідомлення про конфіденційність";
+"qualifiedElectronicSignature_introduction_step1" = "1 з 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "Щоб підтвердити свою особистість відповідно до європейських правил, вам потрібно цифрово підписати документ.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Умови та положення";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA - це надійний глобальний постачальник, який видасть сертифікат, що підтверджує ваш електронний підпис.";
+"qualifiedElectronicSignature_introduction_title" = "Створіть та використовуйте свій цифровий підпис";
+"qualifiedElectronicSignature_introduction_validation" = "Потрібна згода";

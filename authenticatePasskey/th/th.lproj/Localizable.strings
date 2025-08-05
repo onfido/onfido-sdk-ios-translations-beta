@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "ดำเนินการต่อ";
+"authenticatePasskey_attempts_error_subtitle" = "คุณไม่สามารถยืนยันตัวตนผ่านกุญแจผ่านได้อีกต่อไป";
+"authenticatePasskey_attempts_error_title" = "เกินจำนวนครั้งที่อนุญาต";
+"authenticatePasskey_error_button_retry" = "ลองอีกครั้ง";
+"authenticatePasskey_error_subtitle" = "เกิดปัญหาทางเทคนิคที่ไม่ทราบสาเหตุ โปรดลองอีกครั้ง";
+"authenticatePasskey_error_title" = "มีบางอย่างผิดพลาด";
+"authenticatePasskey_introduction_bullet_1" = "คุณต้องเคยสร้างกุญแจผ่านกับเรามาก่อน";
+"authenticatePasskey_introduction_bullet_2" = "อุปกรณ์ของคุณจะนำทางคุณในขั้นตอนถัดไป";
+"authenticatePasskey_introduction_button_start_authenticating" = "ยืนยันตัวตน";
+"authenticatePasskey_introduction_subtitle" = "Passkey ช่วยให้คุณลงชื่อเข้าใช้อย่างปลอดภัยด้วยลายนิ้วมือ ใบหน้า หรือการล็อกหน้าจออุปกรณ์ของคุณ";
+"authenticatePasskey_introduction_title" = "ยืนยันตัวตนด้วย Passkey ของคุณ";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "ดำเนินการต่อ";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "คุณไม่มีรหัสผ่านคีย์สำหรับใช้ยืนยันตัวตน";
+"authenticatePasskey_no_passkey_available_error_title" = "ไม่มีรหัสผ่านให้ใช้งาน";
+"authenticatePasskey_not_supported_error_button_continue" = "ดำเนินการต่อ";
+"authenticatePasskey_not_supported_error_subtitle" = "ขออภัย คุณไม่สามารถดำเนินการนี้ให้เสร็จสมบูรณ์ได้";
+"authenticatePasskey_not_supported_error_title" = "อุปกรณ์นี้ไม่รองรับการใช้รหัสผ่านแบบ passkey";

@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Nastavak";
+"shareableIdRetrieval_intro_error_subtitle" = "Nemate prepoznatljivu lozinku na svom uređaju. Molimo nastavite do potpunog procesa.";
+"shareableIdRetrieval_intro_error_title" = "Nije pronađen ključ za pristup";
+"shareableIdRetrieval_intro_or" = "ILI";
+"shareableIdRetrieval_intro_searching" = "Pretraga prethodnih provjera";
+"shareableIdRetrieval_intro_start_idv_action" = "Počnite s provjerom identiteta";
+"shareableIdRetrieval_intro_start_idv_description" = "Zatražit ćemo neku dokumentaciju i osobne podatke od vas, koji nam mogu pomoći da saznamo tko kažete da jeste.";
+"shareableIdRetrieval_intro_subtitle" = "Iz sigurnosnih razloga i zaštite od prijevare moramo provjeriti vaš identitet.";
+"shareableIdRetrieval_intro_title" = "Potvrdite svoj identitet";
+"shareableIdRetrieval_intro_use_sid_action" = "Koristite prethodnu verifikaciju";
+"shareableIdRetrieval_intro_use_sid_title" = "Možete ponovno koristiti samo verifikaciju koja je uspješno dovršena i prethodno spremljena.";

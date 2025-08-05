@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Inizia verifica";
+"welcome_button_studio" = "Inizia verifica";
+"welcome_button_trial" = "Inizia verifica (TEST)";
+"welcome_list_header_default" = "Usa il dispositivo per:";
+"welcome_list_header_doc_video" = "Usa il dispositivo per registrare:";
+"welcome_list_item_active_video" = "Registrare un video del tuo viso";
+"welcome_list_item_document" = "Scattare una foto del tuo documento d’identità";
+"welcome_list_item_document_video" = "Registrare un video del tuo documento d’identità";
+"welcome_list_item_face" = "Scattare una foto del tuo viso";
+"welcome_list_item_face_video" = "Registrare un video del tuo viso";
+"welcome_list_item_poa" = "Scatta una foto del documento con il tuo indirizzo";
+"welcome_subtitle" = "L’operazione richiederà pochi minuti";
+"welcome_timeout_default" = "La registrazione è limitata a  pochi secondi";
+"welcome_title" = "Verifica la tua identità";
+"welcome_warning_trial" = "Non condividere i dati personali qui a meno che tu non sia coinvolto in una prova Onfido.";
+"welcome_warning_trial_title" = "Questa è una prova";

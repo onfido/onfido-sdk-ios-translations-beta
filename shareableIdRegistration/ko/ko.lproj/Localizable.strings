@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "계속";
+"shareableIdRegistration_registered_subtitle" = "이 인증의 결과가 알려지면 다음 번에 본인 확인이 필요할 때 다시 사용할 수 있습니다.";
+"shareableIdRegistration_registered_title" = "인증이 저장되었습니다";
+"shareableIdRegistration_registration_consent_description" = "당신의 데이터는 `이전 검증 사용` 버튼을 다음에 클릭할 때만 재사용됩니다.";
+"shareableIdRegistration_registration_consent_title" = "어떤 검증이 재사용될지에 대한 동의는 오직 당신만이 할 수 있습니다";
+"shareableIdRegistration_registration_error_action" = "돌아가기";
+"shareableIdRegistration_registration_error_subtitle" = "패스키를 생성하지 못한 것 같습니다. 다시 시도하려면 뒤로 가거나, 전체 과정을 계속하십시오.";
+"shareableIdRegistration_registration_error_title" = "패스키가 생성되지 않았습니다";
+"shareableIdRegistration_registration_fast_description" = "이미 수집된 정보는 저장되므로, 다시 인증 과정을 거치는 대신 이를 재사용할 수 있습니다.";
+"shareableIdRegistration_registration_fast_title" = "이미 존재하는 인증을 반복하여 시간을 낭비하지 마세요";
+"shareableIdRegistration_registration_key_description" = "기기에 저장된 비밀번호처럼, 언제든지 삭제할 수 있는 고유 식별자(패스키)를 생성하게 됩니다.";
+"shareableIdRegistration_registration_key_title" = "당신은 흐름을 건너뛰는 열쇠를 가지고 있을 것입니다";
+"shareableIdRegistration_registration_save" = "당신의 인증을 저장하세요";
+"shareableIdRegistration_registration_skip" = "건너뛰기";
+"shareableIdRegistration_registration_title" = "한 번 확인하세요. 다시 사용하세요";

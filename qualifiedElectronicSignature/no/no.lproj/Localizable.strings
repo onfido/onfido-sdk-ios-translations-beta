@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Lag din signatur";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Etter å ha lest dokumentet ditt, trykk på \"Signer dokument\" knappen.";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Når Onfido bekrefter identiteten din, vil signaturen din bli brukt på dette dokumentet.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Signer dokument";
+"qualifiedElectronicSignature_confirmation_review_document" = "Gjennomgå dokumentet ditt for å signere";
+"qualifiedElectronicSignature_confirmation_step2" = "2 av 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Signer dokumentet ditt";
+"qualifiedElectronicSignature_confirmation_subtitle" = "For å bekrefte identiteten din i samsvar med europeiske regler, må du digitalt signere et dokument.";
+"qualifiedElectronicSignature_confirmation_title" = "Opprett og bruk din digitale signatur";
+"qualifiedElectronicSignature_error_misconfigured" = "Dessverre har det oppstått en feil. Vennligst kontakt din støtte.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Opprett signaturen min";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Søknadsskjema for sertifikat";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Personvernerklæring";
+"qualifiedElectronicSignature_introduction_step1" = "1 av 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "For å bekrefte identiteten din i samsvar med europeiske regler, må du digitalt signere et dokument.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Vilkår og betingelser";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA er en pålitelig global leverandør som vil utstede et sertifikat som bekrefter din elektroniske signatur.";
+"qualifiedElectronicSignature_introduction_title" = "Opprett og bruk din digitale signatur";
+"qualifiedElectronicSignature_introduction_validation" = "Samtykke kreves";

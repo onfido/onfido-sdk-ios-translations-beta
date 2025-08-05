@@ -1,0 +1,16 @@
+
+"retry_button_default" = "נסה שוב";
+"retry_button_expired_document" = "נסה שוב";
+"retry_button_generic_document_issue" = "נסה שוב";
+"retry_button_generic_selfie_issue" = "נסה שוב";
+"retry_button_unaccepted_document" = "נסה שוב";
+"retry_description_default" = "נסה שוב";
+"retry_description_expired_document" = "נסה שוב עם תעודה מזהה חוקית שכוללת תמונה וודא שהפרטים מופיעים בבירור";
+"retry_description_generic_document_issue" = "נסה שוב עם תעודה מזהה חוקית שכוללת תמונה וודא שהפרטים מופיעים בבירור";
+"retry_description_generic_selfie_issue" = "נסה שוב וודא שהפנים שלך גלויות ומוארות היטב";
+"retry_description_unaccepted_document" = "נסה שוב עם תעודה מזהה חוקית שכוללת תמונה וודא שהפרטים מופיעים בבירור";
+"retry_headline_default" = "הייתה בעיה";
+"retry_headline_expired_document" = "תוקף המסמך שלך פג";
+"retry_headline_generic_document_issue" = "הייתה בעיה עם המסמך שלך";
+"retry_headline_generic_selfie_issue" = "הייתה בעיה עם הסלפי שלך";
+"retry_headline_unaccepted_document" = "מסמך לא מקובל";

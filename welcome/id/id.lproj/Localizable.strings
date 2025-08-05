@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Mulai verifikasi";
+"welcome_button_studio" = "Mulai verifikasi";
+"welcome_button_trial" = "Mulai verifikasi (UJI COBA)";
+"welcome_list_header_default" = "Gunakan perangkat Anda untuk:";
+"welcome_list_header_doc_video" = "Gunakan perangkat Anda untuk merekam:";
+"welcome_list_item_active_video" = "Merekam video wajah Anda";
+"welcome_list_item_document" = "Mengambil foto dokumen identitas Anda";
+"welcome_list_item_document_video" = "Merekam video dokumen identitas Anda";
+"welcome_list_item_face" = "Mengambil foto wajah Anda";
+"welcome_list_item_face_video" = "Merekam video wajah Anda";
+"welcome_list_item_poa" = "Ambil foto dokumen dengan alamat Anda";
+"welcome_subtitle" = "Ini akan memakan waktu beberapa menit";
+"welcome_timeout_default" = "Rekaman dibatasi hingga  detik";
+"welcome_title" = "Verifikasi identitas Anda";
+"welcome_warning_trial" = "Jangan bagikan data pribadi di sini kecuali Anda terlibat dalam uji coba Onfido.";
+"welcome_warning_trial_title" = "Ini adalah uji coba";

@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Starta verifiering";
+"welcome_button_studio" = "Starta verifiering";
+"welcome_button_trial" = "Starta verifiering (TEST)";
+"welcome_list_header_default" = "Använd din enhet för att:";
+"welcome_list_header_doc_video" = "Använd din enhet för att spela in:";
+"welcome_list_item_active_video" = "Spela in en video av ditt ansikte";
+"welcome_list_item_document" = "Ta ett foto av ditt identitetsdokument";
+"welcome_list_item_document_video" = "Spela in en video av ditt identitetsdokument";
+"welcome_list_item_face" = "Ta ett foto av ditt ansikte";
+"welcome_list_item_face_video" = "Spela in en video av ditt ansikte";
+"welcome_list_item_poa" = "Ta ett foto av ett dokument med din adress";
+"welcome_subtitle" = "Detta kan ta några minuter";
+"welcome_timeout_default" = "Inspelningen är begränsad till  sekunder";
+"welcome_title" = "Verifiera din identitet";
+"welcome_warning_trial" = "Dela inte personuppgifter här om du inte deltar i en provperiod för Onfido.";
+"welcome_warning_trial_title" = "Detta är en provversion";

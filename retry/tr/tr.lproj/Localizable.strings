@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Tekrar deneyin";
+"retry_button_expired_document" = "Tekrar deneyin";
+"retry_button_generic_document_issue" = "Tekrar deneyin";
+"retry_button_generic_selfie_issue" = "Tekrar deneyin";
+"retry_button_unaccepted_document" = "Tekrar deneyin";
+"retry_description_default" = "Lütfen tekrar deneyin";
+"retry_description_expired_document" = "Lütfen geçerli bir fotoğraflı kimlikle tekrar deneyin ve bilgilerinizin net bir şekilde göründüğünden emin olun";
+"retry_description_generic_document_issue" = "Lütfen geçerli bir fotoğraflı kimlikle tekrar deneyin ve bilgilerinizin net bir şekilde göründüğünden emin olun";
+"retry_description_generic_selfie_issue" = "Lütfen tekrar deneyin ve yüzünüzün görünür ve iyi aydınlatılmış olduğundan emin olun";
+"retry_description_unaccepted_document" = "Lütfen geçerli bir fotoğraflı kimlikle tekrar deneyin ve bilgilerinizin net bir şekilde göründüğünden emin olun";
+"retry_headline_default" = "Bir problem oldu";
+"retry_headline_expired_document" = "Belgenizin süresi doldu";
+"retry_headline_generic_document_issue" = "Belgenizle ilgili bir sorun oldu";
+"retry_headline_generic_selfie_issue" = "Selfie`nizle ilgili bir sorun oldu";
+"retry_headline_unaccepted_document" = "Belge kabul edilmiyor";

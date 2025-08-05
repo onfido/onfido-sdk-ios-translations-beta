@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Zkuste to znovu";
+"retry_button_expired_document" = "Zkuste to znovu";
+"retry_button_generic_document_issue" = "Zkuste to znovu";
+"retry_button_generic_selfie_issue" = "Zkuste to znovu";
+"retry_button_unaccepted_document" = "Zkuste to znovu";
+"retry_description_default" = "Zkuste to znovu";
+"retry_description_expired_document" = "Zkuste to znovu s platným průkazem totožnosti s fotografií a ujistěte se, že jsou Vaše údaje jasně viditelné.";
+"retry_description_generic_document_issue" = "Zkuste to znovu s platným průkazem totožnosti s fotografií a ujistěte se, že jsou Vaše údaje jasně viditelné.";
+"retry_description_generic_selfie_issue" = "Zkuste to znovu a ujistěte se, že je Váš obličej viditelný a dobře osvětlený.";
+"retry_description_unaccepted_document" = "Zkuste to znovu s platným průkazem totožnosti s fotografií a ujistěte se, že jsou Vaše údaje jasně viditelné.";
+"retry_headline_default" = "Nastal problém";
+"retry_headline_expired_document" = "Platnost Vašeho dokumentu vypršela";
+"retry_headline_generic_document_issue" = "Vyskytl se problém s vaším dokumentem";
+"retry_headline_generic_selfie_issue" = "Vyskytl se problém s vaší selfie";
+"retry_headline_unaccepted_document" = "Neakceptovatelný dokument";

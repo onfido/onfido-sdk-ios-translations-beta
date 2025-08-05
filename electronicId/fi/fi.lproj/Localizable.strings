@@ -1,0 +1,17 @@
+
+"electronicId_qr_code_description" = "Avaa BankID-sovellus puhelimessasi ja paina QR-koodin kuvaketta";
+"electronicId_qr_code_error_code_expired" = "QR-koodisi on vanhentunut, pyydä uutta";
+"electronicId_qr_code_refresh_cta" = "Pyydä uusi QR-koodi";
+"electronicId_qr_code_title" = "BankID-tunnistus";
+"electronicId_redirection_cross_device" = "Yhdistä toinen laite";
+"electronicId_redirection_description" = "Voit muodostaa yhteyden matkapuhelimesi tai jonkin muun laitteen kautta";
+"electronicId_redirection_list_title" = "Valitse menetelmä";
+"electronicId_redirection_open_in_app" = "Käynnistä sovellus";
+"electronicId_redirection_scheme_SwedenBankId_open_in_app" = "Avaa BankID-sovellus";
+"electronicId_redirection_title" = "Valitse, miten haluat yhdistää";
+"electronicId_scheme_form_subtitle" = "Valitse pankki alla olevasta luettelosta vahvistaaksesi itsesi  kautta";
+"electronicId_scheme_form_title" = " Verification";
+"electronicId_selection_description" = "Valitse myöntävä maa nähdäksesi, mitä menetelmiä hyväksymme";
+"electronicId_selection_list_title" = "Valitse menetelmä";
+"electronicId_selection_select_label" = "Myöntämismaa";
+"electronicId_selection_title" = "Vahvista henkilöllisyytesi";

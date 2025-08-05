@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "Acceptera";
+"consent_button_secondary" = "Acceptera inte";
+"consent_loading_error_button_primary" = "Ladda om skärmen";
+"consent_loading_error_detail" = "Kontrollera att din anslutning är stabil och försök sedan igen";
+"consent_loading_error_title" = "Innehållet kunde inte laddas";
+"consent_prompt_button_primary" = "Ja, verifiera inte mig";
+"consent_prompt_button_secondary" = "Granska igen";
+"consent_prompt_no_consent_detail" = "Om du inte accepterar Onfidos sekretesspolicy och användarvillkor kommer vi inte att kunna verifiera din identitet och du kommer att lämna detta steg.";
+"consent_prompt_no_consent_title" = "Är du säker?";

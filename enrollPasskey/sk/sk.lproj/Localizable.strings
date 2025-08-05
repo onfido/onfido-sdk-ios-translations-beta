@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "Pokračovať";
+"enrollPasskey_attempts_error_subtitle" = "Už sa nemôžete overiť pomocou prístupového kľúča.";
+"enrollPasskey_attempts_error_title" = "Bol prekročený povolený počet pokusov";
+"enrollPasskey_error_button_retry" = "Skúsiť znova";
+"enrollPasskey_error_subtitle" = "Vyskytol sa neznámy technický problém, skúste to znova.";
+"enrollPasskey_error_title" = "Niečo sa pokazilo";
+"enrollPasskey_introduction_bullet_1" = "Tento prístupový kľúč sa použije pre doménu: ";
+"enrollPasskey_introduction_bullet_2" = "Vaše zariadenie vás prevedie ďalšími krokmi.";
+"enrollPasskey_introduction_button_start_enrolling" = "Vytvorte prístupový kľúč";
+"enrollPasskey_introduction_subtitle" = "Prístupové kľúče vám umožňujú bezpečne sa prihlásiť pomocou odtlačku prsta, tváre alebo zámku obrazovky zariadenia.";
+"enrollPasskey_introduction_title" = "Nastavte si svoj prístupový kľúč";
+"enrollPasskey_not_supported_error_button_continue" = "Pokračovať";
+"enrollPasskey_not_supported_error_subtitle" = "Ľutujeme, túto úlohu nemôžete dokončiť.";
+"enrollPasskey_not_supported_error_title" = "Zariadenie nepodporuje prístupové kľúče";

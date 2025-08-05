@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "Aceitar";
+"consent_button_secondary" = "Não aceite";
+"consent_loading_error_button_primary" = "Recarregar ecrã";
+"consent_loading_error_detail" = "Verifique se a sua ligação é estável e tente novamente";
+"consent_loading_error_title" = "O conteúdo falhou ao carregar";
+"consent_prompt_button_primary" = "Sim, não me verifique";
+"consent_prompt_button_secondary" = "Reveja novamente";
+"consent_prompt_no_consent_detail" = "Se não aceitar as declarações de privacidade e os termos de serviço da Onfido, não poderemos verificar a sua identidade e você sairá deste passo.";
+"consent_prompt_no_consent_title" = "Tem a certeza?";

@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Utwórz swój podpis";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Po przeczytaniu twojego dokumentu, naciśnij przycisk „Podpisz dokument”.";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Gdy Onfido zweryfikuje Twoją tożsamość, Twój podpis zostanie użyty w tym dokumencie.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Podpisz dokument";
+"qualifiedElectronicSignature_confirmation_review_document" = "Przejrzyj swój dokument do podpisania";
+"qualifiedElectronicSignature_confirmation_step2" = "2 z 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Podpisz swój dokument";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Aby potwierdzić swoją tożsamość zgodnie z europejskimi przepisami, musisz cyfrowo podpisać dokument.";
+"qualifiedElectronicSignature_confirmation_title" = "Utwórz i używaj swojego cyfrowego podpisu";
+"qualifiedElectronicSignature_error_misconfigured" = "Niestety, wystąpił błąd. Proszę skontaktować się z działem wsparcia.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Utwórz mój podpis";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Formularz wniosku o certyfikat";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Informacja o prywatności";
+"qualifiedElectronicSignature_introduction_step1" = "1 z 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "Aby potwierdzić swoją tożsamość zgodnie z europejskimi przepisami, musisz cyfrowo podpisać dokument.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Warunki i postanowienia";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA jest zaufanym globalnym dostawcą, który wyda certyfikat potwierdzający twoją elektroniczną sygnaturę.";
+"qualifiedElectronicSignature_introduction_title" = "Utwórz i używaj swojego cyfrowego podpisu";
+"qualifiedElectronicSignature_introduction_validation" = "Wymagana zgoda";

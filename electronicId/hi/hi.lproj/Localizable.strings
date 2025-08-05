@@ -1,0 +1,17 @@
+
+"electronicId_qr_code_description" = "अपने फ़ोन पर BankID ऐप को खोलें और QR कोड आइकन दबाएं";
+"electronicId_qr_code_error_code_expired" = "आपका QR कोड समाप्त हो गया है, कृपया एक नया अनुरोध करें";
+"electronicId_qr_code_refresh_cta" = "नया QR कोड अनुरोध करें";
+"electronicId_qr_code_title" = "BankID सत्यापन";
+"electronicId_redirection_cross_device" = "एक अन्य उपकरण से जुड़ें";
+"electronicId_redirection_description" = "आप अपने मोबाइल फ़ोन या किसी अन्य उपकरण के माध्यम से कनेक्ट कर सकते हैं";
+"electronicId_redirection_list_title" = "एक विधि चुनें";
+"electronicId_redirection_open_in_app" = "ऐप खोलें";
+"electronicId_redirection_scheme_SwedenBankId_open_in_app" = "BankID ऐप खोलें";
+"electronicId_redirection_title" = "कैसे जुड़ना है, चुनें";
+"electronicId_scheme_form_subtitle" = "नीचे दी गई सूची से एक बैंक चुनें ताकि आप  के माध्यम से अपनी पहचान सत्यापित कर सकें।";
+"electronicId_scheme_form_title" = " Verification";
+"electronicId_selection_description" = "हम किन विधियों को स्वीकार करते हैं, इसे देखने के लिए जारी करने वाले देश का चयन करें";
+"electronicId_selection_list_title" = "एक विधि चुनें";
+"electronicId_selection_select_label" = "जारी करने वाला देश";
+"electronicId_selection_title" = "अपनी पहचान वेरिफ़ाई करें";

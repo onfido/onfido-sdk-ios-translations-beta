@@ -1,0 +1,9 @@
+
+"advancedElectronicSignature_error_button_retry" = "Go back";
+"advancedElectronicSignature_error_subtitle" = "Please wait a few seconds and try again";
+"advancedElectronicSignature_error_title" = "Something went wrong";
+"advancedElectronicSignature_introduction_bullet_1" = "The signing environment (signhost.com) will open in a new window.";
+"advancedElectronicSignature_introduction_bullet_2" = "Once signing is complete, you will be redirected back to continue the workflow. If not, please manually return.";
+"advancedElectronicSignature_introduction_button_start_signing" = "Review and Sign Document(s)";
+"advancedElectronicSignature_introduction_subtitle" = "Tap the button below to review and sign";
+"advancedElectronicSignature_introduction_title" = "Digitally sign the required document(s)";

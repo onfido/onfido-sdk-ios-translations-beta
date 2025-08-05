@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Kontynuuj";
+"authenticatePasskey_attempts_error_subtitle" = "Nie możesz już uwierzytelniać się za pomocą klucza dostępu.";
+"authenticatePasskey_attempts_error_title" = "Przekroczono dozwoloną liczbę prób";
+"authenticatePasskey_error_button_retry" = "Spróbuj ponownie";
+"authenticatePasskey_error_subtitle" = "Wystąpił nieznany problem techniczny, spróbuj ponownie.";
+"authenticatePasskey_error_title" = "Coś poszło nie tak";
+"authenticatePasskey_introduction_bullet_1" = "Musisz wcześniej utworzyć u nas klucz dostępu.";
+"authenticatePasskey_introduction_bullet_2" = "Twoje urządzenie poprowadzi Cię przez kolejne kroki.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Uwierzytelnij";
+"authenticatePasskey_introduction_subtitle" = "Klucze dostępu umożliwiają bezpieczne logowanie za pomocą odcisku palca, twarzy lub blokady ekranu urządzenia.";
+"authenticatePasskey_introduction_title" = "Uwierzytelnij się za pomocą klucza dostępu";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Kontynuuj";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "Nie masz dostępnego klucza dostępu do uwierzytelnienia.";
+"authenticatePasskey_no_passkey_available_error_title" = "Brak dostępnego klucza dostępu";
+"authenticatePasskey_not_supported_error_button_continue" = "Kontynuuj";
+"authenticatePasskey_not_supported_error_subtitle" = "Przepraszamy, nie możesz ukończyć tego zadania.";
+"authenticatePasskey_not_supported_error_title" = "Urządzenie nie obsługuje kluczy dostępu";

@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Շարունակել";
+"shareableIdRetrieval_intro_error_subtitle" = "Դուք չունեք ճանաչվող անցաբառ ձեր սարքում։ Խնդրում ենք շարունակել ամբողջ գործընթացը։";
+"shareableIdRetrieval_intro_error_title" = "Ոչ մի բանալի չի գտնվել";
+"shareableIdRetrieval_intro_or" = "ԿԱՄ";
+"shareableIdRetrieval_intro_searching" = "Որոնում է նախորդ հաստատումները";
+"shareableIdRetrieval_intro_start_idv_action" = "Սկսեք իսկության հաստատումը";
+"shareableIdRetrieval_intro_start_idv_description" = "Մենք կպահանջենք ձեզանից որոշ փաստաթղթավորում և անձնական տվյալներ, որոնք կարող են մեզ օգնել իմանալ, ով եք դուք ասում:";
+"shareableIdRetrieval_intro_subtitle" = "Համակարգչային անվտանգության եւ ձեզ պատճառվող խարդարությունից պաշտպանելու համար մեզ անհրաժեշտ է ստուգել ձեր իսկությունը:";
+"shareableIdRetrieval_intro_title" = "Հաստատեք ձեր ինքնությունը";
+"shareableIdRetrieval_intro_use_sid_action" = "Օգտագործեք նախորդ հաստատումը";
+"shareableIdRetrieval_intro_use_sid_title" = "Դուք կարող եք վերագործել միայն այն հաստատումը, որը նախկինում հաջողությամբ է կատարվել և պահպանվել:";

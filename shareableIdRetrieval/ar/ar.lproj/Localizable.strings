@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "متابعة";
+"shareableIdRetrieval_intro_error_subtitle" = "ليس لديك مفتاح مرور قابل للتعرف على جهازك. يرجى المتابعة إلى العملية الكاملة.";
+"shareableIdRetrieval_intro_error_title" = "لم يتم العثور على مفتاح الدخول";
+"shareableIdRetrieval_intro_or" = "أو";
+"shareableIdRetrieval_intro_searching" = "البحث عن عمليات التحقق السابقة";
+"shareableIdRetrieval_intro_start_idv_action" = "ابدأ التحقق من الهوية";
+"shareableIdRetrieval_intro_start_idv_description" = "سنطلب بعض الوثائق والمعلومات الشخصية منك، التي يمكن أن تساعدنا في معرفة من تقول أنك أنت.";
+"shareableIdRetrieval_intro_subtitle" = "لأسباب أمنية ولحمايتك من الاحتيال، نحتاج إلى التحقق من هويتك.";
+"shareableIdRetrieval_intro_title" = "التحقق من هويتك";
+"shareableIdRetrieval_intro_use_sid_action" = "استخدم التحقق السابق";
+"shareableIdRetrieval_intro_use_sid_title" = "يمكنك فقط إعادة استخدام عملية التحقق التي تم إكمالها وحفظها مسبقًا بنجاح.";

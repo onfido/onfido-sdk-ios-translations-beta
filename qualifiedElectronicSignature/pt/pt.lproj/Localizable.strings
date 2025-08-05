@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Crie a sua assinatura";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Após ler o seu documento, toque no botão \"Assinar documento\".";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Uma vez que a Onfido verifica a sua identidade, a sua assinatura será usada neste documento.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Assinar documento";
+"qualifiedElectronicSignature_confirmation_review_document" = "Revise o seu documento para assinar";
+"qualifiedElectronicSignature_confirmation_step2" = "2 de 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Assine o seu documento";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Para confirmar sua identidade de acordo com as regras europeias, você deve assinar digitalmente um documento.";
+"qualifiedElectronicSignature_confirmation_title" = "Crie e use sua assinatura digital";
+"qualifiedElectronicSignature_error_misconfigured" = "Infelizmente, ocorreu um erro. Por favor, entre em contato com o seu suporte.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Criar minha assinatura";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Formulário de solicitação de certificado";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Aviso de privacidade";
+"qualifiedElectronicSignature_introduction_step1" = "1 de 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "Para confirmar sua identidade de acordo com as regras europeias, você deve assinar digitalmente um documento.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Termos e condições";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA é um fornecedor global de confiança que emitirá um certificado validando sua assinatura eletrônica.";
+"qualifiedElectronicSignature_introduction_title" = "Crie e use sua assinatura digital";
+"qualifiedElectronicSignature_introduction_validation" = "Consentimento necessário";

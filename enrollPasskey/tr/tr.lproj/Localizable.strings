@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "Devam et";
+"enrollPasskey_attempts_error_subtitle" = "Artık bir geçiş anahtarıyla kimlik doğrulaması yapamazsınız.";
+"enrollPasskey_attempts_error_title" = "İzin verilen deneme sayısı aşıldı";
+"enrollPasskey_error_button_retry" = "Yeniden dene";
+"enrollPasskey_error_subtitle" = "Bilinmeyen bir teknik sorun oluştu, lütfen tekrar deneyin.";
+"enrollPasskey_error_title" = "Bir şeyler yanlış gitti";
+"enrollPasskey_introduction_bullet_1" = "Bu geçiş anahtarı şu alan adı için kullanılacaktır: ";
+"enrollPasskey_introduction_bullet_2" = "Cihazınız sizi sonraki adımlar konusunda yönlendirecektir.";
+"enrollPasskey_introduction_button_start_enrolling" = "Anahtar oluştur";
+"enrollPasskey_introduction_subtitle" = "Geçiş anahtarları, parmak izinizi, yüzünüzü veya cihaz ekran kilidinizi kullanarak güvenli bir şekilde oturum açmanızı sağlar.";
+"enrollPasskey_introduction_title" = "Geçiş Anahtarınızı Ayarlayın";
+"enrollPasskey_not_supported_error_button_continue" = "Devam et";
+"enrollPasskey_not_supported_error_subtitle" = "Üzgünüz, bu görevi tamamlayamıyorsunuz.";
+"enrollPasskey_not_supported_error_title" = "Cihaz geçiş anahtarlarını desteklemiyor";

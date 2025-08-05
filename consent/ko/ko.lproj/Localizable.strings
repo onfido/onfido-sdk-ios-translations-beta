@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "동의";
+"consent_button_secondary" = "동의 안 함";
+"consent_loading_error_button_primary" = "화면 다시 불러오기";
+"consent_loading_error_detail" = "연결이 안정적인지 확인한 다음 다시 시도하세요";
+"consent_loading_error_title" = "콘텐츠 로드에 실패";
+"consent_prompt_button_primary" = "예, 인증 절차를 그만두겠습니다";
+"consent_prompt_button_secondary" = "다시 검토하기";
+"consent_prompt_no_consent_detail" = "Onfido의 개인정보 보호정책 및 이용 약관에 동의하지 않는 경우, 당사에서 사용자 신원을 확인할 수 없으며 이 절차는 종료됩니다.";
+"consent_prompt_no_consent_title" = "정말 그렇게 하시겠어요?";

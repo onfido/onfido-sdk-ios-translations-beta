@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Proovige uuesti";
+"retry_button_expired_document" = "Proovige uuesti";
+"retry_button_generic_document_issue" = "Proovige uuesti";
+"retry_button_generic_selfie_issue" = "Proovige uuesti";
+"retry_button_unaccepted_document" = "Proovige uuesti";
+"retry_description_default" = "Proovige uuesti";
+"retry_description_expired_document" = "Proovige uuesti, kasutades kehtiva fotoga isikutunnistust ja veenduge, et teie andmed on selgelt nähtavad";
+"retry_description_generic_document_issue" = "Proovige uuesti, kasutades kehtiva fotoga isikutunnistust ja veenduge, et teie andmed on selgelt nähtavad";
+"retry_description_generic_selfie_issue" = "Proovige uuesti ja veenduge, et teie nägu on nähtav ja hästi valgustatud";
+"retry_description_unaccepted_document" = "Proovige uuesti, kasutades kehtiva fotoga isikutunnistust ja veenduge, et teie andmed on selgelt nähtavad";
+"retry_headline_default" = "Esines probleem";
+"retry_headline_expired_document" = "Teie dokument on aegunud";
+"retry_headline_generic_document_issue" = "Teie dokumendiga oli probleem";
+"retry_headline_generic_selfie_issue" = "Teie selfie`ga oli probleem";
+"retry_headline_unaccepted_document" = "Mittesobiv dokument";

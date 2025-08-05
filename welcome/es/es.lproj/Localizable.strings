@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Empezar la verificación";
+"welcome_button_studio" = "Empezar la verificación";
+"welcome_button_trial" = "Empezar la verificación (TEST)";
+"welcome_list_header_default" = "Utilice su dispositivo para:";
+"welcome_list_header_doc_video" = "Utilice su móvil para la grabación:";
+"welcome_list_item_active_video" = "Grabe un vídeo de su cara";
+"welcome_list_item_document" = "Tome una foto de su documento de identidad";
+"welcome_list_item_document_video" = "Grabe un vídeo de su documento de identidad";
+"welcome_list_item_face" = "Tome una foto de su cara";
+"welcome_list_item_face_video" = "Grabe un vídeo de su cara";
+"welcome_list_item_poa" = "Tomar una foto del documento con la dirección";
+"welcome_subtitle" = "Debería tomar unos minutos";
+"welcome_timeout_default" = "La grabación se limita a  segundos";
+"welcome_title" = "Verifique su identidad";
+"welcome_warning_trial" = "No comparta datos personales aquí a menos que participe en una prueba de Onfido.";
+"welcome_warning_trial_title" = "Esta es una prueba";

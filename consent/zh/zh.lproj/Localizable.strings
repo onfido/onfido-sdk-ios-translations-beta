@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "接受";
+"consent_button_secondary" = "不接受";
+"consent_loading_error_button_primary" = "重新加载屏幕";
+"consent_loading_error_detail" = "请检查连接是否稳定，然后重试";
+"consent_loading_error_title" = "内容加载失败";
+"consent_prompt_button_primary" = "是，不要验证我";
+"consent_prompt_button_secondary" = "再次审核";
+"consent_prompt_no_consent_detail" = "如果您不接受Onfido的隐私声明和服务条款，我们将无法验证您的身份，您将退出此步骤。";
+"consent_prompt_no_consent_title" = "是否确定？";

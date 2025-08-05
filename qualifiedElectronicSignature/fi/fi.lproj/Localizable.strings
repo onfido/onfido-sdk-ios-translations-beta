@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Luo allekirjoituksesi";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Luettuasi dokumenttisi, napauta \"Allekirjoita dokumentti\" -painiketta.";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Kun Onfido on vahvistanut henkilöllisyytesi, allekirjoituksesi käytetään tässä asiakirjassa.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Allekirjoita asiakirja";
+"qualifiedElectronicSignature_confirmation_review_document" = "Tarkista asiakirjasi allekirjoittaaksesi";
+"qualifiedElectronicSignature_confirmation_step2" = "2/2";
+"qualifiedElectronicSignature_confirmation_steps" = "Allekirjoita dokumenttisi";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Vahvistaaksesi henkilöllisyytesi Euroopan sääntöjen mukaisesti, sinun on digitaalisesti allekirjoitettava asiakirja.";
+"qualifiedElectronicSignature_confirmation_title" = "Luo ja käytä digitaalista allekirjoitustasi";
+"qualifiedElectronicSignature_error_misconfigured" = "Valitettavasti on tapahtunut virhe. Ota yhteyttä tukeesi.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Luo allekirjoitukseni";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Todistuksen hakulomake";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Tietosuojailmoitus";
+"qualifiedElectronicSignature_introduction_step1" = "1/2";
+"qualifiedElectronicSignature_introduction_subtitle" = "Vahvistaaksesi henkilöllisyytesi Euroopan sääntöjen mukaisesti, sinun on digitaalisesti allekirjoitettava asiakirja.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Käyttöehdot ja -säännöt";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA on luotettava maailmanlaajuinen palveluntarjoaja, joka myöntää sertifikaatin vahvistaen sähköisen allekirjoituksesi.";
+"qualifiedElectronicSignature_introduction_title" = "Luo ja käytä digitaalista allekirjoitustasi";
+"qualifiedElectronicSignature_introduction_validation" = "Suostumus vaaditaan";

@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "Tęsti";
+"enrollPasskey_attempts_error_subtitle" = "Jūs nebegalite autentifikuotis naudodami slaptuką.";
+"enrollPasskey_attempts_error_title" = "Viršytas leistinas bandymų skaičius";
+"enrollPasskey_error_button_retry" = "Bandyti dar kartą";
+"enrollPasskey_error_subtitle" = "Įvyko nežinoma techninė problema, bandykite dar kartą.";
+"enrollPasskey_error_title" = "Kažkas nepavyko";
+"enrollPasskey_introduction_bullet_1" = "Šis slaptukas bus naudojamas domenui: ";
+"enrollPasskey_introduction_bullet_2" = "Jūsų įrenginys padės jums atlikti kitus veiksmus.";
+"enrollPasskey_introduction_button_start_enrolling" = "Sukurti slaptuką";
+"enrollPasskey_introduction_subtitle" = "Raktai leidžia saugiai prisijungti naudojant piršto atspaudą, veidą arba įrenginio ekrano užraktą.";
+"enrollPasskey_introduction_title" = "Nustatykite savo slaptuką";
+"enrollPasskey_not_supported_error_button_continue" = "Tęsti";
+"enrollPasskey_not_supported_error_subtitle" = "Atsiprašome, negalite užbaigti šios užduoties.";
+"enrollPasskey_not_supported_error_title" = "Įrenginys nepalaiko raktų be slaptažodžio";

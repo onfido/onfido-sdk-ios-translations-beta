@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Fortsæt";
+"shareableIdRegistration_registered_subtitle" = "Når resultatet af denne verifikation er kendt, vil du kunne genbruge det næste gang du skal bevise din identitet.";
+"shareableIdRegistration_registered_title" = "Bekræftelse gemt";
+"shareableIdRegistration_registration_consent_description" = "Hvis du klikker på knappen `Brug en tidligere verifikation` næste gang, vil dine data kun blive genbrugt.";
+"shareableIdRegistration_registration_consent_title" = "Kun du kan give samtykke til, hvilke verifikationer der genbruges";
+"shareableIdRegistration_registration_error_action" = "Gå tilbage";
+"shareableIdRegistration_registration_error_subtitle" = "Det ser ud til, at du ikke kunne oprette en adgangskode. Gå tilbage for at prøve igen eller fortsæt til den fulde proces.";
+"shareableIdRegistration_registration_error_title" = "Nøglekode ikke oprettet";
+"shareableIdRegistration_registration_fast_description" = "Oplysninger, der allerede er indsamlet, vil blive gemt, så du kan genbruge dem i stedet for at gennemgå identitetsverifikationsprocessen igen.";
+"shareableIdRegistration_registration_fast_title" = "Spild aldrig tid på at gentage en verifikation, der allerede eksisterer";
+"shareableIdRegistration_registration_key_description" = "Ligesom en adgangskode gemt på din enhed, vil du oprette en unik identifikator (en adgangsnøgle), som du kan slette når som helst.";
+"shareableIdRegistration_registration_key_title" = "Du vil have nøglen til at springe flowet over";
+"shareableIdRegistration_registration_save" = "Gem din verifikation";
+"shareableIdRegistration_registration_skip" = "Spring over";
+"shareableIdRegistration_registration_title" = "Bekræft en gang. Genbrug igen";

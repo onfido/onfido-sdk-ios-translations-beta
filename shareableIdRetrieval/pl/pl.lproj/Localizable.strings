@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Kontynuuj";
+"shareableIdRetrieval_intro_error_subtitle" = "Nie masz rozpoznawalnego klucza dostępu na swoim urządzeniu. Proszę kontynuować do pełnego procesu.";
+"shareableIdRetrieval_intro_error_title" = "Nie znaleziono klucza dostępu";
+"shareableIdRetrieval_intro_or" = "LUB";
+"shareableIdRetrieval_intro_searching" = "Wyszukiwanie poprzednich weryfikacji";
+"shareableIdRetrieval_intro_start_idv_action" = "Rozpocznij weryfikację tożsamości";
+"shareableIdRetrieval_intro_start_idv_description" = "Poprosimy Cię o przedstawienie niektórych dokumentów i informacji osobistych, które pomogą nam potwierdzić Twoją tożsamość.";
+"shareableIdRetrieval_intro_subtitle" = "Ze względów bezpieczeństwa i w celu ochrony przed oszustwem musimy zweryfikować Twoją tożsamość.";
+"shareableIdRetrieval_intro_title" = "Zweryfikuj swoją tożsamość";
+"shareableIdRetrieval_intro_use_sid_action" = "Użyj poprzedniej weryfikacji";
+"shareableIdRetrieval_intro_use_sid_title" = "Możesz ponownie użyć tylko weryfikacji, która została wcześniej pomyślnie ukończona i zapisana.";

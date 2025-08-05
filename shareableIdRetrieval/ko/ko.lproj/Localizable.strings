@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "계속";
+"shareableIdRetrieval_intro_error_subtitle" = "당신의 장치에 인식 가능한 패스키가 없습니다. 완전한 과정을 계속해 주세요.";
+"shareableIdRetrieval_intro_error_title" = "패스키를 찾을 수 없습니다";
+"shareableIdRetrieval_intro_or" = "또는";
+"shareableIdRetrieval_intro_searching" = "이전 검증 검색";
+"shareableIdRetrieval_intro_start_idv_action" = "신원 확인을 시작하십시오";
+"shareableIdRetrieval_intro_start_idv_description" = "우리는 당신이 자신이라고 주장하는 사람을 알 수 있도록 도와주는 일부 문서와 개인 정보를 요청할 것입니다.";
+"shareableIdRetrieval_intro_subtitle" = "보안상의 이유와 사기로부터 보호하기 위해 귀하의 신원을 확인해야 합니다.";
+"shareableIdRetrieval_intro_title" = "본인 인증하기";
+"shareableIdRetrieval_intro_use_sid_action" = "이전 인증 사용";
+"shareableIdRetrieval_intro_use_sid_title" = "성공적으로 완료되고 사전에 저장된 인증만 재사용할 수 있습니다.";

@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Începeți verificarea";
+"welcome_button_studio" = "Începeți verificarea";
+"welcome_button_trial" = "Începeți verificarea (TEST)";
+"welcome_list_header_default" = "Utilizați dispozitivul dvs. pentru:";
+"welcome_list_header_doc_video" = "Utilizați dispozitivul dvs. pentru înregistra:";
+"welcome_list_item_active_video" = "A înregistra un clip video cu fața dvs.";
+"welcome_list_item_document" = "A face o poză cu documentul dvs. de identitate";
+"welcome_list_item_document_video" = "Înregistrați un clip video cu documentul dvs. de identitate";
+"welcome_list_item_face" = "A face o poză a feței dvs.";
+"welcome_list_item_face_video" = "A înregistra un clip video cu fața dvs.";
+"welcome_list_item_poa" = "Faceți o poză a unui document cu adresa dvs.";
+"welcome_subtitle" = "Ar trebui să dureze câteva minute";
+"welcome_timeout_default" = "Înregistrarea este limitată la  secunde";
+"welcome_title" = "Verificați identitatea dvs.";
+"welcome_warning_trial" = "Nu partajați date personale aici decât dacă sunteți angajat într-un proces Onfido.";
+"welcome_warning_trial_title" = "Acesta este un proces de încercare";

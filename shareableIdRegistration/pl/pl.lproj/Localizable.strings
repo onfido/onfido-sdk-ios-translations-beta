@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Kontynuuj";
+"shareableIdRegistration_registered_subtitle" = "Gdy wynik tej weryfikacji będzie znany, będziesz mógł go użyć ponownie, kiedy następnym razem będziesz musiał udowodnić swoją tożsamość.";
+"shareableIdRegistration_registered_title" = "Weryfikacja zapisana";
+"shareableIdRegistration_registration_consent_description" = "Jeśli następnym razem klikniesz przycisk „Użyj poprzedniej weryfikacji”, tylko wtedy twoje dane zostaną ponownie wykorzystane.";
+"shareableIdRegistration_registration_consent_title" = "Tylko ty możesz zgodzić się na ponowne użycie weryfikacji";
+"shareableIdRegistration_registration_error_action" = "Wróć";
+"shareableIdRegistration_registration_error_subtitle" = "Wygląda na to, że nie udało Ci się utworzyć klucza dostępu. Wróć, aby spróbować ponownie lub kontynuuj, aby zakończyć proces.";
+"shareableIdRegistration_registration_error_title" = "Klucz dostępu nie został utworzony";
+"shareableIdRegistration_registration_fast_description" = "Informacje już zebrane zostaną zapisane, dzięki czemu można je ponownie wykorzystać zamiast przechodzić ponownie przez proces weryfikacji tożsamości.";
+"shareableIdRegistration_registration_fast_title" = "Nigdy nie marnuj czasu na powtarzanie weryfikacji, która już istnieje";
+"shareableIdRegistration_registration_key_description" = "Podobnie jak hasło przechowywane na twoim urządzeniu, utworzysz unikalny identyfikator (klucz dostępu), który możesz usunąć w dowolnym momencie.";
+"shareableIdRegistration_registration_key_title" = "Będziesz trzymać klucz do pominięcia procesu";
+"shareableIdRegistration_registration_save" = "Zapisz swoją weryfikację";
+"shareableIdRegistration_registration_skip" = "Pomiń";
+"shareableIdRegistration_registration_title" = "Sprawdź raz. Wykorzystaj ponownie";

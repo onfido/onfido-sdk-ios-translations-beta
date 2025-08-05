@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Почати верифікацію";
+"welcome_button_studio" = "Почати верифікацію";
+"welcome_button_trial" = "Почати верифікацію (ТЕСТ)";
+"welcome_list_header_default" = "Використовуйте свій пристрій, щоб:";
+"welcome_list_header_doc_video" = "Використовуйте свій пристрій для запису:";
+"welcome_list_item_active_video" = "зняти відео свого обличчя;";
+"welcome_list_item_document" = "сфотографувати документ, що посвідчує особу;";
+"welcome_list_item_document_video" = "записати відео з документом, що посвідчує особу;";
+"welcome_list_item_face" = "сфотографувати своє обличчя;";
+"welcome_list_item_face_video" = "зняти відео свого обличчя;";
+"welcome_list_item_poa" = "Сфотографуйте документ, що містить вашу адресу";
+"welcome_subtitle" = "Це займе кілька хвилин";
+"welcome_timeout_default" = "Запис може тривати не більше ​​​​ сек";
+"welcome_title" = "Підтвердити особу";
+"welcome_warning_trial" = "Не вказуйте тут особисті дані, якщо ви не берете участь у випробуванні Onfido.";
+"welcome_warning_trial_title" = "Це пробна версія";

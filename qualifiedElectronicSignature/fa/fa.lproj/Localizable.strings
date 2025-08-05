@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "امضای خود را ایجاد کنید";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "پس از خواندن سند شما، دکمه \"امضای سند\" را بزنید.";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "پس از اینکه Onfido هویت شما را تأیید کرد، امضای شما بر روی این سند استفاده خواهد شد.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "سند را امضا کنید";
+"qualifiedElectronicSignature_confirmation_review_document" = "بررسی سند شما برای امضا";
+"qualifiedElectronicSignature_confirmation_step2" = "2 از 2";
+"qualifiedElectronicSignature_confirmation_steps" = "سند خود را امضا کنید";
+"qualifiedElectronicSignature_confirmation_subtitle" = "برای تأیید هویت خود طبق قوانین اروپایی، باید یک سند را به صورت دیجیتال امضا کنید.";
+"qualifiedElectronicSignature_confirmation_title" = "امضای دیجیتال خود را ایجاد و استفاده کنید";
+"qualifiedElectronicSignature_error_misconfigured" = "متاسفانه، خطایی رخ داده است. لطفا با پشتیبانی خود تماس بگیرید.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "امضای من را بساز";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "فرم درخواست گواهینامه";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "اطلاعیه حریم خصوصی";
+"qualifiedElectronicSignature_introduction_step1" = "1 از 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "برای تأیید هویت خود طبق قوانین اروپایی، باید یک سند را به صورت دیجیتال امضا کنید.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "شرایط و ضوابط";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA یک ارائه دهنده جهانی مورد اعتماد است که گواهی معتبری برای امضای الکترونیکی شما صادر خواهد کرد.";
+"qualifiedElectronicSignature_introduction_title" = "امضای دیجیتال خود را ایجاد و استفاده کنید";
+"qualifiedElectronicSignature_introduction_validation" = "نیاز به رضایت";

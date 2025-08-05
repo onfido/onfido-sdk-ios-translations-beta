@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "वेरिफ़िकेशन शुरू करें";
+"welcome_button_studio" = "वेरिफ़िकेशन शुरू करें";
+"welcome_button_trial" = "वेरिफ़िकेशन शुरू करें (टेस्ट करें)";
+"welcome_list_header_default" = "अपने डिवाइस का इस्तेमाल करके:";
+"welcome_list_header_doc_video" = "अपने डिवाइस के ज़रिए रिकॉर्ड करें:";
+"welcome_list_item_active_video" = "अपने चेहरे का वीडियो रिकॉर्ड करें";
+"welcome_list_item_document" = "अपनी पहचान से जुड़े डॉक्यूमेंट की फ़ोटो खींचें";
+"welcome_list_item_document_video" = "अपनी पहचान से जुड़े डॉक्यूमेंट का वीडियो रिकॉर्ड करें";
+"welcome_list_item_face" = "अपने चेहरे की फ़ोटो खींचें";
+"welcome_list_item_face_video" = "अपने चेहरे का वीडियो रिकॉर्ड करें";
+"welcome_list_item_poa" = "अपने पते वाले किसी डॉक्यूमेंट की फ़ोटो खींचें";
+"welcome_subtitle" = "इसमें कुछ ही मिनट लगेंगे";
+"welcome_timeout_default" = "रिकॉर्डिंग का समय  सेकंड तक सीमित है";
+"welcome_title" = "अपनी पहचान वेरिफ़ाई करें";
+"welcome_warning_trial" = "Onfido ट्रायल में व्यस्त रहने तक यहाँ निजी डेटा शेयर न करें।";
+"welcome_warning_trial_title" = "यह एक परीक्षण है";

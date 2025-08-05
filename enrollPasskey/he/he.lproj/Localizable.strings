@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "המשך";
+"enrollPasskey_attempts_error_subtitle" = "לא ניתן עוד לאמת באמצעות מפתח גישה.";
+"enrollPasskey_attempts_error_title" = "חרגת ממספר הניסיונות המותרים";
+"enrollPasskey_error_button_retry" = "נסה שוב";
+"enrollPasskey_error_subtitle" = "אירעה בעיה טכנית לא ידועה, אנא נסה שוב.";
+"enrollPasskey_error_title" = "משהו השתבש";
+"enrollPasskey_introduction_bullet_1" = "מפתח גישה זה ישמש עבור הדומיין: ";
+"enrollPasskey_introduction_bullet_2" = "המכשיר שלך ינחה אותך בשלבים הבאים.";
+"enrollPasskey_introduction_button_start_enrolling" = "צור מפתח גישה";
+"enrollPasskey_introduction_subtitle" = "מפתחות גישה מאפשרים לך להיכנס בצורה מאובטחת באמצעות טביעת אצבע, זיהוי פנים או נעילת מסך המכשיר.";
+"enrollPasskey_introduction_title" = "הגדר את מפתח הגישה שלך";
+"enrollPasskey_not_supported_error_button_continue" = "המשך";
+"enrollPasskey_not_supported_error_subtitle" = "מצטערים, אינך יכול להשלים משימה זו.";
+"enrollPasskey_not_supported_error_title" = "המכשיר אינו תומך במפתחות גישה";

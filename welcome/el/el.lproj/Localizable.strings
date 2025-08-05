@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Έναρξη επαλήθευσης";
+"welcome_button_studio" = "Έναρξη επαλήθευσης";
+"welcome_button_trial" = "Έναρξη επαλήθευσης (ΔΟΚΙΜΗ)";
+"welcome_list_header_default" = "Χρησιμοποιήστε τη συσκευή σας για να:";
+"welcome_list_header_doc_video" = "Χρησιμοποιήστε τη συσκευή σας για εγγραφή:";
+"welcome_list_item_active_video" = "Εγγράψτε ένα βίντεο του προσώπου σας";
+"welcome_list_item_document" = "Τραβήξετε μια φωτογραφία του εγγράφου ταυτότητάς σας";
+"welcome_list_item_document_video" = "Εγγράψετε ένα βίντεο του εγγράφου ταυτότητάς σας";
+"welcome_list_item_face" = "Τραβήξετε μια φωτογραφία του προσώπου σας";
+"welcome_list_item_face_video" = "Εγγράψτε ένα βίντεο του προσώπου σας";
+"welcome_list_item_poa" = "Τραβήξτε μια φωτογραφία ενός εγγράφου με τη διεύθυνσή σας";
+"welcome_subtitle" = "Θα διαρκέσει μερικά λεπτά";
+"welcome_timeout_default" = "Η εγγραφή περιορίζεται σε  δευτερόλεπτα";
+"welcome_title" = "Επαληθεύστε την ταυτότητά σας";
+"welcome_warning_trial" = "Μην κοινοποιείτε δεδομένα προσωπικού χαρακτήρα εδώ, εκτός εάν συμμετέχετε σε μια δοκιμή της Onfido.";
+"welcome_warning_trial_title" = "Αυτή είναι μια δοκιμή";

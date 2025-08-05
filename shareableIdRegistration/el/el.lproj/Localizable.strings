@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Συνέχεια";
+"shareableIdRegistration_registered_subtitle" = "Μόλις γίνει γνωστό το αποτέλεσμα αυτής της επαλήθευσης, θα μπορείτε να το χρησιμοποιήσετε ξανά την επόμενη φορά που θα χρειαστεί να αποδείξετε την ταυτότητά σας.";
+"shareableIdRegistration_registered_title" = "Η επαλήθευση αποθηκεύτηκε";
+"shareableIdRegistration_registration_consent_description" = "Τα δεδομένα σας θα χρησιμοποιηθούν ξανά μόνο αν κάνετε κλικ στο κουμπί `Χρήση προηγούμενης επαλήθευσης` την επόμενη φορά.";
+"shareableIdRegistration_registration_consent_title" = "Μόνο εσείς μπορείτε να δώσετε τη συγκατάθεσή σας για τις επαληθεύσεις που θα επαναχρησιμοποιηθούν";
+"shareableIdRegistration_registration_error_action" = "Πήγαινε πίσω";
+"shareableIdRegistration_registration_error_subtitle" = "Φαίνεται ότι δεν μπορούσατε να δημιουργήσετε ένα κλειδί πρόσβασης. Επιστρέψτε για να δοκιμάσετε ξανά ή συνεχίστε στην ολοκλήρωση της διαδικασίας.";
+"shareableIdRegistration_registration_error_title" = "Ο κωδικός πρόσβασης δεν δημιουργήθηκε";
+"shareableIdRegistration_registration_fast_description" = "Οι πληροφορίες που έχουν ήδη συλλεχθεί θα αποθηκευτούν, ώστε να μπορείτε να τις επαναχρησιμοποιήσετε αντί να περάσετε ξανά από τη διαδικασία επαλήθευσης ταυτότητας.";
+"shareableIdRegistration_registration_fast_title" = "Ποτέ μην σπαταλάτε χρόνο επαναλαμβάνοντας μια επαλήθευση που υπάρχει ήδη";
+"shareableIdRegistration_registration_key_description" = "Όπως ένας κωδικός πρόσβασης αποθηκευμένος στη συσκευή σας, θα δημιουργήσετε έναν μοναδικό αναγνωριστικό (ένα κλειδί πρόσβασης) που μπορείτε να διαγράψετε ανά πάσα στιγμή.";
+"shareableIdRegistration_registration_key_title" = "Θα κρατάς το κλειδί για να παρακάμψεις τη ροή";
+"shareableIdRegistration_registration_save" = "Αποθηκεύστε την επαλήθευσή σας";
+"shareableIdRegistration_registration_skip" = "Παράλειψη";
+"shareableIdRegistration_registration_title" = "Επαληθεύστε μία φορά. Χρησιμοποιήστε ξανά";

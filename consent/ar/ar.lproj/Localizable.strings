@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "قبول";
+"consent_button_secondary" = "غير موافق";
+"consent_loading_error_button_primary" = "إعادة تحميل الشاشة";
+"consent_loading_error_detail" = "تحقّق من أن اتصالك مستقر، ثم حاول مرة أخرى";
+"consent_loading_error_title" = "فشل تحميل المحتوى";
+"consent_prompt_button_primary" = "نعم، لا تتحقق مني";
+"consent_prompt_button_secondary" = "مراجعة مرة أخرى";
+"consent_prompt_no_consent_detail" = "إذا لم تقبل بيانات الخصوصية وشروط الخدمة الخاصة بشركة Onfido، فلن نتمكن من التحقق من هويتك وستخرج من هذه الخطوة.";
+"consent_prompt_no_consent_title" = "هل أنت متأكد؟";

@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "Kabul et";
+"consent_button_secondary" = "Kabul etme";
+"consent_loading_error_button_primary" = "Ekranı yeniden yükleyin";
+"consent_loading_error_detail" = "Bağlantınızın kararlı olup olmadığını kontrol edin, ardından tekrar deneyin";
+"consent_loading_error_title" = "İçerik yüklenemedi";
+"consent_prompt_button_primary" = "Evet, beni doğrulamayın";
+"consent_prompt_button_secondary" = "Tekrar gözden geçirin";
+"consent_prompt_no_consent_detail" = "Onfido`nun gizlilik beyanlarını ve hizmet şartlarını kabul etmiyorsanız kimliğinizi doğrulayamayız ve bu adımdan çıkarsınız.";
+"consent_prompt_no_consent_title" = "Emin misiniz?";

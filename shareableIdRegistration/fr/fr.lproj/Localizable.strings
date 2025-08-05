@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Continuer";
+"shareableIdRegistration_registered_subtitle" = "Une fois le résultat de cette vérification connu, vous pourrez le réutiliser la prochaine fois que vous devrez prouver votre identité.";
+"shareableIdRegistration_registered_title" = "Vérification enregistrée";
+"shareableIdRegistration_registration_consent_description" = "Vos données ne seront réutilisées que si vous cliquez sur le bouton `Utiliser une vérification précédente` la prochaine fois.";
+"shareableIdRegistration_registration_consent_title" = "Seul vous pouvez consentir à quelles vérifications sont réutilisées";
+"shareableIdRegistration_registration_error_action" = "Retourner";
+"shareableIdRegistration_registration_error_subtitle" = "Il semble que vous n`ayez pas pu créer un code d`accès. Retournez pour réessayer ou continuez pour terminer le processus.";
+"shareableIdRegistration_registration_error_title" = "Clé de passe non créée";
+"shareableIdRegistration_registration_fast_description" = "Les informations déjà collectées seront sauvegardées, vous pouvez donc les réutiliser au lieu de repasser par le processus de vérification.";
+"shareableIdRegistration_registration_fast_title" = "Ne perdez jamais de temps à répéter une vérification qui existe déjà";
+"shareableIdRegistration_registration_key_description" = "Comme un mot de passe stocké sur votre appareil, vous créerez un identifiant unique (une clé de passe) que vous pouvez supprimer à tout moment.";
+"shareableIdRegistration_registration_key_title" = "Vous détiendrez la clé pour sauter le flux";
+"shareableIdRegistration_registration_save" = "Enregistrez votre vérification";
+"shareableIdRegistration_registration_skip" = "Passer";
+"shareableIdRegistration_registration_title" = "Vérifiez une fois. Réutilisez encore";

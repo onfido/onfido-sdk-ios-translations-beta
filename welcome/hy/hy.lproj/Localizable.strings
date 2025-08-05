@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Սկսել նույնականացումը";
+"welcome_button_studio" = "Սկսել նույնականացումը";
+"welcome_button_trial" = "Սկսել նույնականացումը (ԹԵՍՏ)";
+"welcome_list_header_default" = "Օգտագործեք ձեր սարքը հետևյալ նպատակներով․";
+"welcome_list_header_doc_video" = "Օգտագործեք ձեր սարքը՝ տեսագրելու՝";
+"welcome_list_item_active_video" = "Տեսագրեք ձեր դեմքը";
+"welcome_list_item_document" = "Լուսանկարեք ձեր անձը հաստատող փաստաթուղթը";
+"welcome_list_item_document_video" = "Տեսագրեք ձեր անձը հաստատող փաստաթուղթը";
+"welcome_list_item_face" = "Լուսանկարեք ձեր դեմքը";
+"welcome_list_item_face_video" = "Տեսագրեք ձեր դեմքը";
+"welcome_list_item_poa" = "Լուսանկարեք ձեր հասցեն պարունակող փաստաթուղթը";
+"welcome_subtitle" = "Դա կարող է տևել մի քանի րոպե";
+"welcome_timeout_default" = "Տեսագրությունը պետք է լինի  վայրկյանից ոչ ավելի։ Սկսեք նորից";
+"welcome_title" = "Հաստատեք ձեր ինքնությունը";
+"welcome_warning_trial" = "Ձեր անձնական տվյալներն այստեղ մի նշեք, եթե դուք Onfido-ի փորձնական տարբերակը չեք օգտագործում։";
+"welcome_warning_trial_title" = "Սա փորձնական տարբերակ է";

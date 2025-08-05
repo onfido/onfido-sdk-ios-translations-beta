@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "Continuar";
+"enrollPasskey_attempts_error_subtitle" = "Ya no puede autenticarse mediante una clave de acceso.";
+"enrollPasskey_attempts_error_title" = "Se ha superado el número de intentos permitidos";
+"enrollPasskey_error_button_retry" = "Reintentar";
+"enrollPasskey_error_subtitle" = "Ocurrió un problema técnico desconocido, por favor intenta de nuevo.";
+"enrollPasskey_error_title" = "Algo ha salido mal";
+"enrollPasskey_introduction_bullet_1" = "Esta clave de acceso se utilizará para el dominio: ";
+"enrollPasskey_introduction_bullet_2" = "Su dispositivo le guiará a través de los siguientes pasos.";
+"enrollPasskey_introduction_button_start_enrolling" = "Crear clave de acceso";
+"enrollPasskey_introduction_subtitle" = "Las claves de acceso te permiten iniciar sesión de forma segura usando tu huella digital, tu rostro o el bloqueo de pantalla de tu dispositivo.";
+"enrollPasskey_introduction_title" = "Configura tu clave de acceso";
+"enrollPasskey_not_supported_error_button_continue" = "Continuar";
+"enrollPasskey_not_supported_error_subtitle" = "Lo sentimos, no puede completar esta tarea.";
+"enrollPasskey_not_supported_error_title" = "El dispositivo no es compatible con las claves de acceso";

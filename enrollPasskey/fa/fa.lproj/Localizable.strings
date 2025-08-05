@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "ادامه";
+"enrollPasskey_attempts_error_subtitle" = "شما دیگر نمی‌توانید از طریق کلید عبور احراز هویت کنید.";
+"enrollPasskey_attempts_error_title" = "تلاش های مجاز بیش از حد شده است";
+"enrollPasskey_error_button_retry" = "سعی مجدد‌";
+"enrollPasskey_error_subtitle" = "یک مشکل فنی ناشناخته رخ داده است، لطفاً دوباره تلاش کنید.";
+"enrollPasskey_error_title" = "چیزی اشتباه شده است";
+"enrollPasskey_introduction_bullet_1" = "این کلید عبور برای دامنه:  استفاده خواهد شد";
+"enrollPasskey_introduction_bullet_2" = "دستگاه شما شما را در مراحل بعدی راهنمایی خواهد کرد.";
+"enrollPasskey_introduction_button_start_enrolling" = "کلید عبور ایجاد کنید";
+"enrollPasskey_introduction_subtitle" = "کلیدهای عبور به شما امکان می‌دهند با استفاده از اثر انگشت، چهره یا قفل صفحه دستگاه خود به‌صورت ایمن وارد شوید.";
+"enrollPasskey_introduction_title" = "کلید عبور خود را تنظیم کنید";
+"enrollPasskey_not_supported_error_button_continue" = "ادامه";
+"enrollPasskey_not_supported_error_subtitle" = "متاسفیم، شما نمی‌توانید این کار را کامل کنید.";
+"enrollPasskey_not_supported_error_title" = "دستگاه از کلیدهای عبور پشتیبانی نمی‌کند";

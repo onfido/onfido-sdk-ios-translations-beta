@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Thử lại";
+"retry_button_expired_document" = "Thử lại";
+"retry_button_generic_document_issue" = "Thử lại";
+"retry_button_generic_selfie_issue" = "Thử lại";
+"retry_button_unaccepted_document" = "Thử lại";
+"retry_description_default" = "Vui lòng thử lại";
+"retry_description_expired_document" = "Vui lòng thử lại với giấy tờ tùy thân có ảnh hợp lệ và đảm bảo thông tin của bạn được hiển thị rõ ràng";
+"retry_description_generic_document_issue" = "Vui lòng thử lại với giấy tờ tùy thân có ảnh hợp lệ và đảm bảo thông tin của bạn được hiển thị rõ ràng";
+"retry_description_generic_selfie_issue" = "Vui lòng thử lại và đảm bảo khuôn mặt của bạn được hiển thị rõ ràng và có đủ ánh sáng";
+"retry_description_unaccepted_document" = "Vui lòng thử lại với giấy tờ tùy thân có ảnh hợp lệ và đảm bảo thông tin của bạn được hiển thị rõ ràng";
+"retry_headline_default" = "Có một vấn đề";
+"retry_headline_expired_document" = "Giấy tờ của bạn đã hết hạn";
+"retry_headline_generic_document_issue" = "Có vấn đề với tài liệu của bạn";
+"retry_headline_generic_selfie_issue" = "Có vấn đề với bức ảnh tự sướng của bạn";
+"retry_headline_unaccepted_document" = "Giấy tờ chưa được chấp nhận";

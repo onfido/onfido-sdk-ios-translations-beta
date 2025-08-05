@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Fortsätt";
+"authenticatePasskey_attempts_error_subtitle" = "Du kan inte längre autentisera dig med en passkey.";
+"authenticatePasskey_attempts_error_title" = "Tillåtna försök har överskridits";
+"authenticatePasskey_error_button_retry" = "Försök igen";
+"authenticatePasskey_error_subtitle" = "Ett okänt tekniskt problem uppstod, försök igen.";
+"authenticatePasskey_error_title" = "Något har gått fel";
+"authenticatePasskey_introduction_bullet_1" = "Du måste ha skapat en passernyckel hos oss tidigare.";
+"authenticatePasskey_introduction_bullet_2" = "Din enhet kommer att guida dig genom nästa steg.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Autentisera";
+"authenticatePasskey_introduction_subtitle" = "Passkeys låter dig logga in säkert med hjälp av ditt fingeravtryck, ansikte eller enhetens skärmlås.";
+"authenticatePasskey_introduction_title" = "Autentisera med din Passkey";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Fortsätt";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "Du har ingen passernyckel tillgänglig för att autentisera med.";
+"authenticatePasskey_no_passkey_available_error_title" = "Ingen passernyckel tillgänglig";
+"authenticatePasskey_not_supported_error_button_continue" = "Fortsätt";
+"authenticatePasskey_not_supported_error_subtitle" = "Tyvärr kan du inte slutföra denna uppgift.";
+"authenticatePasskey_not_supported_error_title" = "Enheten stöder inte passnycklar";

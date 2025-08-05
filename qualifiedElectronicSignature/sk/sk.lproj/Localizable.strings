@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Vytvorte svoj podpis";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Po prečítaní vášho dokumentu stlačte tlačidlo „Podpísať dokument“.";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Akonáhle Onfido overí vašu totožnosť, váš podpis bude použitý na tomto dokumente.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Podpísať dokument";
+"qualifiedElectronicSignature_confirmation_review_document" = "Preskúmajte vaš dokument na podpísanie";
+"qualifiedElectronicSignature_confirmation_step2" = "2 z 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Podpíšte svoj dokument";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Aby ste potvrdili svoju identitu v súlade s európskymi pravidlami, musíte digitálne podpísať dokument.";
+"qualifiedElectronicSignature_confirmation_title" = "Vytvorte a použite svoj digitálny podpis";
+"qualifiedElectronicSignature_error_misconfigured" = "Bohužiaľ, došlo k chybe. Prosím, kontaktujte svoju podporu.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Vytvoriť môj podpis";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Formulár na žiadosť o certifikát";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Oznámenie o ochrane osobných údajov";
+"qualifiedElectronicSignature_introduction_step1" = "1 z 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "Aby ste potvrdili svoju identitu v súlade s európskymi pravidlami, musíte digitálne podpísať dokument.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Všeobecné obchodné podmienky";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA je dôveryhodný globálny poskytovateľ, ktorý vydá certifikát overujúci vašu elektronickú podpis.";
+"qualifiedElectronicSignature_introduction_title" = "Vytvorte a použite svoj digitálny podpis";
+"qualifiedElectronicSignature_introduction_validation" = "Vyžadovaný súhlas";

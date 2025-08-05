@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "인증 절차 시작하기";
+"welcome_button_studio" = "인증 절차 시작하기";
+"welcome_button_trial" = "인증 절차 시작하기(테스트)";
+"welcome_list_header_default" = "기기로 진행할 작업:";
+"welcome_list_header_doc_video" = "기기로 진행할 녹화 작업:";
+"welcome_list_item_active_video" = "얼굴 동영상을 녹화합니다";
+"welcome_list_item_document" = "신분증 서류 사진을 촬영합니다";
+"welcome_list_item_document_video" = "신분증 서류 동영상을 녹화합니다";
+"welcome_list_item_face" = "얼굴 사진을 촬영합니다";
+"welcome_list_item_face_video" = "얼굴 동영상을 녹화합니다";
+"welcome_list_item_poa" = "주소가 기재된 서류의 사진을 촬영하세요";
+"welcome_subtitle" = "이 절차를 진행하는 데는 몇 분 정도가 소요됩니다";
+"welcome_timeout_default" = "녹화는 ​​​​초로 제한됩니다";
+"welcome_title" = "본인 인증하기";
+"welcome_warning_trial" = "Onfido 평가판에 참여하지 않는 한 여기에서 개인정보를 공유하지 마세요.";
+"welcome_warning_trial_title" = "이것은 체험판입니다";

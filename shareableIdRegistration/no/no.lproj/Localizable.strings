@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Fortsett";
+"shareableIdRegistration_registered_subtitle" = "Når resultatet av denne verifiseringen er kjent, vil du kunne bruke det igjen neste gang du trenger å bevise din identitet.";
+"shareableIdRegistration_registered_title" = "Bekreftelse lagret";
+"shareableIdRegistration_registration_consent_description" = "Dine data vil kun bli gjenbrukt hvis du trykker på knappen `Bruk en tidligere verifisering` neste gang.";
+"shareableIdRegistration_registration_consent_title" = "Bare du kan samtykke til hvilke verifiseringer som blir gjenbrukt";
+"shareableIdRegistration_registration_error_action" = "Gå tilbake";
+"shareableIdRegistration_registration_error_subtitle" = "Det ser ut til at du ikke kunne opprette en passordnøkkel. Gå tilbake for å prøve igjen eller fortsett til den komplette prosessen.";
+"shareableIdRegistration_registration_error_title" = "Passordnøkkel ikke opprettet";
+"shareableIdRegistration_registration_fast_description" = "Informasjon som allerede er samlet inn vil bli lagret, slik at du kan bruke den på nytt i stedet for å gå gjennom identitetsverifiseringsprosessen igjen.";
+"shareableIdRegistration_registration_fast_title" = "Aldri kast bort tid på å gjenta en verifisering som allerede eksisterer";
+"shareableIdRegistration_registration_key_description" = "Akkurat som et passord lagret på enheten din, vil du opprette en unik identifikator (en passnøkkel) som du kan slette når som helst.";
+"shareableIdRegistration_registration_key_title" = "Du vil holde nøkkelen for å hoppe over flyten";
+"shareableIdRegistration_registration_save" = "Lagre din verifisering";
+"shareableIdRegistration_registration_skip" = "Hopp over";
+"shareableIdRegistration_registration_title" = "Bekreft en gang. Bruk igjen";

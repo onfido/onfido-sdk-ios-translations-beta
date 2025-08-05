@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Commencer la vérification";
+"welcome_button_studio" = "Commencer la vérification";
+"welcome_button_trial" = "Commencer la vérification (TEST)";
+"welcome_list_header_default" = "Utilisez votre appareil pour:";
+"welcome_list_header_doc_video" = "Utilisez votre mobile pour enregistrer:";
+"welcome_list_item_active_video" = "Enregistrer une vidéo de votre visage";
+"welcome_list_item_document" = "Prendre une photo de votre pièce d’identité";
+"welcome_list_item_document_video" = "Enregistrer une vidéo de votre pièce d’identité";
+"welcome_list_item_face" = "Prendre une photo de votre document";
+"welcome_list_item_face_video" = "Enregistrer une vidéo de votre visage";
+"welcome_list_item_poa" = "Prenez une photo d`un document avec votre adresse";
+"welcome_subtitle" = "Cela ne prendra que quelques minutes";
+"welcome_timeout_default" = "L`enregistrement est limité à  secondes";
+"welcome_title" = "Vérification d’identité";
+"welcome_warning_trial" = "Ne partagez pas de données personnelles ici, sauf si vous êtes engagé dans un essai Onfido.";
+"welcome_warning_trial_title" = "Ceci est un essai";

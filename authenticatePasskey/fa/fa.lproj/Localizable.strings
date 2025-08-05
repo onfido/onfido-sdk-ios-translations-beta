@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "ادامه";
+"authenticatePasskey_attempts_error_subtitle" = "شما دیگر نمی‌توانید از طریق کلید عبور احراز هویت کنید.";
+"authenticatePasskey_attempts_error_title" = "تلاش های مجاز بیش از حد شده است";
+"authenticatePasskey_error_button_retry" = "سعی مجدد‌";
+"authenticatePasskey_error_subtitle" = "یک مشکل فنی ناشناخته رخ داده است، لطفاً دوباره تلاش کنید.";
+"authenticatePasskey_error_title" = "چیزی اشتباه شده است";
+"authenticatePasskey_introduction_bullet_1" = "شما باید قبلاً یک کلید عبور با ما ایجاد کرده باشید.";
+"authenticatePasskey_introduction_bullet_2" = "دستگاه شما شما را در مراحل بعدی راهنمایی خواهد کرد.";
+"authenticatePasskey_introduction_button_start_authenticating" = "احراز هویت";
+"authenticatePasskey_introduction_subtitle" = "کلیدهای عبور به شما امکان می‌دهند با استفاده از اثر انگشت، چهره یا قفل صفحه دستگاه خود به‌صورت ایمن وارد شوید.";
+"authenticatePasskey_introduction_title" = "با کلید عبور خود احراز هویت کنید";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "ادامه";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "شما هیچ کلید عبوری برای احراز هویت در دسترس ندارید.";
+"authenticatePasskey_no_passkey_available_error_title" = "هیچ کلید عبوری موجود نیست";
+"authenticatePasskey_not_supported_error_button_continue" = "ادامه";
+"authenticatePasskey_not_supported_error_subtitle" = "متاسفیم، شما نمی‌توانید این کار را کامل کنید.";
+"authenticatePasskey_not_supported_error_title" = "دستگاه از کلیدهای عبور پشتیبانی نمی‌کند";

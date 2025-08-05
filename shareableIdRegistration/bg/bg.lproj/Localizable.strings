@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Продължаване";
+"shareableIdRegistration_registered_subtitle" = "Веднъж като резултатът от тази верификация стане известен, ще можете да го използвате отново следващия път, когато трябва да докажете самоличността си.";
+"shareableIdRegistration_registered_title" = "Верификацията е запазена";
+"shareableIdRegistration_registration_consent_description" = "Ако искате вашите данни да бъдат използвани отново, трябва да кликнете върху бутона „Използвай предишна верификация“ следващия път.";
+"shareableIdRegistration_registration_consent_title" = "Само вие можете да дадете съгласие кои верификации да бъдат използвани отново";
+"shareableIdRegistration_registration_error_action" = "Върнете се назад";
+"shareableIdRegistration_registration_error_subtitle" = "Изглежда, че не можахте да създадете парола. Върнете се, за да опитате отново или продължете към завършването на процеса.";
+"shareableIdRegistration_registration_error_title" = "Паролата не е създадена";
+"shareableIdRegistration_registration_fast_description" = "Вече събраната информация ще бъде запазена, така че можете да я използвате отново, вместо да преминавате отново през процеса на идентификация.";
+"shareableIdRegistration_registration_fast_title" = "Никога не губете време, повтаряйки верификация, която вече съществува";
+"shareableIdRegistration_registration_key_description" = "Както парола, съхранена на вашия уред, ще създадете уникален идентификатор (паспорт), който можете да изтриете по всяко време.";
+"shareableIdRegistration_registration_key_title" = "Ще държите ключа за прескачане на потока";
+"shareableIdRegistration_registration_save" = "Запазете вашата верификация";
+"shareableIdRegistration_registration_skip" = "Пропусни";
+"shareableIdRegistration_registration_title" = "Проверете веднъж. Използвайте отново";

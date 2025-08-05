@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "Sambung";
+"enrollPasskey_attempts_error_subtitle" = "Anda tidak lagi boleh mengesahkan melalui kunci laluan.";
+"enrollPasskey_attempts_error_title" = "Bilangan percubaan yang dibenarkan telah melebihi";
+"enrollPasskey_error_button_retry" = "Cuba Semula";
+"enrollPasskey_error_subtitle" = "Masalah teknikal yang tidak diketahui telah berlaku, sila cuba lagi.";
+"enrollPasskey_error_title" = "Sesuatu telah berlaku salah";
+"enrollPasskey_introduction_bullet_1" = "Kunci laluan ini akan digunakan untuk domain: ";
+"enrollPasskey_introduction_bullet_2" = "Peranti anda akan membimbing anda melalui langkah seterusnya.";
+"enrollPasskey_introduction_button_start_enrolling" = "Cipta kunci laluan";
+"enrollPasskey_introduction_subtitle" = "Kunci laluan membolehkan anda log masuk dengan selamat menggunakan cap jari, wajah, atau kunci skrin peranti anda.";
+"enrollPasskey_introduction_title" = "Sediakan Kunci Laluan anda";
+"enrollPasskey_not_supported_error_button_continue" = "Sambung";
+"enrollPasskey_not_supported_error_subtitle" = "Maaf, anda tidak dapat menyelesaikan tugasan ini.";
+"enrollPasskey_not_supported_error_title" = "Peranti tidak menyokong kunci laluan";

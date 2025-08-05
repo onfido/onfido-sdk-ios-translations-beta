@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "创建您的签名";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "阅读您的文档后，点击“签署文档”按钮。";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "一旦Onfido验证了您的身份，您的签名将会被用在这份文件上。";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "签署文件";
+"qualifiedElectronicSignature_confirmation_review_document" = "审查你的文件以签署";
+"qualifiedElectronicSignature_confirmation_step2" = "2中的2";
+"qualifiedElectronicSignature_confirmation_steps" = "签署您的文件";
+"qualifiedElectronicSignature_confirmation_subtitle" = "为了按照欧洲的规定确认您的身份，您必须对一个文件进行数字签名。";
+"qualifiedElectronicSignature_confirmation_title" = "创建并使用您的数字签名";
+"qualifiedElectronicSignature_error_misconfigured" = "很遗憾，发生了一个错误。请联系您的支持。";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "创建我的签名";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "证书申请表";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "隐私通知";
+"qualifiedElectronicSignature_introduction_step1" = "1 的 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "为了按照欧洲的规定确认您的身份，您必须对一个文件进行数字签名。";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "条款和条件";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA是一个值得信赖的全球供应商，将为您的电子签名发放验证证书。";
+"qualifiedElectronicSignature_introduction_title" = "创建并使用您的数字签名";
+"qualifiedElectronicSignature_introduction_validation" = "需要同意";

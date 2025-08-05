@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "ดำเนินการต่อ";
+"shareableIdRegistration_registered_subtitle" = "เมื่อทราบผลของการตรวจสอบนี้แล้ว คุณจะสามารถใช้ผลลัพธ์นี้ใหม่ในครั้งถัดไปที่คุณต้องการพิสูจน์ตัวตนของคุณ";
+"shareableIdRegistration_registered_title" = "การตรวจสอบถูกบันทึกแล้ว";
+"shareableIdRegistration_registration_consent_description" = "หากคุณคลิกที่ปุ่ม `ใช้การตรวจสอบตัวตนก่อนหน้านี้` ในครั้งถัดไป ข้อมูลของคุณจะถูกนำมาใช้ใหม่เท่านั้น";
+"shareableIdRegistration_registration_consent_title" = "เฉพาะคุณเท่านั้นที่สามารถยินยอมให้ใช้การตรวจสอบตัวตนซ้ำได้";
+"shareableIdRegistration_registration_error_action" = "ย้อนกลับ";
+"shareableIdRegistration_registration_error_subtitle" = "ดูเหมือนว่าคุณไม่สามารถสร้างรหัสผ่านได้ กลับไปลองใหม่หรือดำเนินการต่อเพื่อทำกระบวนการให้เสร็จสิ้น";
+"shareableIdRegistration_registration_error_title" = "ไม่ได้สร้างรหัสผ่าน";
+"shareableIdRegistration_registration_fast_description" = "ข้อมูลที่เก็บไว้แล้วจะถูกบันทึก เพื่อคุณสามารถใช้ใหม่ได้ แทนที่จะต้องผ่านกระบวนการตรวจสอบตัวตนอีกครั้ง";
+"shareableIdRegistration_registration_fast_title" = "อย่าเสียเวลาทำการตรวจสอบตัวตนที่มีอยู่แล้วซ้ำ";
+"shareableIdRegistration_registration_key_description" = "เหมือนกับรหัสผ่านที่เก็บไว้ในอุปกรณ์ของคุณ คุณจะสร้างตัวระบุที่ไม่ซ้ำกัน (รหัสผ่าน) ที่คุณสามารถลบได้ในทุกเวลา";
+"shareableIdRegistration_registration_key_title" = "คุณจะถือคีย์เพื่อข้ามกระบวนการ";
+"shareableIdRegistration_registration_save" = "บันทึกการตรวจสอบตัวตนของคุณ";
+"shareableIdRegistration_registration_skip" = "ข้าม";
+"shareableIdRegistration_registration_title" = "ตรวจสอบครั้งเดียว ใช้ซ้ำอีกครั้ง";

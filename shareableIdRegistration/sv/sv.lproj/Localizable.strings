@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Fortsätt";
+"shareableIdRegistration_registered_subtitle" = "När resultatet av denna verifiering är känt kommer du att kunna återanvända det nästa gång du behöver bevisa din identitet.";
+"shareableIdRegistration_registered_title" = "Verifiering sparad";
+"shareableIdRegistration_registration_consent_description" = "Om du klickar på knappen `Använd en tidigare verifiering` nästa gång, kommer dina data endast att återanvändas.";
+"shareableIdRegistration_registration_consent_title" = "Endast du kan samtycka till vilka verifieringar som återanvänds";
+"shareableIdRegistration_registration_error_action" = "Gå tillbaka";
+"shareableIdRegistration_registration_error_subtitle" = "Det verkar som att du inte kunde skapa en lösenordsnyckel. Gå tillbaka för att försöka igen eller fortsätt till den kompletta processen.";
+"shareableIdRegistration_registration_error_title" = "Passerkod inte skapad";
+"shareableIdRegistration_registration_fast_description" = "Information som redan samlats in kommer att sparas, så att du kan återanvända den istället för att gå igenom processen för identitetsverifiering igen.";
+"shareableIdRegistration_registration_fast_title" = "Slösa aldrig tid på att upprepa en verifiering som redan finns";
+"shareableIdRegistration_registration_key_description" = "Precis som ett lösenord som lagras på din enhet kommer du att skapa en unik identifierare (en passerkod) som du kan radera när som helst.";
+"shareableIdRegistration_registration_key_title" = "Du kommer att hålla nyckeln för att hoppa över flödet";
+"shareableIdRegistration_registration_save" = "Spara din verifiering";
+"shareableIdRegistration_registration_skip" = "Hoppa över";
+"shareableIdRegistration_registration_title" = "Verifiera en gång. Återanvänd igen";

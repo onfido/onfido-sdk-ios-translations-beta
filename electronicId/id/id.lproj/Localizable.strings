@@ -1,0 +1,17 @@
+
+"electronicId_qr_code_description" = "Buka aplikasi BankID di telepon Anda dan tekan ikon kode QR";
+"electronicId_qr_code_error_code_expired" = "Kode QR Anda telah kedaluwarsa, silakan minta yang baru";
+"electronicId_qr_code_refresh_cta" = "Minta kode QR baru";
+"electronicId_qr_code_title" = "Verifikasi BankID";
+"electronicId_redirection_cross_device" = "Sambungkan perangkat lain";
+"electronicId_redirection_description" = "Anda dapat terhubung melalui ponsel atau perangkat lainnya";
+"electronicId_redirection_list_title" = "Pilih metode";
+"electronicId_redirection_open_in_app" = "Buka aplikasi";
+"electronicId_redirection_scheme_SwedenBankId_open_in_app" = "Buka aplikasi BankID";
+"electronicId_redirection_title" = "Pilih cara untuk terhubung";
+"electronicId_scheme_form_subtitle" = "Pilih bank dari daftar di bawah ini untuk memverifikasi diri Anda melalui ";
+"electronicId_scheme_form_title" = " Verification";
+"electronicId_selection_description" = "Pilih negara penerbit untuk melihat metode apa saja yang kami terima";
+"electronicId_selection_list_title" = "Pilih metode";
+"electronicId_selection_select_label" = "Negara penerbit";
+"electronicId_selection_title" = "Verifikasi identitas Anda";

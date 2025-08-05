@@ -1,0 +1,9 @@
+
+"advancedElectronicSignature_error_button_retry" = "Atpakaļ";
+"advancedElectronicSignature_error_subtitle" = "Lūdzu, uzgaidiet dažas sekundes un mēģiniet vēlreiz";
+"advancedElectronicSignature_error_title" = "Kaut kas nogāja greizi";
+"advancedElectronicSignature_introduction_bullet_1" = "Parakstīšanas vide (signhost.com) tiks atvērta jaunā logā.";
+"advancedElectronicSignature_introduction_bullet_2" = "Kad parakstīšana būs pabeigta, jūs tiksiet novirzīts atpakaļ, lai turpinātu darbplūsmu. Ja tas nenotiek, lūdzu, atgriezieties manuāli.";
+"advancedElectronicSignature_introduction_button_start_signing" = "Pārskatīt un parakstīt dokumentu(-us)";
+"advancedElectronicSignature_introduction_subtitle" = "Pieskarieties pogai zemāk, lai pārskatītu un parakstītu";
+"advancedElectronicSignature_introduction_title" = "Digitāli parakstiet nepieciešamo(-os) dokumentu(-us)";

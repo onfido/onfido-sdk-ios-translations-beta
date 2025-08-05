@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Devam et";
+"authenticatePasskey_attempts_error_subtitle" = "Artık bir geçiş anahtarıyla kimlik doğrulaması yapamazsınız.";
+"authenticatePasskey_attempts_error_title" = "İzin verilen deneme sayısı aşıldı";
+"authenticatePasskey_error_button_retry" = "Yeniden dene";
+"authenticatePasskey_error_subtitle" = "Bilinmeyen bir teknik sorun oluştu, lütfen tekrar deneyin.";
+"authenticatePasskey_error_title" = "Bir şeyler yanlış gitti";
+"authenticatePasskey_introduction_bullet_1" = "Daha önce bizimle bir anahtar oluşturmuş olmalısınız.";
+"authenticatePasskey_introduction_bullet_2" = "Cihazınız sizi sonraki adımlar konusunda yönlendirecektir.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Kimlik Doğrulama";
+"authenticatePasskey_introduction_subtitle" = "Geçiş anahtarları, parmak izinizi, yüzünüzü veya cihaz ekran kilidinizi kullanarak güvenli bir şekilde oturum açmanızı sağlar.";
+"authenticatePasskey_introduction_title" = "Geçiş Anahtarınız ile kimliğinizi doğrulayın";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Devam et";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "Kimlik doğrulaması için kullanılabilir bir geçiş anahtarınız yok.";
+"authenticatePasskey_no_passkey_available_error_title" = "Kullanılabilir geçiş anahtarı yok";
+"authenticatePasskey_not_supported_error_button_continue" = "Devam et";
+"authenticatePasskey_not_supported_error_subtitle" = "Üzgünüz, bu görevi tamamlayamıyorsunuz.";
+"authenticatePasskey_not_supported_error_title" = "Cihaz geçiş anahtarlarını desteklemiyor";

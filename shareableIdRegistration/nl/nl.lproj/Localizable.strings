@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Doorgaan";
+"shareableIdRegistration_registered_subtitle" = "Zodra het resultaat van deze verificatie bekend is, kunt u het de volgende keer dat u uw identiteit moet bewijzen opnieuw gebruiken.";
+"shareableIdRegistration_registered_title" = "Verificatie opgeslagen";
+"shareableIdRegistration_registration_consent_description" = "Alleen als u de volgende keer op de knop `Een vorige verificatie gebruiken` klikt, worden uw gegevens opnieuw gebruikt.";
+"shareableIdRegistration_registration_consent_title" = "Alleen u kunt toestemming geven voor welke verificaties opnieuw worden gebruikt";
+"shareableIdRegistration_registration_error_action" = "Ga terug";
+"shareableIdRegistration_registration_error_subtitle" = "Het lijkt erop dat u geen toegangscode kon aanmaken. Ga terug om het opnieuw te proberen of ga verder met het voltooien van het proces.";
+"shareableIdRegistration_registration_error_title" = "Sleutel niet aangemaakt";
+"shareableIdRegistration_registration_fast_description" = "Reeds verzamelde informatie wordt opgeslagen, zodat u deze opnieuw kunt gebruiken in plaats van het identiteitsverificatieproces opnieuw te doorlopen.";
+"shareableIdRegistration_registration_fast_title" = "Verspil nooit tijd met het herhalen van een verificatie die al bestaat";
+"shareableIdRegistration_registration_key_description" = "Zoals een wachtwoord dat op uw apparaat is opgeslagen, maakt u een unieke identificator (een passkey) die u op elk moment kunt verwijderen.";
+"shareableIdRegistration_registration_key_title" = "U houdt de sleutel vast om de stroom over te slaan";
+"shareableIdRegistration_registration_save" = "Bewaar uw verificatie";
+"shareableIdRegistration_registration_skip" = "Overslaan";
+"shareableIdRegistration_registration_title" = "Verifieer eenmaal. Hergebruik opnieuw";

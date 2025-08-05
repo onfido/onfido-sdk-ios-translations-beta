@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Продовжити";
+"authenticatePasskey_attempts_error_subtitle" = "Ви більше не можете автентифікуватися за допомогою ключа доступу.";
+"authenticatePasskey_attempts_error_title" = "Перевищено дозволену кількість спроб";
+"authenticatePasskey_error_button_retry" = "Повторити";
+"authenticatePasskey_error_subtitle" = "Виникла невідома технічна проблема, спробуйте ще раз.";
+"authenticatePasskey_error_title" = "Щось пішло не так";
+"authenticatePasskey_introduction_bullet_1" = "Ви повинні були створити ключ доступу у нас раніше.";
+"authenticatePasskey_introduction_bullet_2" = "Ваш пристрій проведе вас через наступні кроки.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Автентифікувати";
+"authenticatePasskey_introduction_subtitle" = "Ключі доступу дозволяють вам безпечно входити в систему за допомогою відбитка пальця, обличчя або блокування екрана пристрою.";
+"authenticatePasskey_introduction_title" = "Автентифікуйтеся за допомогою вашого Ключа доступу";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Продовжити";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "У вас немає доступного ключа доступу для автентифікації.";
+"authenticatePasskey_no_passkey_available_error_title" = "Немає доступного ключа доступу";
+"authenticatePasskey_not_supported_error_button_continue" = "Продовжити";
+"authenticatePasskey_not_supported_error_subtitle" = "Вибачте, ви не можете виконати це завдання.";
+"authenticatePasskey_not_supported_error_title" = "Пристрій не підтримує ключі доступу";

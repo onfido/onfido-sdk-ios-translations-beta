@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "受け入れる";
+"consent_button_secondary" = "受け入れない";
+"consent_loading_error_button_primary" = "画面を再読み込み";
+"consent_loading_error_detail" = "接続が安定していることを確認してから、もう一度お試しください";
+"consent_loading_error_title" = "コンテンツの読み込みに失敗しました";
+"consent_prompt_button_primary" = "はい、本人確認しないでください";
+"consent_prompt_button_secondary" = "もう一度確認する";
+"consent_prompt_no_consent_detail" = "Onfidoのプライバシーステートメントと利用規約に同意されない場合、当社はお客様の本人確認を行うことができません。そのため、このステップを終了することとなります。";
+"consent_prompt_no_consent_title" = "本当によろしいですか？";

@@ -1,0 +1,9 @@
+
+"advancedElectronicSignature_error_button_retry" = "返回";
+"advancedElectronicSignature_error_subtitle" = "请稍等几秒钟，然后重试";
+"advancedElectronicSignature_error_title" = "出现错误";
+"advancedElectronicSignature_introduction_bullet_1" = "签名环境（signhost.com）将在新窗口中打开。";
+"advancedElectronicSignature_introduction_bullet_2" = "签名完成后，您将被重定向回去继续工作流程。如果没有自动重定向，请手动返回。";
+"advancedElectronicSignature_introduction_button_start_signing" = "审核并签署文档";
+"advancedElectronicSignature_introduction_subtitle" = "点击下方按钮进行审核和签名";
+"advancedElectronicSignature_introduction_title" = "数字签署所需文件";

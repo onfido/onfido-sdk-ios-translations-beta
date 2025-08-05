@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "続行";
+"shareableIdRetrieval_intro_error_subtitle" = "あなたのデバイスに認識可能なパスキーがありません。完全なプロセスを続けてください。";
+"shareableIdRetrieval_intro_error_title" = "パスキーが見つかりません";
+"shareableIdRetrieval_intro_or" = "または";
+"shareableIdRetrieval_intro_searching" = "以前の確認を検索中";
+"shareableIdRetrieval_intro_start_idv_action" = "本人確認を開始する";
+"shareableIdRetrieval_intro_start_idv_description" = "私たちはあなたからいくつかの書類と個人情報を要求します、それは私たちがあなたが主張するあなた自身を知るのに役立ちます。";
+"shareableIdRetrieval_intro_subtitle" = "セキュリティ上の理由および詐欺からあなたを保護するために、あなたの身元を確認する必要があります。";
+"shareableIdRetrieval_intro_title" = "本人確認を行う";
+"shareableIdRetrieval_intro_use_sid_action" = "以前の確認を使用する";
+"shareableIdRetrieval_intro_use_sid_title" = "事前に成功裏に完了し保存された認証のみを再利用することができます。";

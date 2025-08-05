@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "मंज़ूर करें";
+"consent_button_secondary" = "मंज़ूर न करें";
+"consent_loading_error_button_primary" = "स्क्रीन दोबारा लोड करें";
+"consent_loading_error_detail" = "जाँच करें कि आपका कनेक्शन स्थिर है और फिर कोशिश करें";
+"consent_loading_error_title" = "कंटेट लोड नहीं हुआ";
+"consent_prompt_button_primary" = "हाँ, मुझे वेरिफ़ाई न करें";
+"consent_prompt_button_secondary" = "फिर से समीक्षा करें";
+"consent_prompt_no_consent_detail" = "अगर आप Onfido के प्राइवेसी स्टेटमेंट और सेवा की शर्तें स्वीकार नहीं करते हैं, तो हम आपकी पहचान को वेरिफ़ाई नहीं कर पाएँगे और आप इस स्टेप से बाहर निकल जाएँगे।";
+"consent_prompt_no_consent_title" = "क्या आपको यकीन है?";

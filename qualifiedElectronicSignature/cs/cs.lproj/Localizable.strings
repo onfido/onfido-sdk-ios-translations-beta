@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Vytvořte svůj podpis";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Po přečtení vašeho dokumentu klepněte na tlačítko „Podepsat dokument“.";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Jakmile Onfido ověří vaši identitu, váš podpis bude použit na tomto dokumentu.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Podepište dokument";
+"qualifiedElectronicSignature_confirmation_review_document" = "Prohlédněte si svůj dokument k podpisu";
+"qualifiedElectronicSignature_confirmation_step2" = "2 z 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Podepište svůj dokument";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Pro potvrzení vaší identity v souladu s evropskými pravidly musíte digitálně podepsat dokument.";
+"qualifiedElectronicSignature_confirmation_title" = "Vytvořte a použijte svůj digitální podpis";
+"qualifiedElectronicSignature_error_misconfigured" = "Bohužel došlo k chybě. Kontaktujte prosím vaši podporu.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Vytvořit můj podpis";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Formulář pro žádost o certifikát";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Oznámení o ochraně soukromí";
+"qualifiedElectronicSignature_introduction_step1" = "1 z 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "Pro potvrzení vaší identity v souladu s evropskými pravidly musíte digitálně podepsat dokument.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Podmínky a smluvní ujednání";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA je důvěryhodný globální poskytovatel, který vydá certifikát ověřující vaši elektronický podpis.";
+"qualifiedElectronicSignature_introduction_title" = "Vytvořte a použijte svůj digitální podpis";
+"qualifiedElectronicSignature_introduction_validation" = "Vyžadován souhlas";

@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Încercați din nou";
+"retry_button_expired_document" = "Încercați din nou";
+"retry_button_generic_document_issue" = "Încercați din nou";
+"retry_button_generic_selfie_issue" = "Încercați din nou";
+"retry_button_unaccepted_document" = "Încercați din nou";
+"retry_description_default" = "Vă rugăm să încercați din nou";
+"retry_description_expired_document" = "Vă rugăm să încercați din nou cu un document de identitate cu poză valabil și asigurați-vă că informațiile dvs. sunt clar vizibile";
+"retry_description_generic_document_issue" = "Vă rugăm să încercați din nou cu un document de identitate cu poză valabil și asigurați-vă că informațiile dvs. sunt clar vizibile";
+"retry_description_generic_selfie_issue" = "Vă rugăm să încercați din nou și asigurați-vă că fața dvs. este vizibilă și bine luminată";
+"retry_description_unaccepted_document" = "Vă rugăm să încercați din nou cu un document de identitate cu poză valabil și asigurați-vă că informațiile dvs. sunt clar vizibile";
+"retry_headline_default" = "A fost o problemă";
+"retry_headline_expired_document" = "Documentul dvs. a expirat";
+"retry_headline_generic_document_issue" = "A apărut o problemă cu documentul tău";
+"retry_headline_generic_selfie_issue" = "A existat o problemă cu selfie-ul tău";
+"retry_headline_unaccepted_document" = "Document neacceptat";

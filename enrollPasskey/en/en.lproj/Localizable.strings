@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "Continue";
+"enrollPasskey_attempts_error_subtitle" = "You can no longer authenticate using a passkey.";
+"enrollPasskey_attempts_error_title" = "Allowed attempts exceeded";
+"enrollPasskey_error_button_retry" = "Retry";
+"enrollPasskey_error_subtitle" = "An unknown technical problem occurred, please try again.";
+"enrollPasskey_error_title" = "Something’s gone wrong";
+"enrollPasskey_introduction_bullet_1" = "This passkey will be used for the domain: ";
+"enrollPasskey_introduction_bullet_2" = "Your device will guide you through the next steps.";
+"enrollPasskey_introduction_button_start_enrolling" = "Create passkey";
+"enrollPasskey_introduction_subtitle" = "Passkeys let you sign in securely using your fingerprint, face, or device screen lock.";
+"enrollPasskey_introduction_title" = "Set up your Passkey";
+"enrollPasskey_not_supported_error_button_continue" = "Continue";
+"enrollPasskey_not_supported_error_subtitle" = "Sorry, you are not able to complete this task.";
+"enrollPasskey_not_supported_error_title" = "Device does not support passkeys";

@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "जारी रखें";
+"shareableIdRetrieval_intro_error_subtitle" = "आपके उपकरण पर पहचानने योग्य पासकी नहीं है। कृपया पूरी प्रक्रिया को जारी रखें।";
+"shareableIdRetrieval_intro_error_title" = "कोई पासकी नहीं मिली";
+"shareableIdRetrieval_intro_or" = "या";
+"shareableIdRetrieval_intro_searching" = "पिछले सत्यापनों की खोज";
+"shareableIdRetrieval_intro_start_idv_action" = "पहचान सत्यापन शुरू करें";
+"shareableIdRetrieval_intro_start_idv_description" = "हम आपसे कुछ दस्तावेज़ और व्यक्तिगत जानकारी की अनुरोध करेंगे, जो हमें यह जानने में मदद कर सकती है कि आप वही हैं जो आप कहते हैं।";
+"shareableIdRetrieval_intro_subtitle" = "सुरक्षा कारणों से और आपको धोखाधड़ी से बचाने के लिए हमें आपकी पहचान की पुष्टि करने की आवश्यकता है।";
+"shareableIdRetrieval_intro_title" = "अपनी पहचान वेरिफ़ाई करें";
+"shareableIdRetrieval_intro_use_sid_action" = "पिछले सत्यापन का उपयोग करें";
+"shareableIdRetrieval_intro_use_sid_title" = "आप केवल उस सत्यापन का पुन: उपयोग कर सकते हैं जिसे पहले ही सफलतापूर्वक पूरा किया गया और सहेजा गया हो।";

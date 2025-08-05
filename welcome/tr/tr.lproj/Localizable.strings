@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Doğrulamayı başlat";
+"welcome_button_studio" = "Doğrulamayı başlat";
+"welcome_button_trial" = "Doğrulamayı başlat (TEST)";
+"welcome_list_header_default" = "Cihazınızı şu amaçlarla kullanın:";
+"welcome_list_header_doc_video" = "Kayıt yapmak için cihazınızı kullanın:";
+"welcome_list_item_active_video" = "Yüzünüzün bir videosunu kaydedin";
+"welcome_list_item_document" = "Kimlik belgenizin fotoğrafını çekin";
+"welcome_list_item_document_video" = "Kimlik belgenizin bir videosunu kaydedin";
+"welcome_list_item_face" = "Yüzünüzün fotoğrafını çekin";
+"welcome_list_item_face_video" = "Yüzünüzün bir videosunu kaydedin";
+"welcome_list_item_poa" = "Adresinizi içeren bir belgenin fotoğrafını çekin";
+"welcome_subtitle" = "Sadece birkaç dakika sürer";
+"welcome_timeout_default" = "Kayıt ​​​​ saniye ile sınırlıdır";
+"welcome_title" = "Kimliğinizi doğrulayın";
+"welcome_warning_trial" = "Bir Onfido denemesine katılmadığınız sürece kişisel verilerinizi burada paylaşmayın.";
+"welcome_warning_trial_title" = "Bu bir denemedir";

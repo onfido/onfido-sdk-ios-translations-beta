@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "Fortsätt";
+"enrollPasskey_attempts_error_subtitle" = "Du kan inte längre autentisera dig med en passkey.";
+"enrollPasskey_attempts_error_title" = "Tillåtna försök har överskridits";
+"enrollPasskey_error_button_retry" = "Försök igen";
+"enrollPasskey_error_subtitle" = "Ett okänt tekniskt problem uppstod, försök igen.";
+"enrollPasskey_error_title" = "Något har gått fel";
+"enrollPasskey_introduction_bullet_1" = "Denna passernyckel kommer att användas för domänen: ";
+"enrollPasskey_introduction_bullet_2" = "Din enhet kommer att guida dig genom nästa steg.";
+"enrollPasskey_introduction_button_start_enrolling" = "Skapa passkey";
+"enrollPasskey_introduction_subtitle" = "Passkeys låter dig logga in säkert med hjälp av ditt fingeravtryck, ansikte eller enhetens skärmlås.";
+"enrollPasskey_introduction_title" = "Konfigurera din Passkey";
+"enrollPasskey_not_supported_error_button_continue" = "Fortsätt";
+"enrollPasskey_not_supported_error_subtitle" = "Tyvärr kan du inte slutföra denna uppgift.";
+"enrollPasskey_not_supported_error_title" = "Enheten stöder inte passnycklar";

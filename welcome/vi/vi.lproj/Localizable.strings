@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Bắt đầu xác minh";
+"welcome_button_studio" = "Bắt đầu xác minh";
+"welcome_button_trial" = "Bắt đầu xác minh (KIỂM TRA)";
+"welcome_list_header_default" = "Sử dụng thiết bị của bạn để:";
+"welcome_list_header_doc_video" = "Sử dụng thiết bị của bạn để ghi hình:";
+"welcome_list_item_active_video" = "Quay video khuôn mặt của bạn";
+"welcome_list_item_document" = "Chụp ảnh giấy tờ tùy thân của bạn";
+"welcome_list_item_document_video" = "Quay video giấy tờ tùy thân của bạn";
+"welcome_list_item_face" = "Chụp ảnh khuôn mặt của bạn";
+"welcome_list_item_face_video" = "Quay video khuôn mặt của bạn";
+"welcome_list_item_poa" = "Chụp ảnh giấy tờ có địa chỉ của bạn";
+"welcome_subtitle" = "Quá trình này có thể mất vài phút";
+"welcome_timeout_default" = "Thời lượng ghi được giới hạn trong   giây";
+"welcome_title" = "Xác minh danh tính của bạn";
+"welcome_warning_trial" = "Không chia sẻ dữ liệu cá nhân tại đây trừ khi bạn tham gia thử nghiệm Onfido.";
+"welcome_warning_trial_title" = "Đây là bản dùng thử";

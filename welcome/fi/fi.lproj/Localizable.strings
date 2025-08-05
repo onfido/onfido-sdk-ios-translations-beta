@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Aloita vahvistus";
+"welcome_button_studio" = "Aloita vahvistus";
+"welcome_button_trial" = "Aloita vahvistus (TESTI)";
+"welcome_list_header_default" = "Käytä laitettasi:";
+"welcome_list_header_doc_video" = "Käytä laitettasi tallentaaksesi:";
+"welcome_list_item_active_video" = "tallentaaksesi videon kasvoistasi";
+"welcome_list_item_document" = "ottaaksesi kuvan henkilötodistuksestasi";
+"welcome_list_item_document_video" = "tallentaaksesi videon henkilötodistuksestasi";
+"welcome_list_item_face" = "ottaaksesi kuvan kasvoistasi";
+"welcome_list_item_face_video" = "tallentaaksesi videon kasvoistasi";
+"welcome_list_item_poa" = "Ota kuva asiakirjasta, jossa on osoitteesi";
+"welcome_subtitle" = "Siihen menee muutama minuutti";
+"welcome_timeout_default" = "Tallennus on rajoitettu  sekunteihin";
+"welcome_title" = "Vahvista henkilöllisyytesi";
+"welcome_warning_trial" = "Älä jaa henkilötietoja täällä, ellei sinulla ole Onfidon kokeilujaksoa.";
+"welcome_warning_trial_title" = "Tämä on kokeiluversio";

@@ -1,0 +1,6 @@
+
+"trial_button" = "Start verification (TEST)";
+"trial_subtitle" = "It should take a few minutes";
+"trial_title" = "Verify your identity";
+"trial_warning" = "Do not share personal data here unless you are engaged in an Onfido trial.";
+"trial_warning_title" = "This is a trial";

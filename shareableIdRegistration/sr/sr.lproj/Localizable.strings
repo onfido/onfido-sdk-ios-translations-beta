@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Nastavi";
+"shareableIdRegistration_registered_subtitle" = "Jednom kada se rezultat ove verifikacije sazna, moći ćete da ga ponovo koristite sledeći put kada budete morali da dokažete svoj identitet.";
+"shareableIdRegistration_registered_title" = "Verifikacija sačuvana";
+"shareableIdRegistration_registration_consent_description" = "Sledeći put, vaši podaci će biti ponovo upotrebljeni samo ako odaberete opciju ‘Koristi prethodnu verifikaciju’.";
+"shareableIdRegistration_registration_consent_title" = "Samo vi možete da pristanete na to koje verifikacije će biti ponovo iskorišćene";
+"shareableIdRegistration_registration_error_action" = "Vrati se";
+"shareableIdRegistration_registration_error_subtitle" = "Izgleda da niste mogli da kreirate pristupni ključ. Vratite se da pokušate ponovo ili nastavite do kraja procesa.";
+"shareableIdRegistration_registration_error_title" = "Ključ za pristup nije kreiran";
+"shareableIdRegistration_registration_fast_description" = "Informacije koje su već prikupljene biće sačuvane, tako da ih možete ponovo koristiti umesto da ponovo prolazite kroz proces verifikacije.";
+"shareableIdRegistration_registration_fast_title" = "Nikada ne gubite vreme ponavljajući verifikaciju koja već postoji";
+"shareableIdRegistration_registration_key_description" = "Kao lozinka koja je sačuvana na vašem uređaju, kreiraćete jedinstveni identifikator (ključ za pristup) koji možete obrisati u bilo kom trenutku.";
+"shareableIdRegistration_registration_key_title" = "Imaćete ključ da preskočite tok";
+"shareableIdRegistration_registration_save" = "Sačuvajte svoju verifikaciju";
+"shareableIdRegistration_registration_skip" = "Preskoči";
+"shareableIdRegistration_registration_title" = "Verifikujte jednom. Ponovo koristite";

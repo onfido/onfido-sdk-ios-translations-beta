@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Προσπαθήστε ξανά";
+"retry_button_expired_document" = "Προσπαθήστε ξανά";
+"retry_button_generic_document_issue" = "Προσπαθήστε ξανά";
+"retry_button_generic_selfie_issue" = "Προσπαθήστε ξανά";
+"retry_button_unaccepted_document" = "Προσπαθήστε ξανά";
+"retry_description_default" = "Δοκιμάστε ξανά";
+"retry_description_expired_document" = "Δοκιμάστε ξανά με μια έγκυρη φωτογραφία ταυτότητας και βεβαιωθείτε ότι τα στοιχεία σας είναι ευδιάκριτα";
+"retry_description_generic_document_issue" = "Δοκιμάστε ξανά με μια έγκυρη φωτογραφία ταυτότητας και βεβαιωθείτε ότι τα στοιχεία σας είναι ευδιάκριτα";
+"retry_description_generic_selfie_issue" = "Δοκιμάστε ξανά και βεβαιωθείτε ότι το πρόσωπό σας είναι ορατό και καλά φωτισμένο";
+"retry_description_unaccepted_document" = "Δοκιμάστε ξανά με μια έγκυρη φωτογραφία ταυτότητας και βεβαιωθείτε ότι τα στοιχεία σας είναι ευδιάκριτα";
+"retry_headline_default" = "Υπήρξε ένα πρόβλημα";
+"retry_headline_expired_document" = "Το έγγραφό σας έχει λήξει";
+"retry_headline_generic_document_issue" = "Υπήρξε ένα πρόβλημα με το έγγραφό σας";
+"retry_headline_generic_selfie_issue" = "Υπήρξε ένα πρόβλημα με την selfie σας";
+"retry_headline_unaccepted_document" = "Μη αποδεκτό έγγραφο";

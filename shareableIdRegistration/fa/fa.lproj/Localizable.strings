@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "ادامه";
+"shareableIdRegistration_registered_subtitle" = "هنگامی که نتیجه این تأیید هویت مشخص شد، شما می‌توانید آن را در دفعات بعدی که نیاز به اثبات هویت خود دارید، دوباره استفاده کنید.";
+"shareableIdRegistration_registered_title" = "تأیید هویت ذخیره شد";
+"shareableIdRegistration_registration_consent_description" = "اگر دفعه بعدی روی دکمه `استفاده از تأیید هویت قبلی` کلیک کنید، داده‌های شما فقط در این صورت دوباره استفاده خواهند شد.";
+"shareableIdRegistration_registration_consent_title" = "فقط شما می‌توانید به استفاده مجدد از تأییدهای هویت رضایت دهید";
+"shareableIdRegistration_registration_error_action" = "برگرد";
+"shareableIdRegistration_registration_error_subtitle" = "به نظر می‌رسد که شما نتوانستید یک کلید عبور ایجاد کنید. برای تلاش مجدد به عقب بروید یا برای ادامه فرآیند کامل ادامه دهید.";
+"shareableIdRegistration_registration_error_title" = "کلید عبور ایجاد نشده است";
+"shareableIdRegistration_registration_fast_description" = "اطلاعاتی که قبلاً جمع‌آوری شده‌اند ذخیره می‌شوند، بنابراین می‌توانید آنها را دوباره استفاده کنید به جای اینکه دوباره از طریق فرآیند تأیید هویت عبور کنید.";
+"shareableIdRegistration_registration_fast_title" = "هرگز وقت خود را صرف تکرار یک تأیید هویت که از قبل وجود دارد نکنید";
+"shareableIdRegistration_registration_key_description" = "مانند یک رمز عبور ذخیره شده در دستگاه شما، شما یک شناسه منحصر به فرد (یک کلید عبور) ایجاد خواهید کرد که می توانید آن را در هر لحظه حذف کنید.";
+"shareableIdRegistration_registration_key_title" = "شما کلید را برای رد کردن جریان نگه خواهید داشت";
+"shareableIdRegistration_registration_save" = "تأیید هویت خود را ذخیره کنید";
+"shareableIdRegistration_registration_skip" = "رد کردن";
+"shareableIdRegistration_registration_title" = "یک بار تأیید کنید. دوباره استفاده کنید";

@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "ยอมรับ";
+"consent_button_secondary" = "ไม่ยอมรับ";
+"consent_loading_error_button_primary" = "โหลดหน้าจออีกครั้ง";
+"consent_loading_error_detail" = "เช็คว่าการเชื่อมต่อของคุณเสถียร แล้วลองอีกครั้ง";
+"consent_loading_error_title" = "ไม่สามารถโหลดเนื้อหาได้";
+"consent_prompt_button_primary" = "ใช่ ไม่ต้องยืนยันตัวตนฉัน";
+"consent_prompt_button_secondary" = "ตรวจสอบอีกครั้ง";
+"consent_prompt_no_consent_detail" = "หากคุณไม่ยอมรับนโยบายความเป็นส่วนตัวและข้อกำหนดในการให้บริการของ Onfido เราจะไม่สามารถยืนยันตัวตนของคุณได้ และคุณจะออกจากขั้นตอนนี้";
+"consent_prompt_no_consent_title" = "แน่ใจใช่ไหม";

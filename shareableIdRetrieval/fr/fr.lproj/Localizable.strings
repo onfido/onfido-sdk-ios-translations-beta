@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Continuer";
+"shareableIdRetrieval_intro_error_subtitle" = "Vous n`avez pas de clé de passe reconnaissable sur votre appareil. Veuillez continuer vers le processus complet.";
+"shareableIdRetrieval_intro_error_title" = "Aucune clé de passe trouvée";
+"shareableIdRetrieval_intro_or" = "OU";
+"shareableIdRetrieval_intro_searching" = "Recherche de vérifications précédentes";
+"shareableIdRetrieval_intro_start_idv_action" = "Commencez la vérification d`identité";
+"shareableIdRetrieval_intro_start_idv_description" = "Nous demanderons certains documents et informations personnelles de votre part, qui peuvent nous aider à savoir qui vous prétendez être.";
+"shareableIdRetrieval_intro_subtitle" = "Pour des raisons de sécurité et pour vous protéger contre la fraude, nous devons vérifier votre identité.";
+"shareableIdRetrieval_intro_title" = "Vérification d’identité";
+"shareableIdRetrieval_intro_use_sid_action" = "Utilisez une vérification précédente";
+"shareableIdRetrieval_intro_use_sid_title" = "Vous ne pouvez réutiliser qu`une vérification qui a été réussie et enregistrée au préalable.";

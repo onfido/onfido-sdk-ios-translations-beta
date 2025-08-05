@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "สร้างลายเซ็นของคุณ";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "หลังจากอ่านเอกสารของคุณแล้ว ให้แตะที่ปุ่ม \"ลงชื่อเอกสาร\"";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "เมื่อ Onfido ตรวจสอบตัวตนของคุณแล้ว ลายเซ็นของคุณจะถูกใช้บนเอกสารนี้";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "ลงชื่อในเอกสาร";
+"qualifiedElectronicSignature_confirmation_review_document" = "ตรวจสอบ เอกสารของคุณ เพื่อลงชื่อ";
+"qualifiedElectronicSignature_confirmation_step2" = "2 จาก 2";
+"qualifiedElectronicSignature_confirmation_steps" = "ลงชื่อในเอกสารของคุณ";
+"qualifiedElectronicSignature_confirmation_subtitle" = "เพื่อยืนยันตัวตนของคุณตามกฎหมายของยุโรป คุณต้องลงชื่อดิจิตอลในเอกสาร";
+"qualifiedElectronicSignature_confirmation_title" = "สร้างและใช้ลายเซ็นดิจิตอลของคุณ";
+"qualifiedElectronicSignature_error_misconfigured" = "ขออภัย, มีข้อผิดพลาดเกิดขึ้น กรุณาติดต่อฝ่ายสนับสนุนของคุณ";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "สร้างลายเซ็นของฉัน";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "แบบฟอร์มการสมัครใบรับรอง";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "แจ้งเตือนความเป็นส่วนตัว";
+"qualifiedElectronicSignature_introduction_step1" = "1 จาก 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "เพื่อยืนยันตัวตนของคุณตามกฎหมาของยุโรป ุณต้องลงชื่อดิจิตอลในเอกสาร";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "ข้อกำหนดและเงื่อนไข";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA เป็นผู้ให้บริการที่ได้รับความไว้วางใจระดับโลกที่จะออกใบรับรองการยืนยันลายเซ็นต์อิเล็กทรอนิกส์ของคุณ";
+"qualifiedElectronicSignature_introduction_title" = "สร้างและใช้ลายเซ็นดิจิตอลของคุณ";
+"qualifiedElectronicSignature_introduction_validation" = "ต้องได้รับความยินยอม";

@@ -1,0 +1,17 @@
+
+"electronicId_qr_code_description" = "Բացեք ձեր հեռախոսում BankID հավելվածը և սեղմեք QR կոդի պատկերակը";
+"electronicId_qr_code_error_code_expired" = "Ձեր QR կոդը ժամկետանց է, խնդրում ենք պահանջել նորը";
+"electronicId_qr_code_refresh_cta" = "Հայցեք նոր QR կոդ";
+"electronicId_qr_code_title" = "BankID ստուգում";
+"electronicId_redirection_cross_device" = "Միացրեք մեկ այլ սարք";
+"electronicId_redirection_description" = "Դուք կարող եք միանալ ձեր բջջային հեռախոսի կամ այլ սարքի միջոցով";
+"electronicId_redirection_list_title" = "Ընտրեք մեթոդ";
+"electronicId_redirection_open_in_app" = "Բացեք հավելվածը";
+"electronicId_redirection_scheme_SwedenBankId_open_in_app" = "Բացեք BankID հավելվածը";
+"electronicId_redirection_title" = "Ընտրեք, ի՞նչպես միանալ";
+"electronicId_scheme_form_subtitle" = "Ընտրեք բանկը ստորև նշված ցանկից՝ ինքներդ հաստատելու համար -ի միջոցով";
+"electronicId_scheme_form_title" = " Verification";
+"electronicId_selection_description" = "Ընտրեք թողարկող երկիրը, որպեսզի տեսնեք, որ մեթոդները ենք ընդունում";
+"electronicId_selection_list_title" = "Ընտրեք մեթոդ";
+"electronicId_selection_select_label" = "Թողարկող երկիր";
+"electronicId_selection_title" = "Հաստատեք ձեր ինքնությունը";

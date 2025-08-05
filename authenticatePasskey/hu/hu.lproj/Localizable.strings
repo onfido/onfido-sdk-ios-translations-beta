@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Tovább";
+"authenticatePasskey_attempts_error_subtitle" = "Már nem tud hitelesíteni belépőkulccsal.";
+"authenticatePasskey_attempts_error_title" = "A megengedett próbálkozások száma túllépve";
+"authenticatePasskey_error_button_retry" = "Próbálja újra";
+"authenticatePasskey_error_subtitle" = "Ismeretlen technikai hiba történt, kérjük, próbálja újra.";
+"authenticatePasskey_error_title" = "Valami hiba történt";
+"authenticatePasskey_introduction_bullet_1" = "Korábban már kellett, hogy létrehozzon nálunk egy belépőkulcsot.";
+"authenticatePasskey_introduction_bullet_2" = "Az eszköze végigvezeti Önt a következő lépéseken.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Hitelesítés";
+"authenticatePasskey_introduction_subtitle" = "A jelszókulcsok lehetővé teszik, hogy biztonságosan jelentkezzen be ujjlenyomatával, arcával vagy a készülék képernyőzárával.";
+"authenticatePasskey_introduction_title" = "Azonosítson a belépőkulcsával";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Tovább";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "Nem áll rendelkezésére belépőkulcs az azonosításhoz.";
+"authenticatePasskey_no_passkey_available_error_title" = "Nem érhető el belépőkulcs";
+"authenticatePasskey_not_supported_error_button_continue" = "Tovább";
+"authenticatePasskey_not_supported_error_subtitle" = "Sajnáljuk, ezt a feladatot nem tudja befejezni.";
+"authenticatePasskey_not_supported_error_title" = "Az eszköz nem támogatja a kulcskódokat";

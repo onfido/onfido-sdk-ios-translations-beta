@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Jatka";
+"shareableIdRetrieval_intro_error_subtitle" = "Sinulla ei ole tunnistettavaa salasanaa laitteellasi. Jatka koko prosessin loppuun.";
+"shareableIdRetrieval_intro_error_title" = "Salasanaa ei löytynyt";
+"shareableIdRetrieval_intro_or" = "TAI";
+"shareableIdRetrieval_intro_searching" = "Etsitään aiempia vahvistuksia";
+"shareableIdRetrieval_intro_start_idv_action" = "Aloita henkilöllisyyden varmistaminen";
+"shareableIdRetrieval_intro_start_idv_description" = "Pyydämme sinulta joitakin asiakirjoja ja henkilötietoja, jotka voivat auttaa meitä varmistamaan, että olet se, joka sanot olevasi.";
+"shareableIdRetrieval_intro_subtitle" = "Turvallisuussyistä ja suojellaksemme sinua petoksilta meidän on varmistettava henkilöllisyytesi.";
+"shareableIdRetrieval_intro_title" = "Vahvista henkilöllisyytesi";
+"shareableIdRetrieval_intro_use_sid_action" = "Käytä aikaisempaa todentamista";
+"shareableIdRetrieval_intro_use_sid_title" = "Voit käyttää uudelleen vain sellaista tunnistautumista, joka on suoritettu onnistuneesti ja tallennettu etukäteen.";

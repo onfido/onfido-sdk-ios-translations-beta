@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "Jatka";
+"enrollPasskey_attempts_error_subtitle" = "Et voi enää tunnistautua avainkoodilla.";
+"enrollPasskey_attempts_error_title" = "Sallittujen yritysten määrä ylitetty";
+"enrollPasskey_error_button_retry" = "Yritä uudelleen";
+"enrollPasskey_error_subtitle" = "Tuntematon tekninen ongelma tapahtui, yritä uudelleen.";
+"enrollPasskey_error_title" = "Jokin meni pieleen";
+"enrollPasskey_introduction_bullet_1" = "Tätä avainkoodia käytetään verkkotunnukselle: ";
+"enrollPasskey_introduction_bullet_2" = "Laitteesi ohjaa sinua seuraavissa vaiheissa.";
+"enrollPasskey_introduction_button_start_enrolling" = "Luo avainkoodi";
+"enrollPasskey_introduction_subtitle" = "Pääsyavaimilla voit kirjautua turvallisesti sormenjäljelläsi, kasvoillasi tai laitteen näytön lukituksella.";
+"enrollPasskey_introduction_title" = "Ota avainkoodi käyttöön";
+"enrollPasskey_not_supported_error_button_continue" = "Jatka";
+"enrollPasskey_not_supported_error_subtitle" = "Valitettavasti et voi suorittaa tätä tehtävää.";
+"enrollPasskey_not_supported_error_title" = "Laite ei tue avainkoodeja";

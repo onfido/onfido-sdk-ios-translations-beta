@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "Accepteren";
+"consent_button_secondary" = "Niet aanvaarden";
+"consent_loading_error_button_primary" = "Scherm opnieuw laden";
+"consent_loading_error_detail" = "Controleer of u een stabiele verbinding heeft en probeer het daarna opnieuw";
+"consent_loading_error_title" = "Inhoud laden mislukt";
+"consent_prompt_button_primary" = "Ja, verifieer mij niet";
+"consent_prompt_button_secondary" = "Controleer opniew";
+"consent_prompt_no_consent_detail" = "Als u de privacyverklaringen en de servicevoorwaarden van Onfido niet accepteert, kunnen we uw identiteit niet verifiëren en zult u deze stap verlaten.";
+"consent_prompt_no_consent_title" = "Weet u het zeker?";

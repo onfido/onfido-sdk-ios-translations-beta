@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "המשך";
+"shareableIdRetrieval_intro_error_subtitle" = "אין לך קוד זיהוי מזוהה על המכשיר שלך. אנא המשך לתהליך המלא.";
+"shareableIdRetrieval_intro_error_title" = "לא נמצא מפתח עבר";
+"shareableIdRetrieval_intro_or" = "או";
+"shareableIdRetrieval_intro_searching" = "מחפש אימותים קודמים";
+"shareableIdRetrieval_intro_start_idv_action" = "התחל באימות זהות";
+"shareableIdRetrieval_intro_start_idv_description" = "נבקש ממך מסמכים ומידע אישי, שיכולים לעזור לנו להבין מי אתה כפי שאתה מצהיר.";
+"shareableIdRetrieval_intro_subtitle" = "מטעמי ביטחון וכדי להגן עליך מפני הונאה, אנו צריכים לאמת את זהותך.";
+"shareableIdRetrieval_intro_title" = "אמת את זהותך";
+"shareableIdRetrieval_intro_use_sid_action" = "השתמש באימות קודם";
+"shareableIdRetrieval_intro_use_sid_title" = "אתה יכול להשתמש מחדש רק באימות שהושלם בהצלחה ונשמר מראש.";

@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Nastavi";
+"shareableIdRetrieval_intro_error_subtitle" = "Nemate prepoznatljivu lozinku na vašem uređaju. Molimo vas da nastavite sa celokupnim procesom.";
+"shareableIdRetrieval_intro_error_title" = "Пролазна клјучница није пронађена";
+"shareableIdRetrieval_intro_or" = "ILI";
+"shareableIdRetrieval_intro_searching" = "Pretraga prethodnih verifikacija";
+"shareableIdRetrieval_intro_start_idv_action" = "Počnite verifikaciju identiteta";
+"shareableIdRetrieval_intro_start_idv_description" = "Zatražićemo neku dokumentaciju i lične podatke od vas, koji nam mogu pomoći da saznamo ko ste vi kako tvrdite.";
+"shareableIdRetrieval_intro_subtitle" = "Iz sigurnosnih razloga i da bismo vas zaštitili od prevare, moramo da verifikujemo vaš identitet.";
+"shareableIdRetrieval_intro_title" = "Obavite proveru identiteta";
+"shareableIdRetrieval_intro_use_sid_action" = "Koristite prethodnu verifikaciju";
+"shareableIdRetrieval_intro_use_sid_title" = "Možete ponovo koristiti samo verifikaciju koja je prethodno uspešno završena i sačuvana.";

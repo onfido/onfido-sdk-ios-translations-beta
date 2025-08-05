@@ -1,0 +1,17 @@
+
+"electronicId_qr_code_description" = "Atidarykite „BankID“ programėlę savo telefone ir paspauskite QR kodo piktogramą";
+"electronicId_qr_code_error_code_expired" = "Jūsų QR kodas pasibaigė, prašome paprašyti naujo";
+"electronicId_qr_code_refresh_cta" = "Prašyti naujo QR kodo";
+"electronicId_qr_code_title" = "BankID patvirtinimas";
+"electronicId_redirection_cross_device" = "Prijunkite kitą įrenginį";
+"electronicId_redirection_description" = "Jūs galite prisijungti per savo mobilųjį telefoną ar kitą įrenginį";
+"electronicId_redirection_list_title" = "Pasirinkite metodą";
+"electronicId_redirection_open_in_app" = "Atidarykite programą";
+"electronicId_redirection_scheme_SwedenBankId_open_in_app" = "Atidarykite BankID programėlę";
+"electronicId_redirection_title" = "Pasirinkite, kaip prisijungti";
+"electronicId_scheme_form_subtitle" = "Pasirinkite banką iš žemiau pateikto sąrašo, kad patvirtintumėte savo tapatybę per ";
+"electronicId_scheme_form_title" = " Verification";
+"electronicId_selection_description" = "Pasirinkite išdavimo šalį, kad pamatytumėte, kokius metodus priimame";
+"electronicId_selection_list_title" = "Pasirinkite metodą";
+"electronicId_selection_select_label" = "Dokumentą išdavusi šalis";
+"electronicId_selection_title" = "Patvirtinkite savo tapatybę";

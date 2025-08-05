@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Continue";
+"shareableIdRegistration_registered_subtitle" = "Once the result of this verification is known, you will be able to reuse it the next time you need to prove your identity.";
+"shareableIdRegistration_registered_title" = "Verification saved";
+"shareableIdRegistration_registration_consent_description" = "Your data will only be reused if you click on the ‘Use a previous verification’ button next time.";
+"shareableIdRegistration_registration_consent_title" = "Only you can consent to which verifications are reused";
+"shareableIdRegistration_registration_error_action" = "Go back";
+"shareableIdRegistration_registration_error_subtitle" = "It appears that you couldn’t create a passkey. Go back to retry or continue to the complete process.";
+"shareableIdRegistration_registration_error_title" = "Passkey not created";
+"shareableIdRegistration_registration_fast_description" = "Information already collected will be saved, so you can reuse it instead of going through the verification process again.";
+"shareableIdRegistration_registration_fast_title" = "Never waste time repeating a verification that already exists";
+"shareableIdRegistration_registration_key_description" = "Like a password stored on your device, you will create a unique identifier (a passkey) that you can delete at any moment.";
+"shareableIdRegistration_registration_key_title" = "You will hold the key to skip the flow";
+"shareableIdRegistration_registration_save" = "Save your verification";
+"shareableIdRegistration_registration_skip" = "Skip";
+"shareableIdRegistration_registration_title" = "Verify once. Reuse again";

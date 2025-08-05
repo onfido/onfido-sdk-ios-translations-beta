@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "צור את החתימה שלך";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "לאחר קריאת המסמך שלך, הקש על כפתור \"חתום על המסמך\".";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "לאחר ש-Onfido מאמתת את זהותך, החתימה שלך תשמש במסמך זה.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "חתום על מסמך";
+"qualifiedElectronicSignature_confirmation_review_document" = "בדוק את המסמך שלך לחתימה";
+"qualifiedElectronicSignature_confirmation_step2" = "2 מתוך 2";
+"qualifiedElectronicSignature_confirmation_steps" = "חתום על המסמך שלך";
+"qualifiedElectronicSignature_confirmation_subtitle" = "כדי לאמת את זהותך בהתאם לחוקים האירופיים, אתה חייב לחתום דיגיטלית על מסמך.";
+"qualifiedElectronicSignature_confirmation_title" = "צור והשתמש בחתימה הדיגיטלית שלך";
+"qualifiedElectronicSignature_error_misconfigured" = "למרבה הצער, אירעה שגיאה. אנא צור קשר עם התמיכה שלך.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "צור את החתימה שלי";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "טופס בקשה לתעודה";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "הודעת פרטיות";
+"qualifiedElectronicSignature_introduction_step1" = "1 מתוך 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "כדי לאמת את זהותך בהתאם לחוקים האירופיים, אתה חייב לחתום דיגיטלית על מסמך.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "תנאים והגבלות";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA היא ספקית מהימנה ברחבי העולם שתיתן תעודה שמאמתת את החתימה האלקטרונית שלך.";
+"qualifiedElectronicSignature_introduction_title" = "צור והשתמש בחתימה הדיגיטלית שלך";
+"qualifiedElectronicSignature_introduction_validation" = "נדרשת הסכמה";

@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "继续";
+"authenticatePasskey_attempts_error_subtitle" = "您无法再通过通行密钥进行身份验证。";
+"authenticatePasskey_attempts_error_title" = "允许的尝试次数已超出";
+"authenticatePasskey_error_button_retry" = "重试";
+"authenticatePasskey_error_subtitle" = "发生了未知技术问题，请重试。";
+"authenticatePasskey_error_title" = "出了些问题";
+"authenticatePasskey_introduction_bullet_1" = "您必须在过去创建过通行密钥。";
+"authenticatePasskey_introduction_bullet_2" = "您的设备将引导您完成接下来的步骤。";
+"authenticatePasskey_introduction_button_start_authenticating" = "验证";
+"authenticatePasskey_introduction_subtitle" = "通行密钥让您可以使用指纹、面部或设备屏幕锁安全地登录。";
+"authenticatePasskey_introduction_title" = "使用您的通行密钥进行身份验证";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "继续";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "您没有可用于身份验证的通行密钥。";
+"authenticatePasskey_no_passkey_available_error_title" = "没有可用的通行密钥";
+"authenticatePasskey_not_supported_error_button_continue" = "继续";
+"authenticatePasskey_not_supported_error_subtitle" = "抱歉，您无法完成此任务。";
+"authenticatePasskey_not_supported_error_title" = "设备不支持通行密钥";

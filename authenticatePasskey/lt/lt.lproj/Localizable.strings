@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Tęsti";
+"authenticatePasskey_attempts_error_subtitle" = "Jūs nebegalite autentifikuotis naudodami slaptuką.";
+"authenticatePasskey_attempts_error_title" = "Leistinas bandymų skaičius viršytas";
+"authenticatePasskey_error_button_retry" = "Bandyti dar kartą";
+"authenticatePasskey_error_subtitle" = "Įvyko nežinoma techninė problema, bandykite dar kartą.";
+"authenticatePasskey_error_title" = "Kažkas nepavyko";
+"authenticatePasskey_introduction_bullet_1" = "Jūs turėjote būti anksčiau sukūrę slaptuką pas mus.";
+"authenticatePasskey_introduction_bullet_2" = "Jūsų įrenginys padės jums atlikti kitus veiksmus.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Autentifikuoti";
+"authenticatePasskey_introduction_subtitle" = "Raktai leidžia saugiai prisijungti naudojant piršto atspaudą, veidą arba įrenginio ekrano užraktą.";
+"authenticatePasskey_introduction_title" = "Autentifikuokitės naudodami savo slaptuką";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Tęsti";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "Neturite slaptuko, kuriuo galėtumėte patvirtinti tapatybę.";
+"authenticatePasskey_no_passkey_available_error_title" = "Nėra prieinamo slaptuko";
+"authenticatePasskey_not_supported_error_button_continue" = "Tęsti";
+"authenticatePasskey_not_supported_error_subtitle" = "Atsiprašome, negalite užbaigti šios užduoties.";
+"authenticatePasskey_not_supported_error_title" = "Įrenginys nepalaiko raktų be slaptažodžio";

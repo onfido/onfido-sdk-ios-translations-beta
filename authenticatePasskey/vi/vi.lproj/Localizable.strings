@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Tiếp tục";
+"authenticatePasskey_attempts_error_subtitle" = "Bạn không thể xác thực bằng khóa bảo mật nữa.";
+"authenticatePasskey_attempts_error_title" = "Vượt quá số lần thử cho phép";
+"authenticatePasskey_error_button_retry" = "Thử lại";
+"authenticatePasskey_error_subtitle" = "Đã xảy ra sự cố kỹ thuật không xác định, vui lòng thử lại.";
+"authenticatePasskey_error_title" = "Có gì đó đã sai";
+"authenticatePasskey_introduction_bullet_1" = "Bạn phải đã tạo khóa truy cập với chúng tôi trước đây.";
+"authenticatePasskey_introduction_bullet_2" = "Thiết bị của bạn sẽ hướng dẫn bạn qua các bước tiếp theo.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Xác thực";
+"authenticatePasskey_introduction_subtitle" = "Passkey cho phép bạn đăng nhập an toàn bằng dấu vân tay, khuôn mặt hoặc khóa màn hình thiết bị.";
+"authenticatePasskey_introduction_title" = "Xác thực bằng Passkey của bạn";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Tiếp tục";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "Bạn không có khóa xác thực nào để thực hiện xác thực.";
+"authenticatePasskey_no_passkey_available_error_title" = "Không có khóa truy cập nào";
+"authenticatePasskey_not_supported_error_button_continue" = "Tiếp tục";
+"authenticatePasskey_not_supported_error_subtitle" = "Rất tiếc, bạn không thể hoàn thành tác vụ này.";
+"authenticatePasskey_not_supported_error_title" = "Thiết bị không hỗ trợ khóa bảo mật";

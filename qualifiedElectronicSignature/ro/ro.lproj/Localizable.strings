@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Creează-ți semnătura";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "După ce ați citit documentul, apăsați butonul \"Semnați documentul\".";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Odată ce Onfido îți verifică identitatea, semnătura ta va fi folosită pe acest document.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Semnează documentul";
+"qualifiedElectronicSignature_confirmation_review_document" = "Revizuiți documentul dvs. pentru a semna";
+"qualifiedElectronicSignature_confirmation_step2" = "2 din 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Semnează-ți documentul";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Pentru a confirma identitatea dumneavoastră în conformitate cu regulile europene, trebuie să semnați digital un document.";
+"qualifiedElectronicSignature_confirmation_title" = "Creează și folosește semnătura ta digitală";
+"qualifiedElectronicSignature_error_misconfigured" = "Din păcate, a apărut o eroare. Vă rugăm să contactați suportul dvs.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Creează-mi semnătura";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Formular de cerere pentru certificat";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Notificare de confidențialitate";
+"qualifiedElectronicSignature_introduction_step1" = "1 din 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "Pentru a confirma identitatea dumneavoastră în conformitate cu regulile europene, trebuie să semnați digital un document.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Termeni și condiții";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA este un furnizor global de încredere care va emite un certificat pentru validarea semnăturii dvs. electronice.";
+"qualifiedElectronicSignature_introduction_title" = "Creează și folosește semnătura ta digitală";
+"qualifiedElectronicSignature_introduction_validation" = "Consimțământ necesar";

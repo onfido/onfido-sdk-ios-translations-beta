@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Zahájit proces ověřování";
+"welcome_button_studio" = "Zahájit proces ověřování";
+"welcome_button_trial" = "Zahájit proces ověřování (TEST)";
+"welcome_list_header_default" = "Pomocí svého zařízení můžete:";
+"welcome_list_header_doc_video" = "Nahrávejte pomocí svého zařízení:";
+"welcome_list_item_active_video" = "Nahrát video svého obličeje";
+"welcome_list_item_document" = "Vyfoťte si svůj doklad totožnosti";
+"welcome_list_item_document_video" = "Nahrát video svého dokladu totožnosti";
+"welcome_list_item_face" = "Vyfotit svůj obličej";
+"welcome_list_item_face_video" = "Nahrát video svého obličeje";
+"welcome_list_item_poa" = "Vyfotit dokument s Vaší adresou";
+"welcome_subtitle" = "Mělo by to trvat několik minut";
+"welcome_timeout_default" = "Nahrávání je omezeno na  sekundy";
+"welcome_title" = "Potvrďte svou totožnost";
+"welcome_warning_trial" = "Pokud nejste zapojeni do zkušební verze aplikace Onfido, nesdílejte zde osobní údaje.";
+"welcome_warning_trial_title" = "Toto je zkušební verze";

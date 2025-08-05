@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Skapa din signatur";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Efter att ha läst ditt dokument, tryck på knappen \"Signera dokument\".";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "När Onfido har verifierat din identitet kommer din signatur att användas på detta dokument.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Signera dokument";
+"qualifiedElectronicSignature_confirmation_review_document" = "Granska ditt dokument för att signera";
+"qualifiedElectronicSignature_confirmation_step2" = "2 av 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Signera ditt dokument";
+"qualifiedElectronicSignature_confirmation_subtitle" = "För att bekräfta din identitet i enlighet med europeiska regler måste du digitalt signera ett dokument.";
+"qualifiedElectronicSignature_confirmation_title" = "Skapa och använd din digitala signatur";
+"qualifiedElectronicSignature_error_misconfigured" = "Tyvärr har ett fel inträffat. Vänligen kontakta din support.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Skapa min signatur";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Ansökningsformulär för certifikat";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Integritetsmeddelande";
+"qualifiedElectronicSignature_introduction_step1" = "1 av 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "För att bekräfta din identitet i enlighet med europeiska regler måste du digitalt signera ett dokument.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Allmänna villkor";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA är en betrodd global leverantör som kommer att utfärda ett certifikat som validerar din elektroniska signatur.";
+"qualifiedElectronicSignature_introduction_title" = "Skapa och använd din digitala signatur";
+"qualifiedElectronicSignature_introduction_validation" = "Samtycke krävs";

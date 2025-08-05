@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Kreirajte svoj potpis";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Nakon čitanja vašeg dokumenta, dodirnite gumb \"Potpiši dokument\".";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Jednom kada Onfido potvrdi vaš identitet, vaš potpis će se koristiti na ovom dokumentu.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Potpiši dokument";
+"qualifiedElectronicSignature_confirmation_review_document" = "Pregledajte vaš dokument za potpisivanje";
+"qualifiedElectronicSignature_confirmation_step2" = "2 od 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Potpišite svoj dokument";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Da biste potvrdili svoj identitet u skladu s europskim pravilima, morate digitalno potpisati dokument.";
+"qualifiedElectronicSignature_confirmation_title" = "Stvorite i koristite svoj digitalni potpis";
+"qualifiedElectronicSignature_error_misconfigured" = "Nažalost, došlo je do pogreške. Molimo vas da se obratite svojoj podršci.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Kreiraj moj potpis";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Obrazac za prijavu certifikata";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Obavijest o privatnosti";
+"qualifiedElectronicSignature_introduction_step1" = "1 od 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "Da biste potvrdili svoj identitet u skladu s europskim pravilima, morate digitalno potpisati dokument.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Uvjeti i odredbe";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA je pouzdani globalni pružatelj koji će izdati certifikat koji potvrđuje vaš elektronički potpis.";
+"qualifiedElectronicSignature_introduction_title" = "Stvorite i koristite svoj digitalni potpis";
+"qualifiedElectronicSignature_introduction_validation" = "Potrebna suglasnost";

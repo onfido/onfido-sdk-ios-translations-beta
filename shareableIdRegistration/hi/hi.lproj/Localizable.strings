@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "जारी रखें";
+"shareableIdRegistration_registered_subtitle" = "एक बार इस सत्यापन का परिणाम ज्ञात हो जाए, तो आप अगली बार अपनी पहचान साबित करने की जरूरत पड़ने पर इसे पुनः उपयोग कर सकेंगे।";
+"shareableIdRegistration_registered_title" = "सत्यापन सहेजा गया";
+"shareableIdRegistration_registration_consent_description" = "आपका डाटा केवल तब पुनः उपयोग किया जाएगा जब आप अगली बार `पिछले सत्यापन का उपयोग करें` बटन पर क्लिक करेंगे।";
+"shareableIdRegistration_registration_consent_title" = "केवल आप ही तय कर सकते हैं कि कौन से सत्यापन पुनः उपयोग किए जाएं";
+"shareableIdRegistration_registration_error_action" = "वापस जाओ";
+"shareableIdRegistration_registration_error_subtitle" = "ऐसा प्रतीत होता है कि आप पासकी नहीं बना सके। वापस जाकर पुनः प्रयास करें या पूरी प्रक्रिया को जारी रखें।";
+"shareableIdRegistration_registration_error_title" = "पासकी नहीं बनाई गई";
+"shareableIdRegistration_registration_fast_description" = "पहले संग्रहित की गई जानकारी को सहेजा जाएगा, ताकि आप उसे पुनः उपयोग कर सकें और पुनः पहचान सत्यापन प्रक्रिया से गुजरने की जरूरत न हो।";
+"shareableIdRegistration_registration_fast_title" = "कभी भी समय बर्बाद न करें जो पहले से मौजूद पहचान सत्यापन को दोहराने में";
+"shareableIdRegistration_registration_key_description" = "जैसे आपके उपकरण पर संग्रहीत पासवर्ड, आप एक अद्वितीय पहचानकर्ता (एक पासकी) बनाएंगे जिसे आप किसी भी समय हटा सकते हैं।";
+"shareableIdRegistration_registration_key_title" = "आपके पास फ्लो को स्किप करने की कुंजी होगी";
+"shareableIdRegistration_registration_save" = "अपनी पहचान सत्यापन को सहेजें";
+"shareableIdRegistration_registration_skip" = "छोड़ें";
+"shareableIdRegistration_registration_title" = "एक बार सत्यापित करें। फिर से उपयोग करें";

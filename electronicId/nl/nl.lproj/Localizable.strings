@@ -1,0 +1,17 @@
+
+"electronicId_qr_code_description" = "Open de BankID-app op uw telefoon en druk op het QR-codepictogram";
+"electronicId_qr_code_error_code_expired" = "Uw QR-code is verlopen, vraag alstublieft een nieuwe aan";
+"electronicId_qr_code_refresh_cta" = "Vraag een nieuwe QR-code aan";
+"electronicId_qr_code_title" = "BankID verificatie";
+"electronicId_redirection_cross_device" = "Verbind een ander apparaat";
+"electronicId_redirection_description" = "U kunt verbinding maken via uw mobiele telefoon of een ander apparaat";
+"electronicId_redirection_list_title" = "Selecteer een methode";
+"electronicId_redirection_open_in_app" = "Open app";
+"electronicId_redirection_scheme_SwedenBankId_open_in_app" = "Open BankID-app";
+"electronicId_redirection_title" = "Kies hoe te verbinden";
+"electronicId_scheme_form_subtitle" = "Selecteer een bank uit de onderstaande lijst om uzelf te verifiëren via ";
+"electronicId_scheme_form_title" = " Verification";
+"electronicId_selection_description" = "Selecteer het uitgevende land om te zien welke methoden we accepteren";
+"electronicId_selection_list_title" = "Selecteer een methode";
+"electronicId_selection_select_label" = "Land van uitgifte";
+"electronicId_selection_title" = "Verifieer uw identiteit";

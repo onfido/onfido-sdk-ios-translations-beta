@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Стартиране на проверката";
+"welcome_button_studio" = "Стартиране на проверката";
+"welcome_button_trial" = "Стартиране на проверка (ТЕСТ)";
+"welcome_list_header_default" = "Използвайте устройството си, за да:";
+"welcome_list_header_doc_video" = "Използвайте устройството си, за да запишете:";
+"welcome_list_item_active_video" = "Запишете видео на лицето си";
+"welcome_list_item_document" = "Направите снимка на документа си за самоличност";
+"welcome_list_item_document_video" = "Запишете видео с документа си за самоличност";
+"welcome_list_item_face" = "Направите снимка на лицето си";
+"welcome_list_item_face_video" = "Запишете видео на лицето си";
+"welcome_list_item_poa" = "Направете снимка на документ с адреса ви";
+"welcome_subtitle" = "Ще отнеме няколко минути";
+"welcome_timeout_default" = "Видеозаписът е ограничен до  секунди. Започнете отново";
+"welcome_title" = "Потвърдете самоличността си";
+"welcome_warning_trial" = "Не споделяйте лични данни тук освен ако не се регистрирате за пробна версия на Onfido.";
+"welcome_warning_trial_title" = "Това е пробна версия";

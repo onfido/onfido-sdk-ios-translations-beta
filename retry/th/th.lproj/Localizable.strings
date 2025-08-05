@@ -1,0 +1,16 @@
+
+"retry_button_default" = "ลองอีกครั้ง";
+"retry_button_expired_document" = "ลองอีกครั้ง";
+"retry_button_generic_document_issue" = "ลองอีกครั้ง";
+"retry_button_generic_selfie_issue" = "ลองอีกครั้ง";
+"retry_button_unaccepted_document" = "ลองอีกครั้ง";
+"retry_description_default" = "โปรดลองอีกครั้ง";
+"retry_description_expired_document" = "โปรดลองอีกครั้งโดยใช้บัตรประจำตัวที่มีรูปถ่ายที่ถูกต้อง และตรวจให้แน่ใจว่าเห็นข้อมูลของคุณได้อย่างชัดเจน";
+"retry_description_generic_document_issue" = "โปรดลองอีกครั้งโดยใช้บัตรประจำตัวที่มีรูปถ่ายที่ถูกต้อง และตรวจให้แน่ใจว่าเห็นข้อมูลของคุณได้อย่างชัดเจน";
+"retry_description_generic_selfie_issue" = "โปรดลองอีกครั้ง และเช็คให้แน่ใจว่ามองเห็นใบหน้าของคุณได้ชัดเจนและมีแสงสว่างเพียงพอ";
+"retry_description_unaccepted_document" = "โปรดลองอีกครั้งโดยใช้บัตรประจำตัวที่มีรูปถ่ายที่ถูกต้อง และตรวจให้แน่ใจว่าเห็นข้อมูลของคุณได้อย่างชัดเจน";
+"retry_headline_default" = "มีปัญหาเกิดขึ้น";
+"retry_headline_expired_document" = "เอกสารของคุณหมดอายุแล้ว";
+"retry_headline_generic_document_issue" = "เกิดปัญหากับเอกสารของคุณ";
+"retry_headline_generic_selfie_issue" = "มีปัญหาเกี่ยวกับภาพเซลฟี่ของคุณ";
+"retry_headline_unaccepted_document" = "เอกสารที่ไม่ยอมรับ";

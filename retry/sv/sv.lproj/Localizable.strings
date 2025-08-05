@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Försök igen";
+"retry_button_expired_document" = "Försök igen";
+"retry_button_generic_document_issue" = "Försök igen";
+"retry_button_generic_selfie_issue" = "Försök igen";
+"retry_button_unaccepted_document" = "Försök igen";
+"retry_description_default" = "Försök igen";
+"retry_description_expired_document" = "Försök igen med ett giltigt foto-ID och se till att din information syns tydligt";
+"retry_description_generic_document_issue" = "Försök igen med ett giltigt foto-ID och se till att din information syns tydligt";
+"retry_description_generic_selfie_issue" = "Försök igen och se till att ditt ansikte är synligt och välbelyst";
+"retry_description_unaccepted_document" = "Försök igen med ett giltigt foto-ID och se till att din information syns tydligt";
+"retry_headline_default" = "Det var ett problem";
+"retry_headline_expired_document" = "Ditt dokument har gått ut";
+"retry_headline_generic_document_issue" = "Det var ett problem med ditt dokument";
+"retry_headline_generic_selfie_issue" = "Det var ett problem med din selfie";
+"retry_headline_unaccepted_document" = "Dokumentet accepteras inte";

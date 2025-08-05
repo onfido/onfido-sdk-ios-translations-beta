@@ -1,0 +1,17 @@
+
+"electronicId_qr_code_description" = "お使いの電話でBankIDアプリを開き、QRコードのアイコンを押してください";
+"electronicId_qr_code_error_code_expired" = "あなたのQRコードの有効期限が切れています、新しいものをリクエストしてください";
+"electronicId_qr_code_refresh_cta" = "新しいQRコードをリクエストする";
+"electronicId_qr_code_title" = "BankIDの確認";
+"electronicId_redirection_cross_device" = "別のデバイスを接続する";
+"electronicId_redirection_description" = "あなたは携帯電話や他のデバイスを通じて接続することができます";
+"electronicId_redirection_list_title" = "方法を選択してください";
+"electronicId_redirection_open_in_app" = "アプリを開く";
+"electronicId_redirection_scheme_SwedenBankId_open_in_app" = "BankIDアプリを開く";
+"electronicId_redirection_title" = "接続方法を選択してください";
+"electronicId_scheme_form_subtitle" = "以下のリストから銀行を選択して、を通じてVerificationを行ってください。";
+"electronicId_scheme_form_title" = " Verification";
+"electronicId_selection_description" = "発行国を選択して、私たちが受け入れる方法を確認してください";
+"electronicId_selection_list_title" = "方法を選択してください";
+"electronicId_selection_select_label" = "発行国";
+"electronicId_selection_title" = "本人確認を行う";

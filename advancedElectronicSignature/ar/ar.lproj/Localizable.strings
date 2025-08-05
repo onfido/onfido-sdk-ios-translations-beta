@@ -1,0 +1,9 @@
+
+"advancedElectronicSignature_error_button_retry" = "عُد";
+"advancedElectronicSignature_error_subtitle" = "يرجى الانتظار لبضع ثوانٍ ثم المحاولة مرة أخرى";
+"advancedElectronicSignature_error_title" = "حدث خطأ ما";
+"advancedElectronicSignature_introduction_bullet_1" = "سيتم فتح بيئة التوقيع (signhost.com) في نافذة جديدة.";
+"advancedElectronicSignature_introduction_bullet_2" = "بمجرد اكتمال التوقيع، سيتم إعادة توجيهك للمتابعة في سير العمل. إذا لم يحدث ذلك، يرجى العودة يدويًا.";
+"advancedElectronicSignature_introduction_button_start_signing" = "مراجعة وتوقيع المستند(ات)";
+"advancedElectronicSignature_introduction_subtitle" = "اضغط على الزر أدناه للمراجعة والتوقيع";
+"advancedElectronicSignature_introduction_title" = "وقّع المستندات المطلوبة إلكترونيًا";

@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Start verifisering";
+"welcome_button_studio" = "Start verifisering";
+"welcome_button_trial" = "Start verifisering (TEST)";
+"welcome_list_header_default" = "Bruk enheten til å:";
+"welcome_list_header_doc_video" = "Bruk enheten til å ta opp:";
+"welcome_list_item_active_video" = "Ta opp en video av ansiktet ditt";
+"welcome_list_item_document" = "Ta et bilde av legitimasjonen din";
+"welcome_list_item_document_video" = "Spille inn en video av legitimasjonen din";
+"welcome_list_item_face" = "Ta et bilde av ansiktet ditt";
+"welcome_list_item_face_video" = "Ta opp en video av ansiktet ditt";
+"welcome_list_item_poa" = "Ta et bilde av et dokument som inneholder adressen din";
+"welcome_subtitle" = "Det tar bare noen minutter";
+"welcome_timeout_default" = "Opptaket er begrenset til ​​​​ sekunder";
+"welcome_title" = "Bekreft identiteten din";
+"welcome_warning_trial" = "Ikke del personopplysninger her med mindre du er involvert i en Onfido test.";
+"welcome_warning_trial_title" = "Dette er en prøveversjon";

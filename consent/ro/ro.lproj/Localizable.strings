@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "Accept";
+"consent_button_secondary" = "Do not accept";
+"consent_loading_error_button_primary" = "Reload screen";
+"consent_loading_error_detail" = "Check that your connection is stable, then try again";
+"consent_loading_error_title" = "Content failed to load";
+"consent_prompt_button_primary" = "Yes, don’t verify me";
+"consent_prompt_button_secondary" = "Review again";
+"consent_prompt_no_consent_detail" = "If you do not accept Onfido’s privacy statements and terms of service, we will not be able to verify your identity and you will exit this step.";
+"consent_prompt_no_consent_title" = "Are you sure?";

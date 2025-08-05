@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Versuchen Sie es erneut.";
+"retry_button_expired_document" = "Versuchen Sie es erneut.";
+"retry_button_generic_document_issue" = "Versuchen Sie es erneut.";
+"retry_button_generic_selfie_issue" = "Versuchen Sie es erneut.";
+"retry_button_unaccepted_document" = "Versuchen Sie es erneut.";
+"retry_description_default" = "Bitte versuchen Sie es erneut";
+"retry_description_expired_document" = "Versuchen Sie es mit einem gültigen Lichtbildausweis erneut und stellen Sie sicher, dass die Angaben zu Ihrer Person gut sichtbar sind";
+"retry_description_generic_document_issue" = "Versuchen Sie es mit einem gültigen Lichtbildausweis erneut und stellen Sie sicher, dass die Angaben zu Ihrer Person gut sichtbar sind";
+"retry_description_generic_selfie_issue" = "Versuchen Sie es erneut und stellen Sie sicher, dass Ihr Gesicht sichtbar und gut beleuchtet ist";
+"retry_description_unaccepted_document" = "Versuchen Sie es mit einem gültigen Lichtbildausweis erneut und stellen Sie sicher, dass die Angaben zu Ihrer Person gut sichtbar sind";
+"retry_headline_default" = "Es gab ein Problem";
+"retry_headline_expired_document" = "Ihr Ausweis ist ungültig";
+"retry_headline_generic_document_issue" = "Es gab ein Problem mit Ihrem Dokument";
+"retry_headline_generic_selfie_issue" = "Es gab ein Problem mit Ihrem Selfie";
+"retry_headline_unaccepted_document" = "Ausweis wird nicht akzeptiert";

@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Hozza létre az aláírását";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "A dokumentum elolvasása után koppintson a „Dokumentum aláírása” gombra.";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Amint az Onfido hitelesíti az ön személyazonosságát, az aláírása ezen a dokumentumon lesz használva.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Iratot írjon alá";
+"qualifiedElectronicSignature_confirmation_review_document" = "Ellenőrizze a dokumentumát mielőtt aláírná";
+"qualifiedElectronicSignature_confirmation_step2" = "2 a 2-ből";
+"qualifiedElectronicSignature_confirmation_steps" = "Írja alá a dokumentumát";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Az Európai szabályoknak megfelelően, digitálisan alá kell írnia egy dokumentumot, hogy igazolja azonosságát.";
+"qualifiedElectronicSignature_confirmation_title" = "Hozzon létre és használjon digitális aláírást";
+"qualifiedElectronicSignature_error_misconfigured" = "Sajnos hiba történt. Kérjük, lépjen kapcsolatba a támogatásával.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Hozza létre az aláírásomat";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Igazolás kérelmező űrlap";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Adatvédelmi tájékoztató";
+"qualifiedElectronicSignature_introduction_step1" = "1 a 2-ből";
+"qualifiedElectronicSignature_introduction_subtitle" = "Az Európai szabályoknak megfelelően, a személyazonosságának megerősítéséhez digitálisan alá kell írnia egy dokumentumot.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Általános szerződési feltételek";
+"qualifiedElectronicSignature_introduction_third_party_description" = "A Namirial SpA egy világszerte megbízható szolgáltató, aki tanúsítványt állít ki az elektronikus aláírásának érvényesítésére.";
+"qualifiedElectronicSignature_introduction_title" = "Digitális aláírás létrehozása és használata";
+"qualifiedElectronicSignature_introduction_validation" = "Hozzájárulás szükséges";

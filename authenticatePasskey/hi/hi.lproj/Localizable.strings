@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "जारी रखें";
+"authenticatePasskey_attempts_error_subtitle" = "अब आप पासकी के माध्यम से प्रमाणीकरण नहीं कर सकते।";
+"authenticatePasskey_attempts_error_title" = "अनुमत प्रयासों की सीमा पार हो गई है";
+"authenticatePasskey_error_button_retry" = "फिर से कोशिश करें";
+"authenticatePasskey_error_subtitle" = "एक अज्ञात तकनीकी समस्या हुई है, कृपया फिर से प्रयास करें।";
+"authenticatePasskey_error_title" = "कुछ गलत हो गया है";
+"authenticatePasskey_introduction_bullet_1" = "आपको हमारे साथ पहले पासकी बनानी चाहिए थी।";
+"authenticatePasskey_introduction_bullet_2" = "आपका डिवाइस आपको अगले चरणों के लिए मार्गदर्शन करेगा।";
+"authenticatePasskey_introduction_button_start_authenticating" = "प्रमाणित करें";
+"authenticatePasskey_introduction_subtitle" = "पासकीज़ आपको अपनी उंगली के निशान, चेहरे या डिवाइस स्क्रीन लॉक का उपयोग करके सुरक्षित रूप से साइन इन करने देती हैं।";
+"authenticatePasskey_introduction_title" = "अपनी पासकी से प्रमाणित करें";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "जारी रखें";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "प्रमाणित करने के लिए आपके पास कोई पासकी उपलब्ध नहीं है।";
+"authenticatePasskey_no_passkey_available_error_title" = "कोई पासकी उपलब्ध नहीं है";
+"authenticatePasskey_not_supported_error_button_continue" = "जारी रखें";
+"authenticatePasskey_not_supported_error_subtitle" = "माफ़ करें, आप यह कार्य पूरा नहीं कर सकते।";
+"authenticatePasskey_not_supported_error_title" = "डिवाइस पासकीज़ का समर्थन नहीं करता";

@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Tạo chữ ký của bạn";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Sau khi đọc tài liệu của bạn, nhấn nút \"Ký tài liệu\".";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Một khi Onfido xác minh danh tính của bạn, chữ ký của bạn sẽ được sử dụng trên tài liệu này.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Ký tài liệu";
+"qualifiedElectronicSignature_confirmation_review_document" = "Xem lại tài liệu của bạn để ký";
+"qualifiedElectronicSignature_confirmation_step2" = "2 trên 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Ký vào tài liệu của bạn";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Để xác nhận danh tính của bạn theo quy định của Châu Âu, bạn phải ký số vào một tài liệu.";
+"qualifiedElectronicSignature_confirmation_title" = "Tạo và sử dụng chữ ký số của bạn";
+"qualifiedElectronicSignature_error_misconfigured" = "Rất tiếc, đã xảy ra lỗi. Vui lòng liên hệ với bộ phận hỗ trợ của bạn.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Tạo chữ ký của tôi";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Đơn đăng ký chứng chỉ";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Thông báo bảo mật";
+"qualifiedElectronicSignature_introduction_step1" = "1 trong 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "Để xác nhận danh tính của bạn theo quy định của Châu Âu, bạn phải ký số vào một tài liệu.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Điều khoản và điều kiện";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA là một nhà cung cấp uy tín toàn cầu sẽ cấp chứng chỉ xác thực chữ ký điện tử của bạn.";
+"qualifiedElectronicSignature_introduction_title" = "Tạo và sử dụng chữ ký số của bạn";
+"qualifiedElectronicSignature_introduction_validation" = "Yêu cầu sự đồng ý";

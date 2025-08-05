@@ -1,0 +1,9 @@
+
+"advancedElectronicSignature_error_button_retry" = "Vissza";
+"advancedElectronicSignature_error_subtitle" = "Kérjük, várjon néhány másodpercet, majd próbálja meg újra";
+"advancedElectronicSignature_error_title" = "Hiba történt";
+"advancedElectronicSignature_introduction_bullet_1" = "A hitelesítési felület (signhost.com) egy új ablakban fog megnyílni.";
+"advancedElectronicSignature_introduction_bullet_2" = "A bejelentkezés befejezése után automatikusan vissza lesz irányítva a folyamat folytatásához. Ha ez nem történik meg, kérjük, térjen vissza manuálisan.";
+"advancedElectronicSignature_introduction_button_start_signing" = "Dokumentum(ok) áttekintése és aláírása";
+"advancedElectronicSignature_introduction_subtitle" = "Érintse meg az alábbi gombot az áttekintéshez és aláíráshoz";
+"advancedElectronicSignature_introduction_title" = "Írja alá elektronikusan a szükséges dokumentumokat";

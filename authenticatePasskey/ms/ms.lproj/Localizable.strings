@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Sambung";
+"authenticatePasskey_attempts_error_subtitle" = "Anda tidak lagi boleh mengesahkan melalui kunci laluan.";
+"authenticatePasskey_attempts_error_title" = "Bilangan percubaan yang dibenarkan telah melebihi";
+"authenticatePasskey_error_button_retry" = "Cuba Semula";
+"authenticatePasskey_error_subtitle" = "Masalah teknikal yang tidak diketahui telah berlaku, sila cuba lagi.";
+"authenticatePasskey_error_title" = "Sesuatu telah berlaku salah";
+"authenticatePasskey_introduction_bullet_1" = "Anda mesti telah mencipta kunci laluan dengan kami sebelum ini.";
+"authenticatePasskey_introduction_bullet_2" = "Peranti anda akan membimbing anda melalui langkah-langkah seterusnya.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Sahkan identiti";
+"authenticatePasskey_introduction_subtitle" = "Kunci laluan membolehkan anda log masuk dengan selamat menggunakan cap jari, wajah atau kunci skrin peranti anda.";
+"authenticatePasskey_introduction_title" = "Sahkan dengan Kunci Laluan anda";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Sambung";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "Anda tidak mempunyai kunci laluan yang tersedia untuk pengesahan.";
+"authenticatePasskey_no_passkey_available_error_title" = "Tiada kunci laluan tersedia";
+"authenticatePasskey_not_supported_error_button_continue" = "Sambung";
+"authenticatePasskey_not_supported_error_subtitle" = "Maaf, anda tidak dapat menyelesaikan tugasan ini.";
+"authenticatePasskey_not_supported_error_title" = "Peranti tidak menyokong kunci laluan";

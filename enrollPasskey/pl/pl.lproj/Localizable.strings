@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "Kontynuuj";
+"enrollPasskey_attempts_error_subtitle" = "Nie możesz już uwierzytelniać się za pomocą klucza dostępu.";
+"enrollPasskey_attempts_error_title" = "Przekroczono dozwoloną liczbę prób";
+"enrollPasskey_error_button_retry" = "Spróbuj ponownie";
+"enrollPasskey_error_subtitle" = "Wystąpił nieznany problem techniczny, spróbuj ponownie.";
+"enrollPasskey_error_title" = "Coś poszło nie tak";
+"enrollPasskey_introduction_bullet_1" = "Ten klucz dostępu będzie używany dla domeny: ";
+"enrollPasskey_introduction_bullet_2" = "Twoje urządzenie poprowadzi Cię przez kolejne kroki.";
+"enrollPasskey_introduction_button_start_enrolling" = "Utwórz klucz dostępu";
+"enrollPasskey_introduction_subtitle" = "Klucze dostępu umożliwiają bezpieczne logowanie za pomocą odcisku palca, twarzy lub blokady ekranu urządzenia.";
+"enrollPasskey_introduction_title" = "Skonfiguruj swój klucz dostępu";
+"enrollPasskey_not_supported_error_button_continue" = "Kontynuuj";
+"enrollPasskey_not_supported_error_subtitle" = "Przepraszamy, nie możesz ukończyć tego zadania.";
+"enrollPasskey_not_supported_error_title" = "Urządzenie nie obsługuje kluczy dostępu";

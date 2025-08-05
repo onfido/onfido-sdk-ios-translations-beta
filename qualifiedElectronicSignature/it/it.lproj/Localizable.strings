@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Crea la tua firma";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Dopo aver letto il tuo documento, tocca il pulsante \"Firma documento\".";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Una volta che Onfido verifica la tua identità, la tua firma verrà utilizzata su questo documento.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Firma documento";
+"qualifiedElectronicSignature_confirmation_review_document" = "Rivedi il tuo documento per firmare";
+"qualifiedElectronicSignature_confirmation_step2" = "2 di 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Firma il tuo documento";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Per confermare la tua identità in conformità con le regole europee, devi firmare digitalmente un documento.";
+"qualifiedElectronicSignature_confirmation_title" = "Crea e utilizza la tua firma digitale";
+"qualifiedElectronicSignature_error_misconfigured" = "Purtroppo, si è verificato un errore. Si prega di contattare il vostro supporto.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Crea la mia firma";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Modulo di domanda per certificato";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Avviso sulla privacy";
+"qualifiedElectronicSignature_introduction_step1" = "1 di 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "Per confermare la tua identità in conformità con le regole europee, devi firmare digitalmente un documento.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Termini e condizioni";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA è un fornitore globale di fiducia che rilascerà un certificato per convalidare la tua firma elettronica.";
+"qualifiedElectronicSignature_introduction_title" = "Crea e utilizza la tua firma digitale";
+"qualifiedElectronicSignature_introduction_validation" = "Consenso richiesto";

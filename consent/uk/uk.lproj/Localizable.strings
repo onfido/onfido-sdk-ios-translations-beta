@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "Прийняти";
+"consent_button_secondary" = "Я не приймаю";
+"consent_loading_error_button_primary" = "Перезавантажити екран";
+"consent_loading_error_detail" = "Перевірте, чи з’єднання стабільне, а потім спробуйте ще раз";
+"consent_loading_error_title" = "Не вдалося завантажити вміст";
+"consent_prompt_button_primary" = "Так, не підтверджувати особу";
+"consent_prompt_button_secondary" = "Переглянути ще раз";
+"consent_prompt_no_consent_detail" = "Якщо ви не приймете заяву про конфіденційність та умови обслуговування Onfido, ми не зможемо підтвердити вашу особу й на цьому кроці процедура завершиться.";
+"consent_prompt_no_consent_title" = "Ви впевнені?";

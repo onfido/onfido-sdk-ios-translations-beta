@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "Prijať";
+"consent_button_secondary" = "Neprijať";
+"consent_loading_error_button_primary" = "Znova načítať obrazovku";
+"consent_loading_error_detail" = "Skontrolujte, či je vaše pripojenie stabilné, a potom to skúste znova";
+"consent_loading_error_title" = "Obsah sa nepodarilo načítať";
+"consent_prompt_button_primary" = "Áno, neoverovať ma";
+"consent_prompt_button_secondary" = "Skontrolovať znova";
+"consent_prompt_no_consent_detail" = "Ak nesúhlasíte s vyhláseniami o ochrane osobných údajov a zmluvnými podmienkami spoločnosti Onfido, nebudeme môcť overiť vašu totožnosť a tento krok sa ukončí.";
+"consent_prompt_no_consent_title" = "Naozaj?";

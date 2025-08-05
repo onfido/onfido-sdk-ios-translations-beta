@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Tiếp tục";
+"shareableIdRegistration_registered_subtitle" = "Một khi kết quả của việc xác minh này được biết, bạn sẽ có thể sử dụng lại nó vào lần sau khi bạn cần chứng minh danh tính của mình.";
+"shareableIdRegistration_registered_title" = "Xác minh đã được lưu";
+"shareableIdRegistration_registration_consent_description" = "Chỉ khi bạn nhấp vào nút `Sử dụng một xác minh trước đó` lần tiếp theo thì dữ liệu của bạn mới được sử dụng lại.";
+"shareableIdRegistration_registration_consent_title" = "Chỉ bạn mới có thể đồng ý với việc sử dụng lại các phương pháp xác minh nào";
+"shareableIdRegistration_registration_error_action" = "Quay lại";
+"shareableIdRegistration_registration_error_subtitle" = "Dường như bạn không thể tạo một mật khẩu. Quay lại để thử lại hoặc tiếp tục để hoàn thành quá trình.";
+"shareableIdRegistration_registration_error_title" = "Khóa truy cập không được tạo";
+"shareableIdRegistration_registration_fast_description" = "Thông tin đã được thu thập sẽ được lưu lại, vì vậy bạn có thể sử dụng lại nó thay vì phải trải qua quá trình xác minh danh tính một lần nữa.";
+"shareableIdRegistration_registration_fast_title" = "Đừng bao giờ lãng phí thời gian lặp lại việc xác minh danh tính đã tồn tại";
+"shareableIdRegistration_registration_key_description" = "Giống như mật khẩu được lưu trữ trên thiết bị của bạn, bạn sẽ tạo ra một định danh duy nhất (một khóa truy cập) mà bạn có thể xóa bất cứ lúc nào.";
+"shareableIdRegistration_registration_key_title" = "Bạn sẽ giữ chìa khóa để bỏ qua quy trình";
+"shareableIdRegistration_registration_save" = "Lưu xác minh của bạn";
+"shareableIdRegistration_registration_skip" = "Bỏ qua";
+"shareableIdRegistration_registration_title" = "Xác minh một lần. Sử dụng lại";

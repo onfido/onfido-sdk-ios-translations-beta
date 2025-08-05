@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Pokračovat";
+"shareableIdRetrieval_intro_error_subtitle" = "Na vašem zařízení nemáte rozpoznatelný klíč. Pokračujte prosím v celém procesu.";
+"shareableIdRetrieval_intro_error_title" = "Nebyl nalezen žádný klíč";
+"shareableIdRetrieval_intro_or" = "NEBO";
+"shareableIdRetrieval_intro_searching" = "Hledání předchozích ověření";
+"shareableIdRetrieval_intro_start_idv_action" = "Zahájit ověření identity";
+"shareableIdRetrieval_intro_start_idv_description" = "Požádáme vás o nějakou dokumentaci a osobní informace, které nám mohou pomoci zjistit, kdo tvrdíte, že jste.";
+"shareableIdRetrieval_intro_subtitle" = "Z bezpečnostních důvodů a k ochraně před podvodem potřebujeme ověřit vaši totožnost.";
+"shareableIdRetrieval_intro_title" = "Potvrďte svou totožnost";
+"shareableIdRetrieval_intro_use_sid_action" = "Použijte předchozí ověření";
+"shareableIdRetrieval_intro_use_sid_title" = "Můžete znovu použít pouze ověření, které bylo úspěšně dokončeno a předtím uloženo.";

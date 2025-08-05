@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Probajte ponovo";
+"retry_button_expired_document" = "Probajte ponovo";
+"retry_button_generic_document_issue" = "Probajte ponovo";
+"retry_button_generic_selfie_issue" = "Probajte ponovo";
+"retry_button_unaccepted_document" = "Probajte ponovo";
+"retry_description_default" = "Probajte ponovo";
+"retry_description_expired_document" = "Probajte ponovo sa važećim ID-jem sa fotografijom i proverite da li se podaci jasno vide";
+"retry_description_generic_document_issue" = "Probajte ponovo sa važećim ID-jem sa fotografijom i proverite da li se podaci jasno vide";
+"retry_description_generic_selfie_issue" = "Probajte ponovo i proverite da li vam se vidi lice i da li je dobro osvetljeno";
+"retry_description_unaccepted_document" = "Probajte ponovo sa važećim ID-jem sa fotografijom i proverite da li se podaci jasno vide";
+"retry_headline_default" = "Došlo je do problema";
+"retry_headline_expired_document" = "Vaš dokument je istekao";
+"retry_headline_generic_document_issue" = "Došlo je do problema sa vašim dokumentom";
+"retry_headline_generic_selfie_issue" = "Došlo je do problema sa vašim selfijem";
+"retry_headline_unaccepted_document" = "Neprihvaćen dokument";

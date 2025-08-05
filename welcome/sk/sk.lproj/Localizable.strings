@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Spustite overenie";
+"welcome_button_studio" = "Spustite overenie";
+"welcome_button_trial" = "Spustite overenie (TEST)";
+"welcome_list_header_default" = "Pomocou zariadenia vykonajte tieto kroky:";
+"welcome_list_header_doc_video" = "Pomocou zariadenia zaznamenajte:";
+"welcome_list_item_active_video" = "Zaznamenajte video svojej tváre";
+"welcome_list_item_document" = "Odfoťte doklad totožnosti";
+"welcome_list_item_document_video" = "Zaznamenajte video dokladu totožnosti";
+"welcome_list_item_face" = "Odfoťte svoju tvár";
+"welcome_list_item_face_video" = "Zaznamenajte video svojej tváre";
+"welcome_list_item_poa" = "Odfoťte doklad s adresou";
+"welcome_subtitle" = "Malo by to trvať niekoľko minút";
+"welcome_timeout_default" = "Nahrávanie je obmedzené na  sekundy";
+"welcome_title" = "Overte svoju totožnosť";
+"welcome_warning_trial" = "Nezdieľajte tu osobné údaje, pokiaľ nepoužívate skúšobnú verziu služby Onfido.";
+"welcome_warning_trial_title" = "Toto je skúšobná verzia";

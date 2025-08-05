@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Rozpocznij weryfikację";
+"welcome_button_studio" = "Rozpocznij weryfikację";
+"welcome_button_trial" = "Rozpocznij weryfikację (TEST)";
+"welcome_list_header_default" = "Użyj urządzenia, aby:";
+"welcome_list_header_doc_video" = "Użyj urządzenia, aby nagrać:";
+"welcome_list_item_active_video" = "Nagrać wideo swojej twarzy";
+"welcome_list_item_document" = "Zrobić zdjęcie swojego dokumentu tożsamości";
+"welcome_list_item_document_video" = "Nagrać wideo z dokumentem tożsamości";
+"welcome_list_item_face" = "Zrobić zdjęcie swojej twarzy";
+"welcome_list_item_face_video" = "Nagrać wideo swojej twarzy";
+"welcome_list_item_poa" = "Zrobić zdjęcie dokumentu z Twoim adresem";
+"welcome_subtitle" = "Powinno to zająć kilka minut";
+"welcome_timeout_default" = "Nagrywanie jest ograniczone do  sekund";
+"welcome_title" = "Zweryfikuj swoją tożsamość";
+"welcome_warning_trial" = "Nie udostępniaj danych osobowych w tym miejscu, chyba że bierzesz udział w badaniu Onfido.";
+"welcome_warning_trial_title" = "To jest wersja próbna";

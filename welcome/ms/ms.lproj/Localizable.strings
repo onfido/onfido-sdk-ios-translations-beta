@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Mulakan pengesahan";
+"welcome_button_studio" = "Mulakan pengesahan";
+"welcome_button_trial" = "Mulakan pengesahan (PERCUBAAN)";
+"welcome_list_header_default" = "Gunakan peranti anda untuk:";
+"welcome_list_header_doc_video" = "Guna peranti anda untuk merakam:";
+"welcome_list_item_active_video" = "Rakam video wajah anda";
+"welcome_list_item_document" = "Ambil gambar dokumen pengenalan anda";
+"welcome_list_item_document_video" = "Rakam video dokumen pengenalan anda";
+"welcome_list_item_face" = "Ambil gambar wajah anda";
+"welcome_list_item_face_video" = "Rakam video wajah anda";
+"welcome_list_item_poa" = "Ambil gambar dokumen yang mempunyai alamat anda";
+"welcome_subtitle" = "Ia akan mengambil masa beberapa minit";
+"welcome_timeout_default" = "Rakaman terhad kepada ​​​​ saat";
+"welcome_title" = "Sahkan identiti anda";
+"welcome_warning_trial" = "Jangan kongsi data peribadi di sini melainkan anda terlibat dalam percubaan Onfido.";
+"welcome_warning_trial_title" = "Ini adalah percubaan";

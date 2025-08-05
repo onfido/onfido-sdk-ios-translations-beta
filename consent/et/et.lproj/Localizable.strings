@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "Nõustuge";
+"consent_button_secondary" = "Ärge nõustuge";
+"consent_loading_error_button_primary" = "Laadige ekraan uuesti";
+"consent_loading_error_detail" = "Kontrollige, kas ühendus on stabiilne ning proovige uuesti";
+"consent_loading_error_title" = "Sisu laadimine ebaõnnestus";
+"consent_prompt_button_primary" = "Jah, jätke mu isik tuvastamata";
+"consent_prompt_button_secondary" = "Vaadake uuesti üle";
+"consent_prompt_no_consent_detail" = "Kui te ei nõustu Onfido isikuandmete kaitset käsitlevate teatiste ja teenusetingimustega, ei saa me teie isikut tuvastada ja käesolev tegevus lõpetatakse.";
+"consent_prompt_no_consent_title" = "Kas olete kindel?";

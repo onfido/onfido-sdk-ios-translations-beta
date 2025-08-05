@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "जारी रखें";
+"enrollPasskey_attempts_error_subtitle" = "अब आप पासकी के माध्यम से प्रमाणीकरण नहीं कर सकते।";
+"enrollPasskey_attempts_error_title" = "अनुमत प्रयासों की सीमा पार हो गई है";
+"enrollPasskey_error_button_retry" = "फिर से कोशिश करें";
+"enrollPasskey_error_subtitle" = "कोई अज्ञात तकनीकी समस्या हुई है, कृपया फिर से प्रयास करें।";
+"enrollPasskey_error_title" = "कुछ गलत हो गया है";
+"enrollPasskey_introduction_bullet_1" = "यह पासकी इस डोमेन के लिए उपयोग की जाएगी: ";
+"enrollPasskey_introduction_bullet_2" = "आपका डिवाइस आपको अगले चरणों के लिए मार्गदर्शन करेगा।";
+"enrollPasskey_introduction_button_start_enrolling" = "पासकी बनाएं";
+"enrollPasskey_introduction_subtitle" = "पासकीज़ आपको अपनी उंगली के निशान, चेहरे या डिवाइस स्क्रीन लॉक का उपयोग करके सुरक्षित रूप से साइन इन करने देती हैं।";
+"enrollPasskey_introduction_title" = "अपनी पासकी सेट करें";
+"enrollPasskey_not_supported_error_button_continue" = "जारी रखें";
+"enrollPasskey_not_supported_error_subtitle" = "माफ़ करें, आप यह कार्य पूरा नहीं कर सकते।";
+"enrollPasskey_not_supported_error_title" = "डिवाइस पासकीज़ का समर्थन नहीं करता";

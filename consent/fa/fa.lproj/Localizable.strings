@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "می‌پذیرم";
+"consent_button_secondary" = "نمی‌پذیرم";
+"consent_loading_error_button_primary" = "بارگذاری مجدد صفحه";
+"consent_loading_error_detail" = "بررسی کنید که اتصال اینترنت برقرار است، سپس دوباره سعی کنید";
+"consent_loading_error_title" = "بارگذاری محتوا انجام نشد";
+"consent_prompt_button_primary" = "بله، فرآیند تأیید را متوقف کن";
+"consent_prompt_button_secondary" = "بازبینی مجدد";
+"consent_prompt_no_consent_detail" = "اگر اطلاعیه حریم خصوصی و شرایط خدمات Onfido را نپذیرید، نمی‌توانیم هویت شما را تأیید کنیم و از این مرحله خارج خواهید شد.";
+"consent_prompt_no_consent_title" = "آیا مطمئن هستید؟";

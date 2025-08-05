@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Teruskan";
+"shareableIdRegistration_registered_subtitle" = "Setelah hasil daripada pengesahan ini diketahui, anda akan dapat menggunakannya semula pada kali seterusnya apabila anda perlu membuktikan identiti anda.";
+"shareableIdRegistration_registered_title" = "Pengesahan disimpan";
+"shareableIdRegistration_registration_consent_description" = "Jika anda mengklik butang `Gunakan pengesahan sebelumnya` pada kali seterusnya, hanya pada masa itu data anda akan digunakan semula.";
+"shareableIdRegistration_registration_consent_title" = "Hanya anda boleh bersetuju kepada verifikasi mana yang digunakan semula";
+"shareableIdRegistration_registration_error_action" = "Kembali";
+"shareableIdRegistration_registration_error_subtitle" = "Rupanya anda tidak dapat membuat kunci laluan. Kembali untuk mencuba semula atau teruskan ke proses lengkap.";
+"shareableIdRegistration_registration_error_title" = "Kunci laluan tidak dicipta";
+"shareableIdRegistration_registration_fast_description" = "Maklumat yang telah dikumpul akan disimpan, jadi anda boleh menggunakannya semula daripada melalui proses pengesahan identiti sekali lagi.";
+"shareableIdRegistration_registration_fast_title" = "Jangan pernah membuang masa mengulangi pengesahan yang sudah ada";
+"shareableIdRegistration_registration_key_description" = "Seperti kata laluan yang disimpan pada peranti anda, anda akan mencipta pengenal unik (kunci laluan) yang boleh anda padam pada bila-bila masa.";
+"shareableIdRegistration_registration_key_title" = "Anda akan memegang kunci untuk melompati aliran";
+"shareableIdRegistration_registration_save" = "Simpan pengesahan anda";
+"shareableIdRegistration_registration_skip" = "Lompat";
+"shareableIdRegistration_registration_title" = "Sahkan sekali. Guna semula lagi";

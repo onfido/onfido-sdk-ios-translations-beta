@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "Tiếp tục";
+"enrollPasskey_attempts_error_subtitle" = "Bạn không thể xác thực bằng khóa bảo mật nữa.";
+"enrollPasskey_attempts_error_title" = "Vượt quá số lần thử cho phép";
+"enrollPasskey_error_button_retry" = "Thử lại";
+"enrollPasskey_error_subtitle" = "Đã xảy ra sự cố kỹ thuật không xác định, vui lòng thử lại.";
+"enrollPasskey_error_title" = "Có gì đó đã sai";
+"enrollPasskey_introduction_bullet_1" = "Khóa truy cập này sẽ được sử dụng cho miền: ";
+"enrollPasskey_introduction_bullet_2" = "Thiết bị của bạn sẽ hướng dẫn bạn qua các bước tiếp theo.";
+"enrollPasskey_introduction_button_start_enrolling" = "Tạo khóa truy cập";
+"enrollPasskey_introduction_subtitle" = "Passkey cho phép bạn đăng nhập an toàn bằng dấu vân tay, khuôn mặt hoặc khóa màn hình thiết bị của bạn.";
+"enrollPasskey_introduction_title" = "Thiết lập Passkey của bạn";
+"enrollPasskey_not_supported_error_button_continue" = "Tiếp tục";
+"enrollPasskey_not_supported_error_subtitle" = "Rất tiếc, bạn không thể hoàn thành tác vụ này.";
+"enrollPasskey_not_supported_error_title" = "Thiết bị không hỗ trợ khóa bảo mật";

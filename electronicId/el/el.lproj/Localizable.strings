@@ -1,0 +1,17 @@
+
+"electronicId_qr_code_description" = "Ανοίξτε την εφαρμογή BankID στο τηλέφωνό σας και πατήστε το εικονίδιο του QR κώδικα";
+"electronicId_qr_code_error_code_expired" = "Ο κωδικός QR σας έχει λήξει, παρακαλώ ζητήστε έναν νέο";
+"electronicId_qr_code_refresh_cta" = "Ζητήστε έναν νέο κωδικό QR";
+"electronicId_qr_code_title" = "Επαλήθευση BankID";
+"electronicId_redirection_cross_device" = "Συνδέστε άλλη συσκευή";
+"electronicId_redirection_description" = "Μπορείτε να συνδεθείτε μέσω του κινητού σας τηλεφώνου ή ενός άλλου συσκευής";
+"electronicId_redirection_list_title" = "Επιλέξτε μια μέθοδο";
+"electronicId_redirection_open_in_app" = "Ανοίξτε την εφαρμογή";
+"electronicId_redirection_scheme_SwedenBankId_open_in_app" = "Ανοίξτε την εφαρμογή BankID";
+"electronicId_redirection_title" = "Επιλέξτε πώς να συνδεθείτε";
+"electronicId_scheme_form_subtitle" = "Επιλέξτε μια τράπεζα από τη λίστα παρακάτω για να επαληθεύσετε τον εαυτό σας μέσω ";
+"electronicId_scheme_form_title" = " Verification";
+"electronicId_selection_description" = "Επιλέξτε τη χώρα έκδοσης για να δείτε ποιες μεθόδους δεχόμαστε";
+"electronicId_selection_list_title" = "Επιλέξτε μια μέθοδο";
+"electronicId_selection_select_label" = "Εκδούσα χώρα";
+"electronicId_selection_title" = "Επαληθεύστε την ταυτότητά σας";

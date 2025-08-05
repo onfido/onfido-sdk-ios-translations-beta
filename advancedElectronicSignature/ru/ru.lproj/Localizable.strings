@@ -1,0 +1,9 @@
+
+"advancedElectronicSignature_error_button_retry" = "Назад";
+"advancedElectronicSignature_error_subtitle" = "Пожалуйста, подождите несколько секунд и попробуйте снова";
+"advancedElectronicSignature_error_title" = "Что-то пошло не так";
+"advancedElectronicSignature_introduction_bullet_1" = "Окно для подписания (signhost.com) откроется в новом окне.";
+"advancedElectronicSignature_introduction_bullet_2" = "После завершения подписания вы будете перенаправлены обратно для продолжения работы. Если этого не произошло, пожалуйста, вернитесь вручную.";
+"advancedElectronicSignature_introduction_button_start_signing" = "Просмотрите и подпишите документ(ы)";
+"advancedElectronicSignature_introduction_subtitle" = "Нажмите кнопку ниже, чтобы просмотреть и подписать";
+"advancedElectronicSignature_introduction_title" = "Электронно подпишите необходимый(е) документ(ы)";

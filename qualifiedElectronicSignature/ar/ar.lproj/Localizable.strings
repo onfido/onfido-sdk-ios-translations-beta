@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "أنشئ توقيعك";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "بعد قراءة الوثيقة الخاصة بك، اضغط على زر \"توقيع الوثيقة\".";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "بمجرد أن يتحقق Onfido من هويتك، سيتم استخدام توقيعك على هذا الوثيقة.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "وقع الوثيقة";
+"qualifiedElectronicSignature_confirmation_review_document" = "راجع وثيقتك للتوقيع";
+"qualifiedElectronicSignature_confirmation_step2" = "2 من 2";
+"qualifiedElectronicSignature_confirmation_steps" = "وقع على الوثيقة الخاصة بك";
+"qualifiedElectronicSignature_confirmation_subtitle" = "لتأكيد هويتك وفقًا للقواعد الأوروبية، يجب عليك التوقيع الرقمي على وثيقة.";
+"qualifiedElectronicSignature_confirmation_title" = "قم بإنشاء واستخدام توقيعك الرقمي";
+"qualifiedElectronicSignature_error_misconfigured" = "للأسف، حدث خطأ. يرجى الاتصال بالدعم الخاص بك.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "أنشئ توقيعي";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "نموذج طلب شهادة";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "إشعار الخصوصية";
+"qualifiedElectronicSignature_introduction_step1" = "1 من 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "لتأكيد هويتك وفقًا للقواعد الأوروبية، يجب عليك التوقيع الرقمي على وثيقة.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "الشروط والأحكام";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA هو مزود عالمي موثوق سيصدر شهادة تؤكد توقيعك الإلكتروني.";
+"qualifiedElectronicSignature_introduction_title" = "قم بإنشاء واستخدام توقيعك الرقمي";
+"qualifiedElectronicSignature_introduction_validation" = "الموافقة مطلوبة";

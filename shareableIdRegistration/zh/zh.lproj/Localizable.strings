@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "继续";
+"shareableIdRegistration_registered_subtitle" = "一旦知道了此验证的结果，下次需要证明您的身份时，您将能够再次使用它。";
+"shareableIdRegistration_registered_title" = "验证已保存";
+"shareableIdRegistration_registration_consent_description" = "只有在您下次点击“使用以前的验证”按钮时，您的数据才会再次被使用。";
+"shareableIdRegistration_registration_consent_title" = "只有您可以同意重复使用哪些验证";
+"shareableIdRegistration_registration_error_action" = "返回";
+"shareableIdRegistration_registration_error_subtitle" = "看来您无法创建密码。返回重试或继续完成整个过程。";
+"shareableIdRegistration_registration_error_title" = "未创建通行密钥";
+"shareableIdRegistration_registration_fast_description" = "已收集的信息将被保存，因此您可以重复使用它，而不是再次进行身份验证过程。";
+"shareableIdRegistration_registration_fast_title" = "永远不要浪费时间重复已经存在的身份验证";
+"shareableIdRegistration_registration_key_description" = "就像密码存储在您的设备上一样，您将创建一个独特的标识符（一个通行证），您可以在任何时候删除它。";
+"shareableIdRegistration_registration_key_title" = "您将持有跳过流程的关键";
+"shareableIdRegistration_registration_save" = "保存您的身份验证";
+"shareableIdRegistration_registration_skip" = "跳过";
+"shareableIdRegistration_registration_title" = "验证一次，再次使用";

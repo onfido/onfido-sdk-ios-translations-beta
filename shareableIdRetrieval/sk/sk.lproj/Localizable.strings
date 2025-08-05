@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Pokračovať";
+"shareableIdRetrieval_intro_error_subtitle" = "Nemáte rozpoznateľný kľúč na svojom zariadení. Pokračujte prosím v celom procese.";
+"shareableIdRetrieval_intro_error_title" = "Nenašiel sa žiadny kľúč";
+"shareableIdRetrieval_intro_or" = "ALEBO";
+"shareableIdRetrieval_intro_searching" = "Hľadanie predchádzajúcich overení";
+"shareableIdRetrieval_intro_start_idv_action" = "Začnite overovanie identity";
+"shareableIdRetrieval_intro_start_idv_description" = "Požiadame vás o niektoré dokumenty a osobné informácie, ktoré nám môžu pomôcť overiť, či ste to vy, za koho sa vydávate.";
+"shareableIdRetrieval_intro_subtitle" = "Z bezpečnostných dôvodov a na ochranu pred podvodmi potrebujeme overiť vašu totožnosť.";
+"shareableIdRetrieval_intro_title" = "Overte svoju totožnosť";
+"shareableIdRetrieval_intro_use_sid_action" = "Použite predchádzajúce overenie";
+"shareableIdRetrieval_intro_use_sid_title" = "Môžete znovu použiť iba overenie, ktoré bolo úspešne dokončené a predtým uložené.";

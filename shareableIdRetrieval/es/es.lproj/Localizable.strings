@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Continuar";
+"shareableIdRetrieval_intro_error_subtitle" = "No tienes una clave de paso reconocible en tu dispositivo. Por favor, continúa con el proceso completo.";
+"shareableIdRetrieval_intro_error_title" = "No se encontró la clave de acceso";
+"shareableIdRetrieval_intro_or" = "O";
+"shareableIdRetrieval_intro_searching" = "Buscando verificaciones anteriores";
+"shareableIdRetrieval_intro_start_idv_action" = "Inicie la verificación de identidad";
+"shareableIdRetrieval_intro_start_idv_description" = "Solicitaremos algunos documentos e información personal de ti, que pueden ayudarnos a saber quién dices ser.";
+"shareableIdRetrieval_intro_subtitle" = "Por razones de seguridad y para protegerte de fraudes necesitamos verificar tu identidad.";
+"shareableIdRetrieval_intro_title" = "Verifique su identidad";
+"shareableIdRetrieval_intro_use_sid_action" = "Use una verificación anterior";
+"shareableIdRetrieval_intro_use_sid_title" = "Solo puedes reutilizar una verificación que se haya completado y guardado con éxito previamente.";

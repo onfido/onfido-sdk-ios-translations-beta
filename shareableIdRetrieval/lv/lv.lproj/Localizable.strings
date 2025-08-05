@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Turpināt";
+"shareableIdRetrieval_intro_error_subtitle" = "Jums nav atpazīstama piekļuves atslēga jūsu ierīcē. Lūdzu, turpiniet līdz procesa beigām.";
+"shareableIdRetrieval_intro_error_title" = "Nav atrasta piekļuves atslēga";
+"shareableIdRetrieval_intro_or" = "VAI";
+"shareableIdRetrieval_intro_searching" = "Meklē iepriekšējās verifikācijas";
+"shareableIdRetrieval_intro_start_idv_action" = "Sākt identitātes pārbaudi";
+"shareableIdRetrieval_intro_start_idv_description" = "Mēs pieprasīsim no jums dažus dokumentus un personīgo informāciju, kas mums palīdzēs uzzināt, vai jūs esat tas, par ko jūs sevi uzdodat.";
+"shareableIdRetrieval_intro_subtitle" = "Drošības apsvērumu dēļ un lai aizsargātu jūs no krāpšanas, mums ir jāpārbauda jūsu identitāte.";
+"shareableIdRetrieval_intro_title" = "Apstipriniet savu identitāti";
+"shareableIdRetrieval_intro_use_sid_action" = "Izmantojiet iepriekšējo verifikāciju";
+"shareableIdRetrieval_intro_use_sid_title" = "Jūs varat atkārtoti izmantot tikai to verifikāciju, kas ir veiksmīgi pabeigta un iepriekš saglabāta.";

@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "Bersetuju";
+"consent_button_secondary" = "Tidak bersetuju";
+"consent_loading_error_button_primary" = "Muat semula skrin";
+"consent_loading_error_detail" = "Sila periksa sama ada sambungan anda stabil dan cuba lagi kemudian";
+"consent_loading_error_title" = "Kandungan gagal dimuatkan";
+"consent_prompt_button_primary" = "Ya, jangan sahkan saya";
+"consent_prompt_button_secondary" = "Semak semula";
+"consent_prompt_no_consent_detail" = "Jika anda tidak bersetuju dengan pernyataan privasi dan terma perkhidmatan Onfido, kami tidak akan dapat mengesahkan identiti anda dan anda akan keluar daripada langkah ini.";
+"consent_prompt_no_consent_title" = "Adakah anda pasti?";

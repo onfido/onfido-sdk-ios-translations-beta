@@ -1,0 +1,9 @@
+
+"advancedElectronicSignature_error_button_retry" = "Volver";
+"advancedElectronicSignature_error_subtitle" = "Por favor, espera unos segundos y vuelve a intentarlo";
+"advancedElectronicSignature_error_title" = "Algo salió mal";
+"advancedElectronicSignature_introduction_bullet_1" = "El entorno de firma (signhost.com) se abrirá en una nueva ventana.";
+"advancedElectronicSignature_introduction_bullet_2" = "Una vez que la firma esté completa, serás redirigido para continuar con el proceso. Si no es así, por favor regresa manualmente.";
+"advancedElectronicSignature_introduction_button_start_signing" = "Revisar y firmar documento(s)";
+"advancedElectronicSignature_introduction_subtitle" = "Toca el botón de abajo para revisar y firmar";
+"advancedElectronicSignature_introduction_title" = "Firma digitalmente el/los documento(s) requerido(s)";

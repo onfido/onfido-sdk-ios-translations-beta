@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Doorgaan";
+"authenticatePasskey_attempts_error_subtitle" = "U kunt niet langer authenticeren via een passkey.";
+"authenticatePasskey_attempts_error_title" = "Toegestane pogingen overschreden";
+"authenticatePasskey_error_button_retry" = "Opnieuw proberen";
+"authenticatePasskey_error_subtitle" = "Er is een onbekend technisch probleem opgetreden, probeer het opnieuw.";
+"authenticatePasskey_error_title" = "Iets is misgegaan";
+"authenticatePasskey_introduction_bullet_1" = "U moet in het verleden een passkey bij ons hebben aangemaakt.";
+"authenticatePasskey_introduction_bullet_2" = "Uw apparaat zal u door de volgende stappen leiden.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Authenticeren";
+"authenticatePasskey_introduction_subtitle" = "Passkeys stellen u in staat om veilig in te loggen met uw vingerafdruk, gezicht of schermvergrendeling van uw apparaat.";
+"authenticatePasskey_introduction_title" = "Authenticeer met uw Passkey";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Doorgaan";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "U heeft geen passkey beschikbaar om mee te authenticeren.";
+"authenticatePasskey_no_passkey_available_error_title" = "Geen passkey beschikbaar";
+"authenticatePasskey_not_supported_error_button_continue" = "Doorgaan";
+"authenticatePasskey_not_supported_error_subtitle" = "Sorry, u kunt deze taak niet voltooien.";
+"authenticatePasskey_not_supported_error_title" = "Apparaat ondersteunt geen passkeys";

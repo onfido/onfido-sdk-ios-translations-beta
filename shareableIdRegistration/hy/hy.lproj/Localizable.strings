@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Շարունակել";
+"shareableIdRegistration_registered_subtitle" = "Այս հաստատման արդյունքը հայտնի լինելու հետո, դուք կարող եք այն վերագործել հաջորդ անգամ ձեր իսկությունը ապացուցելու դեպքում:";
+"shareableIdRegistration_registered_title" = "Հաստատումը պահպանվել է";
+"shareableIdRegistration_registration_consent_description" = "Ձեր տվյալները կվերաօգտագործվեն միայն հաջորդ անգամ `Օգտագործել նախորդ ստուգումը` կոճակը սեղմելու դեպքում։";
+"shareableIdRegistration_registration_consent_title" = "Միայն դուք կարող եք համաձայնվել, թե որ հաստատումները վերագործվում են";
+"shareableIdRegistration_registration_error_action" = "Վերադառնալ";
+"shareableIdRegistration_registration_error_subtitle" = "Կարծես, դուք չկարողացաք ստեղծել անցաբառ։ Վերադառնաք վերսկսելու կամ շարունակեք ամբողջ գործընթացը։";
+"shareableIdRegistration_registration_error_title" = "Բանալին չի ստեղծվել";
+"shareableIdRegistration_registration_fast_description" = "Արդեն հավաքված տեղեկությունը պահպանվելու է, ուստի դուք կարող եք այն վերագործել՝ չգնալով նորից իսկության ստուգման գործընթացի միջոցով:";
+"shareableIdRegistration_registration_fast_title" = "Երբեք մի կորցրեք ժամանակ կրկնելով հաստատում, որը արդեն գոյություն ունի";
+"shareableIdRegistration_registration_key_description" = "Նման գաղտնաբառի, որը պահվում է ձեր սարքում, դուք կստեղծեք եզակի նույնականացուցիչ (անցաբառ), որը կարող եք ջնջել ամեն պահից։";
+"shareableIdRegistration_registration_key_title" = "Դուք պահպանեք բանալին հոսքը բաց թողնելու համար";
+"shareableIdRegistration_registration_save" = "Պահպանեք ձեր ստուգմանը";
+"shareableIdRegistration_registration_skip" = "Բաց թողնել";
+"shareableIdRegistration_registration_title" = "Ստուգեք մեկ անգամ։ Նորից օգտագործեք";

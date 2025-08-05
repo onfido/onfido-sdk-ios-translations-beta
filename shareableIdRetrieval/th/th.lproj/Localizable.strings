@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "ดำเนินการต่อ";
+"shareableIdRetrieval_intro_error_subtitle" = "คุณไม่มีรหัสผ่านที่สามารถระบุได้บนอุปกรณ์ของคุณ โปรดดำเนินการต่อไปในกระบวนการทั้งหมด";
+"shareableIdRetrieval_intro_error_title" = "ไม่พบรหัสผ่าน";
+"shareableIdRetrieval_intro_or" = "หรือ";
+"shareableIdRetrieval_intro_searching" = "กำลังค้นหาการยืนยันตัวตนก่อนหน้า";
+"shareableIdRetrieval_intro_start_idv_action" = "เริ่มการตรวจสอบตัวตน";
+"shareableIdRetrieval_intro_start_idv_description" = "เราจะขอเอกสารบางอย่างและข้อมูลส่วนบุคคลจากคุณ ซึ่งสามารถช่วยให้เราทราบว่าคุณคือใครที่คุณกล่าว";
+"shareableIdRetrieval_intro_subtitle" = "เพื่อเหตุผลด้านความปลอดภัยและป้องกันการฉ้อโกง เราจำเป็นต้องตรวจสอบตัวตนของคุณ";
+"shareableIdRetrieval_intro_title" = "ยืนยันตัวตน";
+"shareableIdRetrieval_intro_use_sid_action" = "ใช้การยืนยันตัวตนก่อนหน้า";
+"shareableIdRetrieval_intro_use_sid_title" = "คุณสามารถใช้การตรวจสอบตัวตนที่ได้ทำการสำเร็จและบันทึกไว้ก่อนหน้านี้เท่านั้น";

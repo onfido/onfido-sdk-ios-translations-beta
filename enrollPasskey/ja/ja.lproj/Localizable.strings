@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "続行";
+"enrollPasskey_attempts_error_subtitle" = "パスキーによる認証はこれ以上できません。";
+"enrollPasskey_attempts_error_title" = "許可された試行回数を超えました";
+"enrollPasskey_error_button_retry" = "再試行";
+"enrollPasskey_error_subtitle" = "不明な技術的問題が発生しました。もう一度お試しください。";
+"enrollPasskey_error_title" = "何かが間違っています";
+"enrollPasskey_introduction_bullet_1" = "このパスキーはドメイン：で使用されます";
+"enrollPasskey_introduction_bullet_2" = "デバイスが次の手順を案内します。";
+"enrollPasskey_introduction_button_start_enrolling" = "パスキーを作成する";
+"enrollPasskey_introduction_subtitle" = "パスキーを使うと、指紋、顔、またはデバイスの画面ロックで安全にサインインできます。";
+"enrollPasskey_introduction_title" = "パスキーを設定する";
+"enrollPasskey_not_supported_error_button_continue" = "続行";
+"enrollPasskey_not_supported_error_subtitle" = "申し訳ありませんが、このタスクを完了できません。";
+"enrollPasskey_not_supported_error_title" = "このデバイスはパスキーに対応していません";

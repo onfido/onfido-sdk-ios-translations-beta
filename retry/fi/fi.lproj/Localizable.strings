@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Yritä uud.";
+"retry_button_expired_document" = "Yritä uud.";
+"retry_button_generic_document_issue" = "Yritä uud.";
+"retry_button_generic_selfie_issue" = "Yritä uud.";
+"retry_button_unaccepted_document" = "Yritä uud.";
+"retry_description_default" = "Yritä uudelleen";
+"retry_description_expired_document" = "Yritä uudelleen voimassa olevalla kuvallisella ID:llä ja varmista, että tietosi näkyvät selvästi";
+"retry_description_generic_document_issue" = "Yritä uudelleen voimassa olevalla kuvallisella ID:llä ja varmista, että tietosi näkyvät selvästi";
+"retry_description_generic_selfie_issue" = "Yritä uudelleen ja varmista, että kasvosi ovat näkyvissä ja hyvin valaistut";
+"retry_description_unaccepted_document" = "Yritä uudelleen voimassa olevalla kuvallisella ID:llä ja varmista, että tietosi näkyvät selvästi";
+"retry_headline_default" = "Oli ongelma";
+"retry_headline_expired_document" = "Asiakirjasi on vanhentunut";
+"retry_headline_generic_document_issue" = "Asiakirjassasi oli ongelma";
+"retry_headline_generic_selfie_issue" = "Oli ongelma selfienne kanssa";
+"retry_headline_unaccepted_document" = "Asiakirjaa ei hyväksytä";

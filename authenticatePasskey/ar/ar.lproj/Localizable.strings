@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "استمر";
+"authenticatePasskey_attempts_error_subtitle" = "لم يعد بإمكانك المصادقة باستخدام مفتاح المرور.";
+"authenticatePasskey_attempts_error_title" = "تم تجاوز عدد المحاولات المسموح بها";
+"authenticatePasskey_error_button_retry" = "إعادة المحاولة";
+"authenticatePasskey_error_subtitle" = "حدثت مشكلة تقنية غير معروفة، يرجى إعادة المحاولة.";
+"authenticatePasskey_error_title" = "حدث خطأ ما";
+"authenticatePasskey_introduction_bullet_1" = "يجب أن تكون قد أنشأت مفتاح مرور معنا في السابق.";
+"authenticatePasskey_introduction_bullet_2" = "سيرشدك جهازك خلال الخطوات التالية.";
+"authenticatePasskey_introduction_button_start_authenticating" = "تحقق من الهوية";
+"authenticatePasskey_introduction_subtitle" = "تتيح لك مفاتيح المرور تسجيل الدخول بأمان باستخدام بصمة الإصبع أو الوجه أو قفل شاشة الجهاز.";
+"authenticatePasskey_introduction_title" = "قم بالمصادقة باستخدام مفتاح الدخول الخاص بك";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "استمر";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "ليس لديك مفتاح مرور متاح للمصادقة به.";
+"authenticatePasskey_no_passkey_available_error_title" = "لا يوجد مفتاح دخول متاح";
+"authenticatePasskey_not_supported_error_button_continue" = "استمر";
+"authenticatePasskey_not_supported_error_subtitle" = "عذرًا، لا يمكنك إكمال هذه المهمة.";
+"authenticatePasskey_not_supported_error_title" = "الجهاز لا يدعم مفاتيح المرور";

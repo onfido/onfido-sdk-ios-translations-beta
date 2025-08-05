@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "Piekrist";
+"consent_button_secondary" = "Nepiekrist";
+"consent_loading_error_button_primary" = "Ielādēt ekrānu no jauna";
+"consent_loading_error_detail" = "Pārbaudiet, vai savienojums ir stabils, un pēc tam mēģiniet vēlreiz";
+"consent_loading_error_title" = "Saturu neizdevās ielādēt";
+"consent_prompt_button_primary" = "Nē, neveikt man pārbaudi";
+"consent_prompt_button_secondary" = "Pārskatīt vēlreiz";
+"consent_prompt_no_consent_detail" = "Ja nepiekritīsiet Onfido paziņojumiem par konfidencialitāti un pakalpojumu sniegšanas noteikumiem, mēs nevarēsim pārbaudīt jūsu identitāti un jūs iziesiet no šīs darbības.";
+"consent_prompt_no_consent_title" = "Vai esat pārliecināts?";

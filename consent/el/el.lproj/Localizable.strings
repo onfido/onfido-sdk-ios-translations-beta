@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "Αποδοχή";
+"consent_button_secondary" = "Μη αποδοχή";
+"consent_loading_error_button_primary" = "Επαναφόρτωση οθόνης";
+"consent_loading_error_detail" = "Βεβαιωθείτε ότι η σύνδεσή σας είναι σταθερή και, στη συνέχεια, δοκιμάστε ξανά";
+"consent_loading_error_title" = "Αποτυχία φόρτωσης περιεχομένου";
+"consent_prompt_button_primary" = "Ναι, μην με επαληθεύσετε";
+"consent_prompt_button_secondary" = "Νέος έλεγχος";
+"consent_prompt_no_consent_detail" = "Εάν δεν αποδεχτείτε τις δήλωση προστασίας προσωπικών δεδομένων και τους όρους χρήσης του Onfido, δεν θα μπορέσουμε να επαληθεύσουμε την ταυτότητά σας και θα εξέλθετε από αυτό το βήμα.";
+"consent_prompt_no_consent_title" = "Είστε σίγουρος/-η;";

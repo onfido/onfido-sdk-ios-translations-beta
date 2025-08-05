@@ -1,0 +1,16 @@
+
+"retry_button_default" = "다시 시도하기";
+"retry_button_expired_document" = "다시 시도하기";
+"retry_button_generic_document_issue" = "다시 시도하기";
+"retry_button_generic_selfie_issue" = "다시 시도하기";
+"retry_button_unaccepted_document" = "다시 시도하기";
+"retry_description_default" = "다시 시도해주세요";
+"retry_description_expired_document" = "사진이 부착된 유효한 신분증으로 다시 시도하고 정보가 선명하게 보이는지 확인하세요";
+"retry_description_generic_document_issue" = "사진이 부착된 유효한 신분증으로 다시 시도하고 정보가 선명하게 보이는지 확인하세요";
+"retry_description_generic_selfie_issue" = "조명이 밝고 얼굴이 선명하게 나타나도록 하여 다시 시도해주세요";
+"retry_description_unaccepted_document" = "사진이 부착된 유효한 신분증으로 다시 시도하고 정보가 선명하게 보이는지 확인하세요";
+"retry_headline_default" = "문제가 발생했습니다";
+"retry_headline_expired_document" = "서류가 만료되었습니다";
+"retry_headline_generic_document_issue" = "문서에 문제가 있었습니다";
+"retry_headline_generic_selfie_issue" = "당신의 셀카에 문제가 있었습니다";
+"retry_headline_unaccepted_document" = "허용되지 않는 서류";

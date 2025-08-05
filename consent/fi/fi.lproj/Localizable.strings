@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "Hyväksy";
+"consent_button_secondary" = "Älä hyväksy";
+"consent_loading_error_button_primary" = "Lataa näyttö uudell.";
+"consent_loading_error_detail" = "Tarkista, että yhteys on vakaa, ja yritä sitten uudelleen";
+"consent_loading_error_title" = "Sisällön lataus epäonnistui";
+"consent_prompt_button_primary" = "Kyllä, älä vahvista minua";
+"consent_prompt_button_secondary" = "Tarkista uudelleen";
+"consent_prompt_no_consent_detail" = "Jos et hyväksy Onfidon tietosuojaselosteita ja palveluehtoja, emme voi vahvistaa henkilöllisyyttäsi ja poistut tästä vaiheesta.";
+"consent_prompt_no_consent_title" = "Oletko varma?";

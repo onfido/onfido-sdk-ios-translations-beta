@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Lanjutkan";
+"shareableIdRetrieval_intro_error_subtitle" = "Anda tidak memiliki kunci sandi yang dapat dikenali di perangkat Anda. Silakan lanjutkan ke proses selanjutnya.";
+"shareableIdRetrieval_intro_error_title" = "Tidak ada kunci sandi yang ditemukan";
+"shareableIdRetrieval_intro_or" = "ATAU";
+"shareableIdRetrieval_intro_searching" = "Mencari verifikasi sebelumnya";
+"shareableIdRetrieval_intro_start_idv_action" = "Mulai verifikasi identitas";
+"shareableIdRetrieval_intro_start_idv_description" = "Kami akan meminta beberapa dokumentasi dan informasi pribadi dari Anda, yang dapat membantu kami mengetahui siapa yang Anda katakan adalah diri Anda.";
+"shareableIdRetrieval_intro_subtitle" = "Untuk alasan keamanan dan melindungi Anda dari penipuan, kami perlu memverifikasi identitas Anda.";
+"shareableIdRetrieval_intro_title" = "Verifikasi identitas Anda";
+"shareableIdRetrieval_intro_use_sid_action" = "Gunakan verifikasi sebelumnya";
+"shareableIdRetrieval_intro_use_sid_title" = "Anda hanya dapat menggunakan kembali verifikasi yang telah berhasil diselesaikan dan disimpan sebelumnya.";

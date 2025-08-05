@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "متابعة";
+"shareableIdRegistration_registered_subtitle" = "بمجرد معرفة نتيجة هذا التحقق، ستتمكن من إعادة استخدامها في المرة القادمة التي تحتاج فيها إلى إثبات هويتك.";
+"shareableIdRegistration_registered_title" = "تم حفظ التحقق";
+"shareableIdRegistration_registration_consent_description" = "فقط عند النقر على زر `استخدم التحقق السابق` في المرة القادمة، سيتم إعادة استخدام بياناتك.";
+"shareableIdRegistration_registration_consent_title" = "أنت فقط يمكنك الموافقة على أي عمليات التحقق يتم إعادة استخدامها";
+"shareableIdRegistration_registration_error_action" = "عُد";
+"shareableIdRegistration_registration_error_subtitle" = "يبدو أنك لم تتمكن من إنشاء مفتاح الدخول. عُد لإعادة المحاولة أو استمر لإكمال العملية.";
+"shareableIdRegistration_registration_error_title" = "لم يتم إنشاء المفتاح السري";
+"shareableIdRegistration_registration_fast_description" = "سيتم حفظ المعلومات التي تم جمعها بالفعل، بحيث يمكنك إعادة استخدامها بدلاً من المرور عبر عملية التحقق من الهوية مرة أخرى.";
+"shareableIdRegistration_registration_fast_title" = "لا تضيع الوقت أبدًا في تكرار عملية التحقق من الهوية التي توجد بالفعل";
+"shareableIdRegistration_registration_key_description" = "مثل كلمة المرور المخزنة على جهازك، ستقوم بإنشاء معرف فريد (مفتاح الدخول) يمكنك حذفه في أي لحظة.";
+"shareableIdRegistration_registration_key_title" = "سوف تمتلك المفتاح لتخطي التدفق";
+"shareableIdRegistration_registration_save" = "احفظ التحقق الخاص بك";
+"shareableIdRegistration_registration_skip" = "تخطى";
+"shareableIdRegistration_registration_title" = "تحقق مرة واحدة. استخدم مرة أخرى";

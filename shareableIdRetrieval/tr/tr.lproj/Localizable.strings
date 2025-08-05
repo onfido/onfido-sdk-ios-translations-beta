@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Devam et";
+"shareableIdRetrieval_intro_error_subtitle" = "Cihazınızda tanınabilir bir geçiş anahtarı yok. Lütfen süreci tamamlamaya devam edin.";
+"shareableIdRetrieval_intro_error_title" = "Hiçbir geçiş anahtarı bulunamadı";
+"shareableIdRetrieval_intro_or" = "VEYA";
+"shareableIdRetrieval_intro_searching" = "Önceki doğrulamaları arama";
+"shareableIdRetrieval_intro_start_idv_action" = "Kimlik doğrulamasını başlatın";
+"shareableIdRetrieval_intro_start_idv_description" = "Bizden bazı belgeler ve kişisel bilgiler talep edeceğiz, bu bize kim olduğunuzu söylediğinizi anlamamıza yardımcı olabilir.";
+"shareableIdRetrieval_intro_subtitle" = "Güvenlik nedenleri ve sizi dolandırıcılıktan korumak için kimliğinizi doğrulamamız gerekiyor.";
+"shareableIdRetrieval_intro_title" = "Kimliğinizi doğrulayın";
+"shareableIdRetrieval_intro_use_sid_action" = "Önceki bir doğrulamayı kullanın";
+"shareableIdRetrieval_intro_use_sid_title" = "Sadece daha önce başarıyla tamamlanmış ve kaydedilmiş bir doğrulamayı yeniden kullanabilirsiniz.";

@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Continuați";
+"authenticatePasskey_attempts_error_subtitle" = "Nu mai puteți să vă autentificați prin intermediul unei chei de acces.";
+"authenticatePasskey_attempts_error_title" = "Numărul de încercări permise a fost depășit";
+"authenticatePasskey_error_button_retry" = "Încercați din nou";
+"authenticatePasskey_error_subtitle" = "O problemă tehnică necunoscută a apărut, vă rugăm să încercați din nou.";
+"authenticatePasskey_error_title" = "Ceva nu a mers bine";
+"authenticatePasskey_introduction_bullet_1" = "Trebuie să fi creat o cheie de acces (passkey) cu noi în trecut.";
+"authenticatePasskey_introduction_bullet_2" = "Dispozitivul dvs. vă va ghida prin următorii pași.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Autentificare";
+"authenticatePasskey_introduction_subtitle" = "Cheile de acces (passkeys) vă permit să vă autentificați în siguranță folosind amprenta, fața sau blocarea ecranului dispozitivului.";
+"authenticatePasskey_introduction_title" = "Autentificați-vă cu Passkey-ul dvs.";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Continuați";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "Nu aveți o cheie de acces disponibilă pentru autentificare.";
+"authenticatePasskey_no_passkey_available_error_title" = "Nicio cheie de acces disponibilă";
+"authenticatePasskey_not_supported_error_button_continue" = "Continuați";
+"authenticatePasskey_not_supported_error_subtitle" = "Ne pare rău că nu puteți finaliza această sarcină.";
+"authenticatePasskey_not_supported_error_title" = "Dispozitivul nu acceptă chei de acces";

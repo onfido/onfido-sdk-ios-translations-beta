@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Tovább";
+"shareableIdRetrieval_intro_error_subtitle" = "Nincs felismerhető belépőkulcs az eszközén. Kérjük, folytassa a folyamatot.";
+"shareableIdRetrieval_intro_error_title" = "Nem található belépőkulcs";
+"shareableIdRetrieval_intro_or" = "VAGY";
+"shareableIdRetrieval_intro_searching" = "Korábbi azonosítások keresése";
+"shareableIdRetrieval_intro_start_idv_action" = "Indítsa el az személyazonosság ellenőrzését";
+"shareableIdRetrieval_intro_start_idv_description" = "Kérjük, szolgáltasson néhány dokumentumot és személyes információt, amelyek segítenek minket azonosítani Önt.";
+"shareableIdRetrieval_intro_subtitle" = "Biztonsági okokból és a csalás elleni védekezés céljából szükséges az önazonosságának megerősítése.";
+"shareableIdRetrieval_intro_title" = "Igazolja személyazonosságát";
+"shareableIdRetrieval_intro_use_sid_action" = "Használjon egy korábbi azonosítást";
+"shareableIdRetrieval_intro_use_sid_title" = "Csak egy olyan hitelesítést használhat újra, amelyet korábban sikeresen befejezett és elmentett.";

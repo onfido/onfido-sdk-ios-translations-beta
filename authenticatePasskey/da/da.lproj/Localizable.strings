@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Fortsæt";
+"authenticatePasskey_attempts_error_subtitle" = "Du kan ikke længere godkende med en adgangsnøgle.";
+"authenticatePasskey_attempts_error_title" = "Antallet af tilladte forsøg er overskredet";
+"authenticatePasskey_error_button_retry" = "Prøv igen";
+"authenticatePasskey_error_subtitle" = "Der opstod et ukendt teknisk problem. Prøv igen.";
+"authenticatePasskey_error_title" = "Noget er gået galt";
+"authenticatePasskey_introduction_bullet_1" = "Du skal have oprettet en adgangsnøgle hos os tidligere.";
+"authenticatePasskey_introduction_bullet_2" = "Din enhed vil guide dig gennem de næste trin.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Godkend identitet";
+"authenticatePasskey_introduction_subtitle" = "Adgangsnøgler giver dig mulighed for at logge sikkert ind ved hjælp af dit fingeraftryk, ansigt eller enhedens skærmlås.";
+"authenticatePasskey_introduction_title" = "Godkend med din adgangsnøgle";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Fortsæt";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "Du har ikke en adgangsnøgle tilgængelig til at godkende med.";
+"authenticatePasskey_no_passkey_available_error_title" = "Ingen adgangsnøgle tilgængelig";
+"authenticatePasskey_not_supported_error_button_continue" = "Fortsæt";
+"authenticatePasskey_not_supported_error_subtitle" = "Beklager, du kan ikke fuldføre denne opgave.";
+"authenticatePasskey_not_supported_error_title" = "Enheden understøtter ikke adgangsnøgler";

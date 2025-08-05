@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "Godta";
+"consent_button_secondary" = "Ikke godta";
+"consent_loading_error_button_primary" = "Last skjermen på nytt";
+"consent_loading_error_detail" = "Kontroller at tilkoblingen er stabil og prøv på nytt";
+"consent_loading_error_title" = "Innholdet ble ikke lastet";
+"consent_prompt_button_primary" = "Ja, ikke verifiser meg";
+"consent_prompt_button_secondary" = "Gjennomgå på nytt";
+"consent_prompt_no_consent_detail" = "Hvis du ikke godtar Onfidos personvernerklæringer og brukervilkår, vil vi ikke kunne bekrefte identiteten din, og du vil avslutte dette trinnet.";
+"consent_prompt_no_consent_title" = "Er du sikker?";

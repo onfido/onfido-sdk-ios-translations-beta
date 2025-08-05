@@ -1,0 +1,17 @@
+
+"electronicId_qr_code_description" = "Otvorte aplikáciu BankID na svojom telefóne a stlačte ikonu QR kódu";
+"electronicId_qr_code_error_code_expired" = "Váš QR kód vypršal, požiadajte prosím o nový";
+"electronicId_qr_code_refresh_cta" = "Požiadajte o nový QR kód";
+"electronicId_qr_code_title" = "Overenie BankID";
+"electronicId_redirection_cross_device" = "Pripojte ďalšie zariadenie";
+"electronicId_redirection_description" = "Môžete sa pripojiť prostredníctvom svojho mobilného telefónu alebo iného zariadenia";
+"electronicId_redirection_list_title" = "Vyberte metódu";
+"electronicId_redirection_open_in_app" = "Otvoriť aplikáciu";
+"electronicId_redirection_scheme_SwedenBankId_open_in_app" = "Otvorte aplikáciu BankID";
+"electronicId_redirection_title" = "Vyberte spôsob pripojenia";
+"electronicId_scheme_form_subtitle" = "Vyberte si banku zo zoznamu nižšie, aby ste sa overili prostredníctvom ";
+"electronicId_scheme_form_title" = " Verification";
+"electronicId_selection_description" = "Vyberte vydávajúcu krajinu, aby ste videli, ktoré metódy akceptujeme";
+"electronicId_selection_list_title" = "Vyberte metódu";
+"electronicId_selection_select_label" = "Vydávajúca krajina";
+"electronicId_selection_title" = "Overte svoju totožnosť";

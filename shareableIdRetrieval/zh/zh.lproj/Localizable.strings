@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "继续";
+"shareableIdRetrieval_intro_error_subtitle" = "您的设备上没有可识别的通行密钥。请继续完成整个过程。";
+"shareableIdRetrieval_intro_error_title" = "未找到通行密钥";
+"shareableIdRetrieval_intro_or" = "或";
+"shareableIdRetrieval_intro_searching" = "搜索以前的身份验证";
+"shareableIdRetrieval_intro_start_idv_action" = "开始身份验证";
+"shareableIdRetrieval_intro_start_idv_description" = "我们将向您请求一些文件和个人信息，这可以帮助我们确认您的身份。";
+"shareableIdRetrieval_intro_subtitle" = "出于安全原因并为了保护您免受欺诈，我们需要验证您的身份。";
+"shareableIdRetrieval_intro_title" = "验证您的身份";
+"shareableIdRetrieval_intro_use_sid_action" = "使用以前的身份验证";
+"shareableIdRetrieval_intro_use_sid_title" = "您只能重复使用已成功完成并预先保存的身份验证。";

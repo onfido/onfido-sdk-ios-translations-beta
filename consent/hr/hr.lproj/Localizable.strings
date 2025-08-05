@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "Prihvati";
+"consent_button_secondary" = "Ne prihvaćaj";
+"consent_loading_error_button_primary" = "Ponovno učitaj zaslon";
+"consent_loading_error_detail" = "Provjerite je li veza stabilna pa pokušajte ponovno";
+"consent_loading_error_title" = "Sadržaj nije prenesen";
+"consent_prompt_button_primary" = "Da, ne treba mi provjera";
+"consent_prompt_button_secondary" = "Ponovno pregledaj";
+"consent_prompt_no_consent_detail" = "Ako ne prihvatite Onfidove izjave o privatnosti i uvjete pružanja usluge, nećemo moći potvrditi vaš identitet i postupak će se prekinuti.";
+"consent_prompt_no_consent_title" = "Jeste li sigurni?";

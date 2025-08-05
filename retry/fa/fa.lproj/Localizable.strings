@@ -1,0 +1,16 @@
+
+"retry_button_default" = "سعی مجدد";
+"retry_button_expired_document" = "سعی مجدد";
+"retry_button_generic_document_issue" = "سعی مجدد";
+"retry_button_generic_selfie_issue" = "سعی مجدد";
+"retry_button_unaccepted_document" = "سعی مجدد";
+"retry_description_default" = "لطفاً دوباره سعی کنید";
+"retry_description_expired_document" = "لطفاً با یک کارت شناسایی عکس‌دار معتبر دوباره امتحان کنید و مطمئن شوید که اطلاعات شما به وضوح قابل مشاهده است";
+"retry_description_generic_document_issue" = "لطفاً با یک کارت شناسایی عکس‌دار معتبر دوباره امتحان کنید و مطمئن شوید که اطلاعات شما به وضوح قابل مشاهده است";
+"retry_description_generic_selfie_issue" = "لطفاً دوباره سعی کنید و مطمئن شوید که چهره شما قابل مشاهده بوده و محیط دارای نور مناسب است";
+"retry_description_unaccepted_document" = "لطفاً با یک کارت شناسایی عکس‌دار معتبر دوباره امتحان کنید و مطمئن شوید که اطلاعات شما به وضوح قابل مشاهده است";
+"retry_headline_default" = "یک مشکل وجود داشت";
+"retry_headline_expired_document" = "مدرک شما منقضی شده است";
+"retry_headline_generic_document_issue" = "مشکلی با سند شما وجود داشت";
+"retry_headline_generic_selfie_issue" = "مشکلی با سلفی شما وجود داشت";
+"retry_headline_unaccepted_document" = "مدرک غیر قابل قبول است";

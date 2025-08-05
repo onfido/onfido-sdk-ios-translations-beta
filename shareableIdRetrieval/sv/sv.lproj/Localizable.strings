@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Fortsätt";
+"shareableIdRetrieval_intro_error_subtitle" = "Du har ingen igenkännbar lösenkod på din enhet. Vänligen fortsätt till den kompletta processen.";
+"shareableIdRetrieval_intro_error_title" = "Ingen passnyckel hittades";
+"shareableIdRetrieval_intro_or" = "ELLER";
+"shareableIdRetrieval_intro_searching" = "Söker efter tidigare verifieringar";
+"shareableIdRetrieval_intro_start_idv_action" = "Starta identitetsverifiering";
+"shareableIdRetrieval_intro_start_idv_description" = "Vi kommer att begära viss dokumentation och personlig information från dig, som kan hjälpa oss att veta vem du säger att du är.";
+"shareableIdRetrieval_intro_subtitle" = "Av säkerhetsskäl och för att skydda dig mot bedrägeri behöver vi verifiera din identitet.";
+"shareableIdRetrieval_intro_title" = "Verifiera din identitet";
+"shareableIdRetrieval_intro_use_sid_action" = "Använd en tidigare verifiering";
+"shareableIdRetrieval_intro_use_sid_title" = "Du kan endast återanvända en verifiering som har slutförts och sparats i förväg.";

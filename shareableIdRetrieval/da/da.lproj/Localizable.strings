@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Fortsæt";
+"shareableIdRetrieval_intro_error_subtitle" = "Du har ikke en genkendelig adgangskode på din enhed. Fortsæt venligst til den fulde proces.";
+"shareableIdRetrieval_intro_error_title" = "Ingen adgangsnøgle fundet";
+"shareableIdRetrieval_intro_or" = "ELLER";
+"shareableIdRetrieval_intro_searching" = "Søger efter tidligere verifikationer";
+"shareableIdRetrieval_intro_start_idv_action" = "Start identitetsverifikation";
+"shareableIdRetrieval_intro_start_idv_description" = "Vi vil anmode om noget dokumentation og personlige oplysninger fra dig, der kan hjælpe os med at vide, hvem du siger, du er.";
+"shareableIdRetrieval_intro_subtitle" = "Af sikkerhedsmæssige årsager og for at beskytte dig mod svindel, skal vi verificere din identitet.";
+"shareableIdRetrieval_intro_title" = "Verificer din identitet";
+"shareableIdRetrieval_intro_use_sid_action" = "Brug en tidligere verifikation";
+"shareableIdRetrieval_intro_use_sid_title" = "Du kan kun genbruge en verifikation, der er blevet gennemført og gemt på forhånd med succes.";

@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "Nadaljuj";
+"enrollPasskey_attempts_error_subtitle" = "Preko ključa za prijavo se ne morete več overiti.";
+"enrollPasskey_attempts_error_title" = "Preseženo dovoljeno število poskusov";
+"enrollPasskey_error_button_retry" = "Poskusite znova";
+"enrollPasskey_error_subtitle" = "Prišlo je do neznane tehnične težave, prosimo poskusite znova.";
+"enrollPasskey_error_title" = "Nekaj je šlo narobe";
+"enrollPasskey_introduction_bullet_1" = "Ta ključ za dostop bo uporabljen za domeno: ";
+"enrollPasskey_introduction_bullet_2" = "Vaša naprava vas bo vodila skozi naslednje korake.";
+"enrollPasskey_introduction_button_start_enrolling" = "Ustvari ključ za prijavo";
+"enrollPasskey_introduction_subtitle" = "Ključi za prijavo vam omogočajo varno prijavo z uporabo prstnega odtisa, obraza ali zaklepa zaslona naprave.";
+"enrollPasskey_introduction_title" = "Nastavite svoj Passkey";
+"enrollPasskey_not_supported_error_button_continue" = "Nadaljuj";
+"enrollPasskey_not_supported_error_subtitle" = "Oprostite, tega opravila ne morete dokončati.";
+"enrollPasskey_not_supported_error_title" = "Naprava ne podpira ključev za prijavo";

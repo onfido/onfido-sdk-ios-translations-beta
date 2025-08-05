@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Start verificatie";
+"welcome_button_studio" = "Start verificatie";
+"welcome_button_trial" = "Start verificatie (TEST)";
+"welcome_list_header_default" = "Gebruik uw apparaat om:";
+"welcome_list_header_doc_video" = "Gebruik uw apparaat om op te nemen:";
+"welcome_list_item_active_video" = "Maak een fimpje van uw gezicht";
+"welcome_list_item_document" = "Maak een foto van uw identiteitsbewijs";
+"welcome_list_item_document_video" = "Maak een filmpje van uw identiteitsbewijs";
+"welcome_list_item_face" = "Maak een foto van uw gezicht";
+"welcome_list_item_face_video" = "Maak een fimpje van uw gezicht";
+"welcome_list_item_poa" = "Neem een foto van een document met uw adres";
+"welcome_subtitle" = "Dat duurt maar een paar minuten";
+"welcome_timeout_default" = "Opname is beperkt tot  seconden";
+"welcome_title" = "Verifieer uw identiteit";
+"welcome_warning_trial" = "Deel hier geen persoonlijke gegevens, tenzij u betrokken bent bij een Onfido-proef.";
+"welcome_warning_trial_title" = "Dit is een proefversie";

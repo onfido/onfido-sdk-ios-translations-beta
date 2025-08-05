@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "Συνέχεια";
+"enrollPasskey_attempts_error_subtitle" = "Δεν μπορείτε πλέον να πραγματοποιήσετε ταυτοποίηση μέσω κλειδιού πρόσβασης.";
+"enrollPasskey_attempts_error_title" = "Υπερβήκατε τον επιτρεπόμενο αριθμό προσπαθειών";
+"enrollPasskey_error_button_retry" = "Προσπαθήστε ξανά";
+"enrollPasskey_error_subtitle" = "Παρουσιάστηκε άγνωστο τεχνικό πρόβλημα, παρακαλώ δοκιμάστε ξανά.";
+"enrollPasskey_error_title" = "Κάτι πήγε στραβά";
+"enrollPasskey_introduction_bullet_1" = "Αυτό το κλειδί πρόσβασης θα χρησιμοποιηθεί για τον τομέα: ";
+"enrollPasskey_introduction_bullet_2" = "Η συσκευή σας θα σας καθοδηγήσει στα επόμενα βήματα.";
+"enrollPasskey_introduction_button_start_enrolling" = "Δημιουργία κλειδιού πρόσβασης";
+"enrollPasskey_introduction_subtitle" = "Τα passkeys σάς επιτρέπουν να συνδέεστε με ασφάλεια χρησιμοποιώντας το δακτυλικό σας αποτύπωμα, το πρόσωπό σας ή το κλείδωμα οθόνης της συσκευής σας.";
+"enrollPasskey_introduction_title" = "Ρυθμίστε το κλειδί πρόσβασής σας";
+"enrollPasskey_not_supported_error_button_continue" = "Συνέχεια";
+"enrollPasskey_not_supported_error_subtitle" = "Λυπούμαστε, δεν μπορείτε να ολοκληρώσετε αυτή την εργασία.";
+"enrollPasskey_not_supported_error_title" = "Η συσκευή δεν υποστηρίζει passkeys";

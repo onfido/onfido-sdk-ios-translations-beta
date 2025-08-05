@@ -1,0 +1,17 @@
+
+"electronicId_qr_code_description" = "برنامه BankID را در تلفن همراه خود باز کنید و بر روی آیکون کد QR فشار دهید";
+"electronicId_qr_code_error_code_expired" = "کد QR شما منقضی شده است، لطفاً یکی جدید درخواست کنید";
+"electronicId_qr_code_refresh_cta" = "درخواست یک کد QR جدید";
+"electronicId_qr_code_title" = "تأیید هویت BankID";
+"electronicId_redirection_cross_device" = "دستگاه دیگری را متصل کنید";
+"electronicId_redirection_description" = "شما می‌توانید از طریق تلفن همراه یا دستگاه دیگری اتصال برقرار کنید";
+"electronicId_redirection_list_title" = "روشی را انتخاب کنید";
+"electronicId_redirection_open_in_app" = "برنامه را باز کنید";
+"electronicId_redirection_scheme_SwedenBankId_open_in_app" = "برنامه BankID را باز کنید";
+"electronicId_redirection_title" = "انتخاب کنید چگونه متصل شوید";
+"electronicId_scheme_form_subtitle" = "یک بانک را از لیست زیر انتخاب کنید تا از طریق  خود را تأیید کنید";
+"electronicId_scheme_form_title" = " Verification";
+"electronicId_selection_description" = "کشور صادر کننده را انتخاب کنید تا ببینید کدام روش‌ها را ما قبول می‌کنیم";
+"electronicId_selection_list_title" = "روشی را انتخاب کنید";
+"electronicId_selection_select_label" = "کشور صادرکننده";
+"electronicId_selection_title" = "هویت خود را تأیید کنید";

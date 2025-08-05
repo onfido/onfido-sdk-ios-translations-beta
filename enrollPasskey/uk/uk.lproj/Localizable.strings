@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "Продовжити";
+"enrollPasskey_attempts_error_subtitle" = "Ви більше не можете автентифікуватися за допомогою ключа доступу.";
+"enrollPasskey_attempts_error_title" = "Перевищено дозволену кількість спроб";
+"enrollPasskey_error_button_retry" = "Повторити";
+"enrollPasskey_error_subtitle" = "Виникла невідома технічна проблема, спробуйте ще раз.";
+"enrollPasskey_error_title" = "Щось пішло не так";
+"enrollPasskey_introduction_bullet_1" = "Цей ключ доступу буде використовуватися для домену: ";
+"enrollPasskey_introduction_bullet_2" = "Ваш пристрій проведе вас через наступні кроки.";
+"enrollPasskey_introduction_button_start_enrolling" = "Створити ключ доступу";
+"enrollPasskey_introduction_subtitle" = "Ключі доступу дозволяють вам безпечно входити в систему за допомогою відбитка пальця, обличчя або блокування екрана пристрою.";
+"enrollPasskey_introduction_title" = "Налаштуйте свій Ключ доступу";
+"enrollPasskey_not_supported_error_button_continue" = "Продовжити";
+"enrollPasskey_not_supported_error_subtitle" = "Вибачте, ви не можете виконати це завдання.";
+"enrollPasskey_not_supported_error_title" = "Пристрій не підтримує ключі доступу";

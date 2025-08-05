@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Continuați";
+"shareableIdRegistration_registered_subtitle" = "Odată ce rezultatul acestei verificări este cunoscut, veți putea să-l folosiți din nou data viitoare când trebuie să vă dovediți identitatea.";
+"shareableIdRegistration_registered_title" = "Verificare salvată";
+"shareableIdRegistration_registration_consent_description" = "Doar dacă apăsați pe butonul `Folosește o verificare anterioară` data viitoare, datele dvs. vor fi refolosite.";
+"shareableIdRegistration_registration_consent_title" = "Doar tu poți consimți la care verificări sunt refolosite";
+"shareableIdRegistration_registration_error_action" = "Înapoi";
+"shareableIdRegistration_registration_error_subtitle" = "Se pare că nu ați putut crea o parolă. Întoarceți-vă pentru a încerca din nou sau continuați pentru a finaliza procesul.";
+"shareableIdRegistration_registration_error_title" = "Cheia de acces nu a fost creată";
+"shareableIdRegistration_registration_fast_description" = "Informațiile deja colectate vor fi salvate, astfel încât le puteți reutiliza în loc să treceți din nou prin procesul de verificare a identității.";
+"shareableIdRegistration_registration_fast_title" = "Niciodată nu pierde timp repetând o verificare care deja există";
+"shareableIdRegistration_registration_key_description" = "La fel ca o parolă stocată pe dispozitivul dvs., veți crea un identificator unic (o cheie de acces) pe care o puteți șterge în orice moment.";
+"shareableIdRegistration_registration_key_title" = "Vei deține cheia pentru a sări peste flux";
+"shareableIdRegistration_registration_save" = "Salvați-vă verificarea";
+"shareableIdRegistration_registration_skip" = "Omite";
+"shareableIdRegistration_registration_title" = "Verificați o dată. Refolosiți din nou";

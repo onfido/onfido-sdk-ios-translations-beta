@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "Doorgaan";
+"enrollPasskey_attempts_error_subtitle" = "U kunt niet langer authenticeren via een passkey.";
+"enrollPasskey_attempts_error_title" = "Toegestane pogingen overschreden";
+"enrollPasskey_error_button_retry" = "Opnieuw proberen";
+"enrollPasskey_error_subtitle" = "Er is een onbekend technisch probleem opgetreden, probeer het opnieuw.";
+"enrollPasskey_error_title" = "Iets is misgegaan";
+"enrollPasskey_introduction_bullet_1" = "Deze passkey wordt gebruikt voor het domein: ";
+"enrollPasskey_introduction_bullet_2" = "Uw apparaat zal u door de volgende stappen leiden.";
+"enrollPasskey_introduction_button_start_enrolling" = "Maak passkey";
+"enrollPasskey_introduction_subtitle" = "Passkeys stellen u in staat om veilig in te loggen met uw vingerafdruk, gezicht of schermvergrendeling van uw apparaat.";
+"enrollPasskey_introduction_title" = "Stel uw Passkey in";
+"enrollPasskey_not_supported_error_button_continue" = "Doorgaan";
+"enrollPasskey_not_supported_error_subtitle" = "Sorry, u kunt deze taak niet voltooien.";
+"enrollPasskey_not_supported_error_title" = "Apparaat ondersteunt geen passkeys";

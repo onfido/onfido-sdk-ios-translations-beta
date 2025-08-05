@@ -1,0 +1,17 @@
+
+"electronicId_qr_code_description" = "פתח את אפליקציית BankID בטלפון שלך ולחץ על סמל הקוד QR";
+"electronicId_qr_code_error_code_expired" = "הקוד QR שלך פג תוקף, אנא בקש אחד חדש";
+"electronicId_qr_code_refresh_cta" = "בקש קוד QR חדש";
+"electronicId_qr_code_title" = "אימות BankID";
+"electronicId_redirection_cross_device" = "חבר מכשיר אחר";
+"electronicId_redirection_description" = "אתה יכול להתחבר דרך הטלפון הנייד שלך או מכשיר אחר";
+"electronicId_redirection_list_title" = "בחר שיטה";
+"electronicId_redirection_open_in_app" = "פתח אפליקציה";
+"electronicId_redirection_scheme_SwedenBankId_open_in_app" = "פתח את אפליקציית BankID";
+"electronicId_redirection_title" = "בחר איך להתחבר";
+"electronicId_scheme_form_subtitle" = "בחר בנק מהרשימה למטה כדי לאמת את עצמך דרך ";
+"electronicId_scheme_form_title" = " Verification";
+"electronicId_selection_description" = "בחר את המדינה המנפיקה כדי לראות אילו שיטות אנחנו מקבלים";
+"electronicId_selection_list_title" = "בחר שיטה";
+"electronicId_selection_select_label" = "ארץ ההנפקה";
+"electronicId_selection_title" = "אמת את זהותך";

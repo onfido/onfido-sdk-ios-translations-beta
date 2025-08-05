@@ -1,0 +1,17 @@
+
+"welcome_button_default" = "Ellenőrzés megkezdése";
+"welcome_button_studio" = "Ellenőrzés megkezdése";
+"welcome_button_trial" = "Ellenőrzés megkezdése (TEST)";
+"welcome_list_header_default" = "Használja eszközét a következőkhöz:";
+"welcome_list_header_doc_video" = "Használja eszközét a felvételhez:";
+"welcome_list_item_active_video" = "Készítsen videófelvételt az arcáról";
+"welcome_list_item_document" = "Készítsen fényképet személyazonosító okmányáról";
+"welcome_list_item_document_video" = "Készítsen videót személyazonosító okmányáról";
+"welcome_list_item_face" = "Fényképezze le az arcát";
+"welcome_list_item_face_video" = "Készítsen videófelvételt az arcáról";
+"welcome_list_item_poa" = "Készítsen fényképet a címét tartalmazó dokumentumról";
+"welcome_subtitle" = "Pár percet vesz igénybe";
+"welcome_timeout_default" = "A videórögzítés időkorlátja  másodperc";
+"welcome_title" = "Igazolja személyazonosságát";
+"welcome_warning_trial" = "Ne osszon meg személyes adatokat itt, kivéve, ha az Onfido tesztelésében vesz részt.";
+"welcome_warning_trial_title" = "Ez egy próba";

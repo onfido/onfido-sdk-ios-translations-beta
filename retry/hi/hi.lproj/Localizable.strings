@@ -1,0 +1,16 @@
+
+"retry_button_default" = "फिर से कोशिश करें";
+"retry_button_expired_document" = "फिर से कोशिश करें";
+"retry_button_generic_document_issue" = "फिर से कोशिश करें";
+"retry_button_generic_selfie_issue" = "फिर से कोशिश करें";
+"retry_button_unaccepted_document" = "फिर से कोशिश करें";
+"retry_description_default" = "कृपया फिर से कोशिश करें";
+"retry_description_expired_document" = "कृपया एक मान्य फ़ोटो आईडी के साथ फिर से कोशिश करें और पक्का करें कि आपकी जानकारी साफ़-साफ़ दिख रही है";
+"retry_description_generic_document_issue" = "कृपया एक मान्य फ़ोटो आईडी के साथ फिर से कोशिश करें और पक्का करें कि आपकी जानकारी साफ़-साफ़ दिख रही है";
+"retry_description_generic_selfie_issue" = "कृपया फिर से कोशिश करें और पक्का करें कि आपका चेहरे पर अच्छी रोशनी पड़ रही है और वह दिख रहा है";
+"retry_description_unaccepted_document" = "कृपया एक मान्य फ़ोटो आईडी के साथ फिर से कोशिश करें और पक्का करें कि आपकी जानकारी साफ़-साफ़ दिख रही है";
+"retry_headline_default" = "एक समस्या थी";
+"retry_headline_expired_document" = "आपके डॉक्यूमेंट की समय-अवधि खत्म हो गई है";
+"retry_headline_generic_document_issue" = "आपके दस्तावेज़ में एक समस्या थी";
+"retry_headline_generic_selfie_issue" = "आपकी सेल्फी के साथ एक समस्या थी";
+"retry_headline_unaccepted_document" = "स्वीकार नहीं किए जाने वाले डॉक्यूमेंट";

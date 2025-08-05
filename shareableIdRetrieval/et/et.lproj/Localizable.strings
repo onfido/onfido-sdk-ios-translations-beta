@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Jätkake";
+"shareableIdRetrieval_intro_error_subtitle" = "Teie seadmel ei ole tuvastatavat salasõna. Palun jätkake kogu protsessiga.";
+"shareableIdRetrieval_intro_error_title" = "Parooli ei leitud";
+"shareableIdRetrieval_intro_or" = "VÕI";
+"shareableIdRetrieval_intro_searching" = "Otsing eelnevate verifitseerimiste hulgast";
+"shareableIdRetrieval_intro_start_idv_action" = "Alusta isikutuvastust";
+"shareableIdRetrieval_intro_start_idv_description" = "Me palume teil esitada mõned dokumendid ja isiklikud andmed, mis aitavad meil teada saada, kes te väidate end olevat.";
+"shareableIdRetrieval_intro_subtitle" = "Turvalisuse huvides ja teie kaitsmiseks pettuse eest peame me kinnitama teie isikut.";
+"shareableIdRetrieval_intro_title" = "Kinnitage oma isik";
+"shareableIdRetrieval_intro_use_sid_action" = "Kasuta eelmist verifitseerimist";
+"shareableIdRetrieval_intro_use_sid_title" = "Saate uuesti kasutada ainult sellist kinnitust, mis on edukalt lõpule viidud ja eelnevalt salvestatud.";

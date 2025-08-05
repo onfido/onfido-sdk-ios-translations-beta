@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Bandyti dar kartą";
+"retry_button_expired_document" = "Bandyti dar kartą";
+"retry_button_generic_document_issue" = "Bandyti dar kartą";
+"retry_button_generic_selfie_issue" = "Bandyti dar kartą";
+"retry_button_unaccepted_document" = "Bandyti dar kartą";
+"retry_description_default" = "Bandykite dar kartą";
+"retry_description_expired_document" = "Bandykite dar kartą naudodami galiojantį asmens tapatybės dokumentą su nuotrauka ir įsitikinkite, kad jūsų informacija aiškiai matoma";
+"retry_description_generic_document_issue" = "Bandykite dar kartą naudodami galiojantį asmens tapatybės dokumentą su nuotrauka ir įsitikinkite, kad jūsų informacija aiškiai matoma";
+"retry_description_generic_selfie_issue" = "Bandykite dar kartą ir įsitikinkite, kad jūsų veidas matomas ir gerai apšviestas";
+"retry_description_unaccepted_document" = "Bandykite dar kartą naudodami galiojantį asmens tapatybės dokumentą su nuotrauka ir įsitikinkite, kad jūsų informacija aiškiai matoma";
+"retry_headline_default" = "Įvyko problema";
+"retry_headline_expired_document" = "Jūsų dokumentas nebegalioja";
+"retry_headline_generic_document_issue" = "Su jūsų dokumentu kilo problema";
+"retry_headline_generic_selfie_issue" = "Problema su jūsų savęs portretu";
+"retry_headline_unaccepted_document" = "Nepriimtinas dokumentas";

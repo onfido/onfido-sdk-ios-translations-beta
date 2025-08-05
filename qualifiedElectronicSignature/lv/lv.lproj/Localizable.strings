@@ -1,0 +1,20 @@
+
+"qualifiedElectronicSignature_common_steps" = "Izveidojiet savu parakstu";
+"qualifiedElectronicSignature_confirmation_bullet_1" = "Pēc jūsu dokumenta izlasīšanas, pieskarieties pogai “Parakstīt dokumentu”.";
+"qualifiedElectronicSignature_confirmation_bullet_2" = "Tiklīdz Onfido apstiprinās jūsu identitāti, jūsu paraksts tiks izmantots šajā dokumentā.";
+"qualifiedElectronicSignature_confirmation_button_next_step" = "Parakstīt dokumentu";
+"qualifiedElectronicSignature_confirmation_review_document" = "Pārskatiet jūsu dokumentu lai parakstītu";
+"qualifiedElectronicSignature_confirmation_step2" = "2 no 2";
+"qualifiedElectronicSignature_confirmation_steps" = "Parakstiet savu dokumentu";
+"qualifiedElectronicSignature_confirmation_subtitle" = "Lai apstiprinātu savu identitāti saskaņā ar Eiropas noteikumiem, jums ir jāparaksta dokuments digitāli.";
+"qualifiedElectronicSignature_confirmation_title" = "Izveidojiet un izmantojiet savu digitālo parakstu";
+"qualifiedElectronicSignature_error_misconfigured" = "Diemžēl ir radusies kļūda. Lūdzu, sazinieties ar savu atbalsta dienestu.";
+"qualifiedElectronicSignature_introduction_button_confirmation_step" = "Izveidot manu parakstu";
+"qualifiedElectronicSignature_introduction_certificate_application_form" = "Sertifikāta pieteikuma forma";
+"qualifiedElectronicSignature_introduction_privacy_notice" = "Privātuma paziņojums";
+"qualifiedElectronicSignature_introduction_step1" = "1 no 2";
+"qualifiedElectronicSignature_introduction_subtitle" = "Lai apstiprinātu savu identitāti saskaņā ar Eiropas noteikumiem, jums ir jāparaksta dokuments digitāli.";
+"qualifiedElectronicSignature_introduction_terms_and_conditions" = "Noteikumi un nosacījumi";
+"qualifiedElectronicSignature_introduction_third_party_description" = "Namirial SpA ir uzticams globāls pakalpojumu sniedzējs, kas izsniegs sertifikātu, apstiprinot jūsu elektronisko parakstu.";
+"qualifiedElectronicSignature_introduction_title" = "Izveidojiet un izmantojiet savu digitālo parakstu";
+"qualifiedElectronicSignature_introduction_validation" = "Nepieciešama piekrišana";

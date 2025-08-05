@@ -1,0 +1,15 @@
+
+"enrollPasskey_attempts_error_button_continue" = "Lanjutkan";
+"enrollPasskey_attempts_error_subtitle" = "Anda tidak dapat lagi melakukan autentikasi melalui kunci akses.";
+"enrollPasskey_attempts_error_title" = "Jumlah percobaan yang diizinkan telah terlampaui";
+"enrollPasskey_error_button_retry" = "Coba lagi";
+"enrollPasskey_error_subtitle" = "Terjadi masalah teknis yang tidak diketahui, silakan coba lagi.";
+"enrollPasskey_error_title" = "Ada yang salah";
+"enrollPasskey_introduction_bullet_1" = "Kunci akses ini akan digunakan untuk domain: ";
+"enrollPasskey_introduction_bullet_2" = "Perangkat Anda akan memandu Anda melalui langkah-langkah berikutnya.";
+"enrollPasskey_introduction_button_start_enrolling" = "Buat kunci sandi";
+"enrollPasskey_introduction_subtitle" = "Passkey memungkinkan Anda masuk dengan aman menggunakan sidik jari, wajah, atau kunci layar perangkat Anda.";
+"enrollPasskey_introduction_title" = "Siapkan Kunci Sandi Anda";
+"enrollPasskey_not_supported_error_button_continue" = "Lanjutkan";
+"enrollPasskey_not_supported_error_subtitle" = "Maaf, Anda tidak dapat menyelesaikan tugas ini.";
+"enrollPasskey_not_supported_error_title" = "Perangkat tidak mendukung passkey";

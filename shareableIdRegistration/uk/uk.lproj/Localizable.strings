@@ -1,0 +1,16 @@
+
+"shareableIdRegistration_registered_continue" = "Продовжити";
+"shareableIdRegistration_registered_subtitle" = "Як тільки буде відомий результат цієї верифікації, ви зможете використовувати його знову, коли вам знадобиться довести свою особистість.";
+"shareableIdRegistration_registered_title" = "Верифікацію збережено";
+"shareableIdRegistration_registration_consent_description" = "Ваші дані будуть використані знову, тільки якщо ви натиснете кнопку `Використати попередню верифікацію` в наступний раз.";
+"shareableIdRegistration_registration_consent_title" = "Тільки ви можете дати згоду на повторне використання верифікацій";
+"shareableIdRegistration_registration_error_action" = "Повернутися назад";
+"shareableIdRegistration_registration_error_subtitle" = "Схоже, вам не вдалося створити ключ доступу. Поверніться, щоб спробувати знову, або продовжуйте до завершення процесу.";
+"shareableIdRegistration_registration_error_title" = "Ключ доступу не створено";
+"shareableIdRegistration_registration_fast_description" = "Інформація, яка вже була зібрана, буде збережена, тому ви можете використовувати її знову, замість того, щоб проходити процес верифікації знову.";
+"shareableIdRegistration_registration_fast_title" = "Ніколи не витрачайте час на повторення перевірки, яка вже існує";
+"shareableIdRegistration_registration_key_description" = "Як пароль, збережений на вашому пристрої, ви створите унікальний ідентифікатор (ключ доступу), який ви можете видалити в будь-який момент.";
+"shareableIdRegistration_registration_key_title" = "Ви будете тримати ключ для пропуску потоку";
+"shareableIdRegistration_registration_save" = "Збережіть вашу верифікацію";
+"shareableIdRegistration_registration_skip" = "Пропустити";
+"shareableIdRegistration_registration_title" = "Перевірте один раз. Використовуйте знову";

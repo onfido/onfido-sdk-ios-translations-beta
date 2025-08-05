@@ -1,0 +1,16 @@
+
+"retry_button_default" = "Coba lagi";
+"retry_button_expired_document" = "Coba lagi";
+"retry_button_generic_document_issue" = "Coba lagi";
+"retry_button_generic_selfie_issue" = "Coba lagi";
+"retry_button_unaccepted_document" = "Coba lagi";
+"retry_description_default" = "Silakan mencoba lagi";
+"retry_description_expired_document" = "Harap coba lagi dengan foto identitas yang valid dan pastikan informasi Anda terlihat jelas";
+"retry_description_generic_document_issue" = "Harap coba lagi dengan foto identitas yang valid dan pastikan informasi Anda terlihat jelas";
+"retry_description_generic_selfie_issue" = "Harap coba lagi, dan pastikan wajah Anda terlihat dan cukup terang";
+"retry_description_unaccepted_document" = "Harap coba lagi dengan foto identitas yang valid dan pastikan informasi Anda terlihat jelas";
+"retry_headline_default" = "Ada masalah";
+"retry_headline_expired_document" = "Dokumen Anda telah kedaluwarsa";
+"retry_headline_generic_document_issue" = "Ada masalah dengan dokumen Anda";
+"retry_headline_generic_selfie_issue" = "Ada masalah dengan selfie Anda";
+"retry_headline_unaccepted_document" = "Dokumen tidak diterima";

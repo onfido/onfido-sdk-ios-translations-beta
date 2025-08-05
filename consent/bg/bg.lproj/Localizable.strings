@@ -1,0 +1,10 @@
+
+"consent_button_primary" = "Приемам";
+"consent_button_secondary" = "Не приемам";
+"consent_loading_error_button_primary" = "Презареждане на екрана";
+"consent_loading_error_detail" = "Проверете дали връзката ви е стабилна и опитайте отново";
+"consent_loading_error_title" = "Неуспешно зареждане на съдържанието";
+"consent_prompt_button_primary" = "Да, не ме проверявайте";
+"consent_prompt_button_secondary" = "Прегледайте отново";
+"consent_prompt_no_consent_detail" = "Ако не приемете декларациите за поверителност и общите условия на Onfido, няма да можем да потвърдим самоличността ви и ще излезете от тази стъпка.";
+"consent_prompt_no_consent_title" = "Сигурни ли сте?";

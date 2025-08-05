@@ -1,0 +1,18 @@
+
+"authenticatePasskey_attempts_error_button_continue" = "Nadaljuj";
+"authenticatePasskey_attempts_error_subtitle" = "Preko ključa za prijavo se ne morete več overiti.";
+"authenticatePasskey_attempts_error_title" = "Preseženo dovoljeno število poskusov";
+"authenticatePasskey_error_button_retry" = "Poskusite znova";
+"authenticatePasskey_error_subtitle" = "Prišlo je do neznane tehnične težave, prosimo poskusite znova.";
+"authenticatePasskey_error_title" = "Nekaj je šlo narobe";
+"authenticatePasskey_introduction_bullet_1" = "V preteklosti ste morali pri nas ustvariti ključ za prijavo.";
+"authenticatePasskey_introduction_bullet_2" = "Vaša naprava vas bo vodila skozi naslednje korake.";
+"authenticatePasskey_introduction_button_start_authenticating" = "Overi";
+"authenticatePasskey_introduction_subtitle" = "Ključi za prijavo vam omogočajo varno prijavo z uporabo prstnega odtisa, obraza ali zaklepa zaslona naprave.";
+"authenticatePasskey_introduction_title" = "Overite se s svojo Passkey";
+"authenticatePasskey_no_passkey_available_error_button_continue" = "Nadaljuj";
+"authenticatePasskey_no_passkey_available_error_subtitle" = "Nimate razpoložljivega ključa za preverjanje pristnosti.";
+"authenticatePasskey_no_passkey_available_error_title" = "Ni na voljo nobenega ključa za dostop";
+"authenticatePasskey_not_supported_error_button_continue" = "Nadaljuj";
+"authenticatePasskey_not_supported_error_subtitle" = "Žal tega opravila ne morete dokončati.";
+"authenticatePasskey_not_supported_error_title" = "Naprava ne podpira gesel za prijavo";

@@ -1,0 +1,12 @@
+
+"shareableIdRetrieval_intro_error_action" = "Continuați";
+"shareableIdRetrieval_intro_error_subtitle" = "Nu aveți o cheie de acces recunoscută pe dispozitivul dvs. Vă rugăm să continuați cu procesul complet.";
+"shareableIdRetrieval_intro_error_title" = "Nu s-a găsit nicio cheie de acces";
+"shareableIdRetrieval_intro_or" = "SAU";
+"shareableIdRetrieval_intro_searching" = "Căutare verificări anterioare";
+"shareableIdRetrieval_intro_start_idv_action" = "Începeți verificarea identității";
+"shareableIdRetrieval_intro_start_idv_description" = "Vom solicita unele documente și informații personale de la dvs., care ne pot ajuta să știm cine spuneți că sunteți.";
+"shareableIdRetrieval_intro_subtitle" = "Din motive de securitate și pentru a vă proteja de fraudă, trebuie să verificăm identitatea dumneavoastră.";
+"shareableIdRetrieval_intro_title" = "Verificați identitatea dvs.";
+"shareableIdRetrieval_intro_use_sid_action" = "Folosiți o verificare anterioară";
+"shareableIdRetrieval_intro_use_sid_title" = "Puteți reutiliza doar o verificare care a fost finalizată cu succes și salvată anterior.";
